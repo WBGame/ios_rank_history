@@ -1,0 +1,46 @@
+name: auto-fix
+
+on:
+  schedule:
+    - cron: '40 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: read
+
+jobs:
+  auto-fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json found, skip npm install"
+          fi
+
+      - name: Attempt auto fix
+        env:
+          GH_TOKEN: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
+          AUTOFIX_LABEL_1: autofix
+          AUTOFIX_LABEL_2: bug
+          AUTOFIX_BRANCH_PREFIX: autofix/issue-
+        run: |
+          bash scripts/auto_fix.sh

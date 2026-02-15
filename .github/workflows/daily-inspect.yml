@@ -1,0 +1,48 @@
+name: daily-inspect
+
+on:
+  schedule:
+    - cron: '10 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  inspect-and-open-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Generate daily scan report
+        env:
+          SCAN_COMMANDS_FROM_VAR: ${{ vars.SCAN_COMMANDS }}
+        run: |
+          if [ -n "${SCAN_COMMANDS_FROM_VAR}" ]; then
+            export SCAN_COMMANDS="${SCAN_COMMANDS_FROM_VAR}"
+          else
+            export SCAN_COMMANDS=$'node -v\nnpm -v\nif [ -f package-lock.json ]; then npm ci; else npm install; fi\nnpm run lint --if-present\nnpm test --if-present\nnpm run build --if-present\nnpm run sync:ios-rank --if-present\nnpm run rank:daily --if-present'
+          fi
+          bash scripts/daily_scan.sh daily-report.md
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-report
+          path: daily-report.md
+
+      - name: Create or update improvement issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TITLE_PREFIX: '[Daily Improvement]'
+          ISSUE_LABELS: 'daily-check,improvement,ios-rank'
+        run: |
+          bash scripts/create_improvement_issue.sh daily-report.md

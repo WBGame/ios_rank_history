@@ -1,0 +1,21 @@
+name: Bug (AutoFix)
+description: Create a bug issue that can be picked by auto-fix workflow
+title: "[Bug] "
+labels: ["bug", "autofix"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the bug and expected behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: autofix
+    attributes:
+      label: Auto Fix Command
+      description: One command in backticks, e.g. `npm run lint -- --fix && npm test`
+      placeholder: "`npm run lint -- --fix && npm test`"
+    validations:
+      required: true

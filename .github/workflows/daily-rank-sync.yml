@@ -1,0 +1,52 @@
+name: daily-rank-sync
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync-ios-rank:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Run daily rank sync
+        run: |
+          npm run sync:ios-rank --if-present
+          npm run rank:daily --if-present
+
+      - name: Create pull request for rank data update
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
+          branch: chore/daily-rank-${{ github.run_id }}
+          commit-message: 'chore: update ios daily rank data'
+          title: 'chore: iOS daily rank update'
+          body: |
+            Automated daily iOS ranking data update.
+            - Workflow: daily-rank-sync
+            - Run ID: ${{ github.run_id }}
+          labels: |
+            automation
+            ios-rank
+            data-update

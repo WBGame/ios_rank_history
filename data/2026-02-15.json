@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-15",
+  "country": "cn",
+  "feedType": "topfreeapplications",
+  "limit": 100,
+  "source": "https://rss.applemarketingtools.com/api/v2/cn/apps/topfreeapplications/100/apps.json",
+  "total": 2,
+  "items": [
+    {
+      "date": "2026-02-15",
+      "rank": 1,
+      "id": "0000000001",
+      "name": "Sample App 1",
+      "artistName": "Sample Studio",
+      "kind": "iosSoftware",
+      "releaseDate": "2026-01-01",
+      "artworkUrl100": "https://example.com/app1.png",
+      "url": "https://apps.apple.com/app/id0000000001"
+    },
+    {
+      "date": "2026-02-15",
+      "rank": 2,
+      "id": "0000000002",
+      "name": "Sample App 2",
+      "artistName": "Sample Studio",
+      "kind": "iosSoftware",
+      "releaseDate": "2026-01-02",
+      "artworkUrl100": "https://example.com/app2.png",
+      "url": "https://apps.apple.com/app/id0000000002"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ios-rank-history",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Daily iOS ranking fetcher and history tracker",
+  "type": "module",
+  "scripts": {
+    "sync:ios-rank": "node src/sync-ios-rank.mjs",
+    "rank:daily": "node src/generate-daily-report.mjs",
+    "build": "node -e \"console.log('no build step')\"",
+    "test": "node --test",
+    "lint": "node -e \"console.log('no lint step')\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
