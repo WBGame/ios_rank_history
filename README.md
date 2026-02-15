@@ -30,3 +30,18 @@ Workflows installed:
 - `.github/workflows/daily-inspect.yml`
 - `.github/workflows/daily-rank-sync.yml`
 - `.github/workflows/auto-fix.yml`
+- `.github/workflows/auto-merge-low-risk.yml`
+
+## Automation controls
+
+- Low-risk auto-merge:
+  - PR with labels `low-risk` + `automerge` will enable GitHub auto-merge (squash).
+  - `daily-rank-sync` PRs are labeled automatically.
+
+- Auto-fix circuit breaker:
+  - Failed auto-fix attempts will add labels `autofix-failed-1`, `autofix-failed-2`, ...
+  - When reaching `AUTOFIX_MAX_FAILURES` (default `3`), issue gets `autofix-blocked`.
+
+- Webhook notifications:
+  - Set `NOTIFY_WEBHOOK_URL` in repository Secrets.
+  - Optional variable `NOTIFY_PROVIDER` in repository Variables: `feishu` / `wecom` / `slack`.

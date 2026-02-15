@@ -36,6 +36,7 @@ jobs:
           npm run rank:daily --if-present
 
       - name: Create pull request for rank data update
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
@@ -50,3 +51,19 @@ jobs:
             automation
             ios-rank
             data-update
+            low-risk
+            automerge
+
+      - name: Notify webhook
+        if: always()
+        env:
+          NOTIFY_WEBHOOK_URL: ${{ secrets.NOTIFY_WEBHOOK_URL }}
+          NOTIFY_PROVIDER: ${{ vars.NOTIFY_PROVIDER || 'feishu' }}
+          NOTIFY_STATUS: ${{ job.status }}
+          NOTIFY_TITLE: daily-rank-sync
+          NOTIFY_MESSAGE: >-
+            repository=${{ github.repository }}
+            run=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            pr=${{ steps.cpr.outputs.pull-request-number || 'none' }}
+        run: |
+          bash scripts/notify_webhook.sh

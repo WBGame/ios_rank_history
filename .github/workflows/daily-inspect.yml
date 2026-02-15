@@ -46,3 +46,16 @@ jobs:
           ISSUE_LABELS: 'daily-check,improvement,ios-rank'
         run: |
           bash scripts/create_improvement_issue.sh daily-report.md
+
+      - name: Notify webhook
+        if: always()
+        env:
+          NOTIFY_WEBHOOK_URL: ${{ secrets.NOTIFY_WEBHOOK_URL }}
+          NOTIFY_PROVIDER: ${{ vars.NOTIFY_PROVIDER || 'feishu' }}
+          NOTIFY_STATUS: ${{ job.status }}
+          NOTIFY_TITLE: daily-inspect
+          NOTIFY_MESSAGE: >-
+            repository=${{ github.repository }}
+            run=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          bash scripts/notify_webhook.sh

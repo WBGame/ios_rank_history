@@ -5,6 +5,10 @@ on:
     - cron: '40 1 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: auto-fix-${{ github.ref }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pull-requests: write
@@ -37,10 +41,26 @@ jobs:
           fi
 
       - name: Attempt auto fix
+        id: autofix
         env:
           GH_TOKEN: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
           AUTOFIX_LABEL_1: autofix
           AUTOFIX_LABEL_2: bug
           AUTOFIX_BRANCH_PREFIX: autofix/issue-
+          AUTOFIX_MAX_FAILURES: ${{ vars.AUTOFIX_MAX_FAILURES || '3' }}
         run: |
           bash scripts/auto_fix.sh
+
+      - name: Notify webhook
+        if: always()
+        env:
+          NOTIFY_WEBHOOK_URL: ${{ secrets.NOTIFY_WEBHOOK_URL }}
+          NOTIFY_PROVIDER: ${{ vars.NOTIFY_PROVIDER || 'feishu' }}
+          NOTIFY_STATUS: ${{ job.status }}
+          NOTIFY_TITLE: auto-fix
+          NOTIFY_MESSAGE: >-
+            repository=${{ github.repository }}
+            run=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            outcome=${{ steps.autofix.outcome }}
+        run: |
+          bash scripts/notify_webhook.sh
