@@ -1,7 +1,7 @@
 name: Bug (AutoFix)
 description: Create a bug issue that can be picked by auto-fix workflow
 title: "[Bug] "
-labels: ["bug", "autofix"]
+labels: ["bug"]
 body:
   - type: textarea
     id: problem

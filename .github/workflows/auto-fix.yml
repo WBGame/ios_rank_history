@@ -44,8 +44,8 @@ jobs:
         id: autofix
         env:
           GH_TOKEN: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
-          AUTOFIX_LABEL_1: autofix
-          AUTOFIX_LABEL_2: bug
+          AUTOFIX_LABEL_1: bug
+          AUTOFIX_LABEL_2: ''
           AUTOFIX_BRANCH_PREFIX: autofix/issue-
           AUTOFIX_MAX_FAILURES: ${{ vars.AUTOFIX_MAX_FAILURES || '3' }}
         run: |

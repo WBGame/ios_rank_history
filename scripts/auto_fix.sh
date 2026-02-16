@@ -13,19 +13,22 @@ if ! command -v gh >/dev/null 2>&1; then
   exit 1
 fi
 
-issue_json="$(gh issue list \
-  --state open \
-  --label "${REQUIRED_LABEL_1}" \
-  --label "${REQUIRED_LABEL_2}" \
-  --limit 1 \
-  --json number,title,body,url)"
+issue_query=(gh issue list --state open --label "${REQUIRED_LABEL_1}" --limit 1 --json number,title,body,url)
+if [[ -n "${REQUIRED_LABEL_2}" ]]; then
+  issue_query+=(--label "${REQUIRED_LABEL_2}")
+fi
+issue_json="$("${issue_query[@]}")"
 
 issue_number="$(echo "${issue_json}" | jq -r '.[0].number // empty')"
 issue_title="$(echo "${issue_json}" | jq -r '.[0].title // empty')"
 issue_body="$(echo "${issue_json}" | jq -r '.[0].body // empty')"
 
 if [[ -z "${issue_number}" ]]; then
-  echo "no open issues with labels ${REQUIRED_LABEL_1}+${REQUIRED_LABEL_2}"
+  if [[ -n "${REQUIRED_LABEL_2}" ]]; then
+    echo "no open issues with labels ${REQUIRED_LABEL_1}+${REQUIRED_LABEL_2}"
+  else
+    echo "no open issues with label ${REQUIRED_LABEL_1}"
+  fi
   exit 0
 fi
 
@@ -106,8 +109,6 @@ gh pr create \
   --base "${default_branch}" \
   --head "${branch}" \
   --title "fix: auto-resolve #${issue_number}" \
-  --label "autofix" \
-  --label "needs-review" \
   --body "Automated fix attempt for #${issue_number}.\n\n- Source issue: #${issue_number}\n- Strategy: execute command from issue field **Auto Fix Command**"
 
 for i in $(seq 1 "${MAX_FAILURES}"); do

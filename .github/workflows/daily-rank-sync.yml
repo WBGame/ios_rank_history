@@ -48,11 +48,7 @@ jobs:
             - Workflow: daily-rank-sync
             - Run ID: ${{ github.run_id }}
           labels: |
-            automation
-            ios-rank
-            data-update
-            low-risk
-            automerge
+            enhancement
 
       - name: Notify webhook
         if: always()

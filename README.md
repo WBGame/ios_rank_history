@@ -35,10 +35,10 @@ Workflows installed:
 ## Automation controls
 
 - Low-risk auto-merge:
-  - PR with labels `low-risk` + `automerge` will enable GitHub auto-merge (squash).
-  - `daily-rank-sync` PRs are labeled automatically.
+  - `daily-rank-sync` generated PRs (title starts with `chore: iOS daily rank update`) will enable GitHub auto-merge (squash).
 
 - Auto-fix circuit breaker:
+  - Auto-fix now scans `bug` issues by default (no custom label dependency).
   - Failed auto-fix attempts will add labels `autofix-failed-1`, `autofix-failed-2`, ...
   - When reaching `AUTOFIX_MAX_FAILURES` (default `3`), issue gets `autofix-blocked`.
 

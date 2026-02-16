@@ -12,8 +12,8 @@ jobs:
   enable-automerge:
     if: >-
       github.event.pull_request.draft == false &&
-      contains(github.event.pull_request.labels.*.name, 'low-risk') &&
-      contains(github.event.pull_request.labels.*.name, 'automerge')
+      startsWith(github.event.pull_request.title, 'chore: iOS daily rank update') &&
+      github.event.pull_request.user.login == 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

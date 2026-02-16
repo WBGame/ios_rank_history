@@ -43,7 +43,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TITLE_PREFIX: '[Daily Improvement]'
-          ISSUE_LABELS: 'daily-check,improvement,ios-rank'
+          ISSUE_LABELS: 'enhancement'
         run: |
           bash scripts/create_improvement_issue.sh daily-report.md
 
