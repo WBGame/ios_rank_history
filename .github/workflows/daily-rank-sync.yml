@@ -37,7 +37,7 @@ jobs:
 
       - name: Create pull request for rank data update
         id: cpr
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
           branch: chore/daily-rank-${{ github.run_id }}
