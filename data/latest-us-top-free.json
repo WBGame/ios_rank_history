@@ -132,17 +132,6 @@
     {
       "date": "2026-02-17",
       "rank": 12,
-      "id": "6751056652",
-      "name": "Pixel Flow!",
-      "artistName": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "kind": "Games",
-      "releaseDate": "2025-08-17T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/fd/7e/e4fd7e0d-446f-9fd0-6b78-1f3bc8347ff7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/pixel-flow/id6751056652?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 13,
       "id": "6739554056",
       "name": "Kingshot",
       "artistName": "Century Games Pte. Ltd.",
@@ -150,6 +139,17 @@
       "releaseDate": "2025-02-22T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/48/98/494898b6-c6a4-42ab-01e9-c50cc73322ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/kingshot/id6739554056?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 13,
+      "id": "6751056652",
+      "name": "Pixel Flow!",
+      "artistName": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "kind": "Games",
+      "releaseDate": "2025-08-17T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/0c/1e/120c1e50-376b-0dc5-ae3c-6099a34b067c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/pixel-flow/id6751056652?uo=2"
     },
     {
       "date": "2026-02-17",
@@ -165,17 +165,6 @@
     {
       "date": "2026-02-17",
       "rank": 15,
-      "id": "6745120053",
-      "name": "Imposter Game - Party Edition",
-      "artistName": "Sven Vucak",
-      "kind": "Games",
-      "releaseDate": "2025-05-18T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/5b/57/5f5b5716-3211-1083-7242-47e4a85f417c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/imposter-game-party-edition/id6745120053?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 16,
       "id": "6483539426",
       "name": "Fortnite",
       "artistName": "Epic Games Inc.",
@@ -183,6 +172,17 @@
       "releaseDate": "2025-05-20T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/73/2d/ef732d0a-542b-5836-7969-f13bff36a938/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/fortnite/id6483539426?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 16,
+      "id": "6745120053",
+      "name": "Imposter Game - Party Edition",
+      "artistName": "Sven Vucak",
+      "kind": "Games",
+      "releaseDate": "2025-05-18T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/5b/57/5f5b5716-3211-1083-7242-47e4a85f417c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/imposter-game-party-edition/id6745120053?uo=2"
     },
     {
       "date": "2026-02-17",
@@ -209,17 +209,6 @@
     {
       "date": "2026-02-17",
       "rank": 19,
-      "id": "6749456493",
-      "name": "Brilliant Sort: Diamond Puzzle",
-      "artistName": "Samfinaco LLC",
-      "kind": "Games",
-      "releaseDate": "2025-09-11T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/c2/11/44c21130-c411-ff8c-31c7-3d2dc2945960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/brilliant-sort-diamond-puzzle/id6749456493?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 20,
       "id": "1621328561",
       "name": "MONOPOLY GO!",
       "artistName": "Scopely, Inc.",
@@ -227,6 +216,17 @@
       "releaseDate": "2023-04-11T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/7f/fa/f17ffa0e-a621-913c-e8f6-4fea4416c2de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/monopoly-go/id1621328561?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 20,
+      "id": "6749456493",
+      "name": "Brilliant Sort: Diamond Puzzle",
+      "artistName": "Samfinaco LLC",
+      "kind": "Games",
+      "releaseDate": "2025-09-11T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/c2/11/44c21130-c411-ff8c-31c7-3d2dc2945960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/brilliant-sort-diamond-puzzle/id6749456493?uo=2"
     },
     {
       "date": "2026-02-17",
@@ -242,17 +242,6 @@
     {
       "date": "2026-02-17",
       "rank": 22,
-      "id": "698255242",
-      "name": "Geometry Dash Lite",
-      "artistName": "RobTop Games AB",
-      "kind": "Games",
-      "releaseDate": "2013-09-12T15:51:56-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/08/7f/2a087f71-90d8-b8a0-7f4d-97a0c35e2194/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 23,
       "id": "1482155847",
       "name": "Royal Match",
       "artistName": "Dream Games",
@@ -263,13 +252,24 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 24,
-      "id": "1602508478",
-      "name": "Word Search Explorer®",
-      "artistName": "PlaySimple Games Pte Ltd",
+      "rank": 23,
+      "id": "698255242",
+      "name": "Geometry Dash Lite",
+      "artistName": "RobTop Games AB",
       "kind": "Games",
-      "releaseDate": "2023-02-11T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a4/a2/3ba4a2d3-80be-148e-1ccb-68a4d0029191/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "releaseDate": "2013-09-12T15:51:56-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/08/7f/2a087f71-90d8-b8a0-7f4d-97a0c35e2194/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 24,
+      "id": "512939461",
+      "name": "Subway Surfers",
+      "artistName": "Sybo Games ApS",
+      "kind": "Games",
+      "releaseDate": "2012-05-24T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/fe/37/acfe372d-b304-c2a4-5ac1-b374d00b84d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
@@ -286,6 +286,17 @@
     {
       "date": "2026-02-17",
       "rank": 26,
+      "id": "1602508478",
+      "name": "Word Search Explorer®",
+      "artistName": "PlaySimple Games Pte Ltd",
+      "kind": "Games",
+      "releaseDate": "2023-02-11T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a4/a2/3ba4a2d3-80be-148e-1ccb-68a4d0029191/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 27,
       "id": "1443446174",
       "name": "Magic Tiles 3: Piano Game",
       "artistName": "Amanotes Pte. Ltd.",
@@ -296,40 +307,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 27,
-      "id": "512939461",
-      "name": "Subway Surfers",
-      "artistName": "Sybo Games ApS",
-      "kind": "Games",
-      "releaseDate": "2012-05-24T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/fe/37/acfe372d-b304-c2a4-5ac1-b374d00b84d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
       "rank": 28,
-      "id": "6754243057",
-      "name": "Arrow Out",
-      "artistName": "Lion Studios Plus",
-      "kind": "Games",
-      "releaseDate": "2025-10-26T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f8/45/07f845e1-c9c6-1fb8-6ff0-b09a80276ff6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/arrow-out/id6754243057?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 29,
-      "id": "6756989323",
-      "name": "Last Asylum: Plague",
-      "artistName": "WISENESS GAME ONLINE INTERNATIONAL LTD",
-      "kind": "Games",
-      "releaseDate": "2026-02-11T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/e9/66/4ae966d3-c4b5-4666-9404-df34644bd412/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/last-asylum-plague/id6756989323?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 30,
       "id": "6443575749",
       "name": "Whiteout Survival",
       "artistName": "Century Games Pte. Ltd.",
@@ -340,14 +318,36 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 31,
-      "id": "6504324020",
-      "name": "Hexa Away",
-      "artistName": "GOODROID,Inc.",
+      "rank": 29,
+      "id": "6754243057",
+      "name": "Arrow Out",
+      "artistName": "Lion Studios Plus",
       "kind": "Games",
-      "releaseDate": "2024-06-18T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c2/53/3bc2532d-c1d0-35cd-ed6d-74cec081a50e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/hexa-away/id6504324020?uo=2"
+      "releaseDate": "2025-10-26T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f8/45/07f845e1-c9c6-1fb8-6ff0-b09a80276ff6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/arrow-out/id6754243057?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 30,
+      "id": "6756989323",
+      "name": "Last Asylum: Plague",
+      "artistName": "WISENESS GAME ONLINE INTERNATIONAL LTD",
+      "kind": "Games",
+      "releaseDate": "2026-02-11T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/e9/66/4ae966d3-c4b5-4666-9404-df34644bd412/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/last-asylum-plague/id6756989323?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 31,
+      "id": "1606549505",
+      "name": "Royal Kingdom",
+      "artistName": "Dream Games",
+      "kind": "Games",
+      "releaseDate": "2024-11-21T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/4c/af/6d4caf20-39d3-6867-a79b-debafa610cbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/royal-kingdom/id1606549505?uo=2"
     },
     {
       "date": "2026-02-17",
@@ -363,28 +363,17 @@
     {
       "date": "2026-02-17",
       "rank": 33,
-      "id": "1606549505",
-      "name": "Royal Kingdom",
-      "artistName": "Dream Games",
+      "id": "6504324020",
+      "name": "Hexa Away",
+      "artistName": "GOODROID,Inc.",
       "kind": "Games",
-      "releaseDate": "2024-11-21T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/4c/af/6d4caf20-39d3-6867-a79b-debafa610cbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/royal-kingdom/id1606549505?uo=2"
+      "releaseDate": "2024-06-18T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c2/53/3bc2532d-c1d0-35cd-ed6d-74cec081a50e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/hexa-away/id6504324020?uo=2"
     },
     {
       "date": "2026-02-17",
       "rank": 34,
-      "id": "1595314851",
-      "name": "Lamar - Idle Vlogger",
-      "artistName": "Crazy Labs",
-      "kind": "Games",
-      "releaseDate": "2021-12-20T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ec/58/edec58e1-21f9-d5f9-e525-1b83ae7903fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/lamar-idle-vlogger/id1595314851?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 35,
       "id": "1287282214",
       "name": "Call of Duty®: Mobile",
       "artistName": "Activision Publishing, Inc.",
@@ -392,6 +381,17 @@
       "releaseDate": "2019-09-30T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/f6/aa/73f6aa64-d3a4-4448-d36d-25b41582ec06/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 35,
+      "id": "1595314851",
+      "name": "Lamar - Idle Vlogger",
+      "artistName": "Crazy Labs",
+      "kind": "Games",
+      "releaseDate": "2021-12-20T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ec/58/edec58e1-21f9-d5f9-e525-1b83ae7903fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/lamar-idle-vlogger/id1595314851?uo=2"
     },
     {
       "date": "2026-02-17",
@@ -418,6 +418,17 @@
     {
       "date": "2026-02-17",
       "rank": 38,
+      "id": "1229016807",
+      "name": "Brawl Stars",
+      "artistName": "Supercell",
+      "kind": "Games",
+      "releaseDate": "2018-12-13T01:14:36-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/e0/90/27e090b3-46c8-2ff8-85b1-30dc2618584f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 39,
       "id": "1053012308",
       "name": "Clash Royale",
       "artistName": "Supercell",
@@ -428,7 +439,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 39,
+      "rank": 40,
       "id": "543186831",
       "name": "8 Ball Pool™",
       "artistName": "Miniclip.com",
@@ -439,29 +450,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 40,
-      "id": "6471045672",
-      "name": "Tasty Travels: Merge Game",
-      "artistName": "Century Games Pte. Ltd.",
-      "kind": "Games",
-      "releaseDate": "2024-04-11T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ba/43/a2ba4369-63df-4148-32ac-b6c973daa8e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=2"
-    },
-    {
-      "date": "2026-02-17",
       "rank": 41,
-      "id": "6451399876",
-      "name": "Delta Force",
-      "artistName": "Level Infinite",
-      "kind": "Games",
-      "releaseDate": "2025-04-21T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/89/93/93899335-6641-bc36-d3f8-902ed929b8ea/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/delta-force/id6451399876?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 42,
       "id": "1589643727",
       "name": "Solitaire Clash: Win Real Cash",
       "artistName": "Aviagames Inc.",
@@ -472,24 +461,35 @@
     },
     {
       "date": "2026-02-17",
+      "rank": 42,
+      "id": "6451399876",
+      "name": "Delta Force",
+      "artistName": "Level Infinite",
+      "kind": "Games",
+      "releaseDate": "2025-04-21T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/89/93/93899335-6641-bc36-d3f8-902ed929b8ea/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/delta-force/id6451399876?uo=2"
+    },
+    {
+      "date": "2026-02-17",
       "rank": 43,
+      "id": "6471045672",
+      "name": "Tasty Travels: Merge Game",
+      "artistName": "Century Games Pte. Ltd.",
+      "kind": "Games",
+      "releaseDate": "2024-04-11T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ba/43/a2ba4369-63df-4148-32ac-b6c973daa8e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 44,
       "id": "6498883328",
       "name": "Tile Explorer: Tiles Clear!",
       "artistName": "Oakever Games",
       "kind": "Games",
       "releaseDate": "2024-05-17T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/e7/6a/33e76ad2-e095-43d6-5b42-4a023db10018/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 44,
-      "id": "1229016807",
-      "name": "Brawl Stars",
-      "artistName": "Supercell",
-      "kind": "Games",
-      "releaseDate": "2018-12-13T01:14:36-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/e0/90/27e090b3-46c8-2ff8-85b1-30dc2618584f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "url": ""
     },
     {
@@ -528,17 +528,6 @@
     {
       "date": "2026-02-17",
       "rank": 48,
-      "id": "6755183085",
-      "name": "Yarn Flow",
-      "artistName": "Combo Games",
-      "kind": "Games",
-      "releaseDate": "2025-11-21T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/7b/6f/e67b6f51-2cfe-73fd-c09e-55c3a347c48e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/yarn-flow/id6755183085?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 49,
       "id": "6744304405",
       "name": "Cider Casino - Real Money",
       "artistName": "Mystic Mirror Studio Limited",
@@ -546,6 +535,17 @@
       "releaseDate": "2025-09-25T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/fc/6a/dafc6ab5-d1f5-dd8d-7ee2-650d38ea675b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/cider-casino-real-money/id6744304405?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 49,
+      "id": "6755183085",
+      "name": "Yarn Flow",
+      "artistName": "Combo Games",
+      "kind": "Games",
+      "releaseDate": "2025-11-21T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/7b/6f/e67b6f51-2cfe-73fd-c09e-55c3a347c48e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/yarn-flow/id6755183085?uo=2"
     },
     {
       "date": "2026-02-17",
@@ -583,28 +583,6 @@
     {
       "date": "2026-02-17",
       "rank": 53,
-      "id": "6745003362",
-      "name": "Word Oasis: Calm Puzzle Game",
-      "artistName": "Oasis Games LTD",
-      "kind": "Games",
-      "releaseDate": "2025-06-05T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d9/e6/35d9e681-ed5b-1f01-f188-a13fa8ce84aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/word-oasis-calm-puzzle-game/id6745003362?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 54,
-      "id": "1512834505",
-      "name": "Wavelength",
-      "artistName": "Palm Court LLC",
-      "kind": "Games",
-      "releaseDate": "2022-02-09T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/30/d5/3130d5ab-2789-87e5-4e31-1e34f9c50677/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 55,
       "id": "6471572249",
       "name": "Fruit Merge™: Match Game",
       "artistName": "Brave HK Limited",
@@ -615,7 +593,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 56,
+      "rank": 54,
       "id": "329218549",
       "name": "Chess - Play & Learn Online",
       "artistName": "Chess.com",
@@ -626,7 +604,40 @@
     },
     {
       "date": "2026-02-17",
+      "rank": 55,
+      "id": "6503272652",
+      "name": "Last Z: Survival Shooter",
+      "artistName": "Florere Game Limited",
+      "kind": "Games",
+      "releaseDate": "2025-04-24T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f3/36/9ef336c6-bccf-c932-a085-abb660add3c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 56,
+      "id": "6745003362",
+      "name": "Word Oasis: Calm Puzzle Game",
+      "artistName": "Oasis Games LTD",
+      "kind": "Games",
+      "releaseDate": "2025-06-05T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d9/e6/35d9e681-ed5b-1f01-f188-a13fa8ce84aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/word-oasis-calm-puzzle-game/id6745003362?uo=2"
+    },
+    {
+      "date": "2026-02-17",
       "rank": 57,
+      "id": "1512834505",
+      "name": "Wavelength",
+      "artistName": "Palm Court LLC",
+      "kind": "Games",
+      "releaseDate": "2022-02-09T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/30/d5/3130d5ab-2789-87e5-4e31-1e34f9c50677/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 58,
       "id": "6746465127",
       "name": "Cell Survivor - Shoot Defense",
       "artistName": "Snap Brain Games",
@@ -637,7 +648,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 58,
+      "rank": 59,
       "id": "6751921248",
       "name": "Rips by Triumph",
       "artistName": "Triumph Arcade",
@@ -648,7 +659,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 59,
+      "rank": 60,
       "id": "1366478176",
       "name": "Meta Horizon",
       "artistName": "Meta Platforms, Inc.",
@@ -659,7 +670,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 60,
+      "rank": 61,
       "id": "1423046460",
       "name": "Paper.io 2",
       "artistName": "Voodoo",
@@ -670,18 +681,18 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 61,
-      "id": "1643509748",
-      "name": "Merge Cooking®",
-      "artistName": "Happibits",
+      "rank": 62,
+      "id": "1446254576",
+      "name": "Solitaire Cash",
+      "artistName": "Papaya Gaming",
       "kind": "Games",
-      "releaseDate": "2022-09-19T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/c2/bc/b2c2bc2f-4f3a-fd34-bb93-b05c9ca0fbbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/merge-cooking/id1643509748?uo=2"
+      "releaseDate": "2018-12-28T20:56:52-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/ff/57/e9ff57b4-9526-c55d-8431-608de9a9670c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/solitaire-cash/id1446254576?uo=2"
     },
     {
       "date": "2026-02-17",
-      "rank": 62,
+      "rank": 63,
       "id": "6741408932",
       "name": "Jigsolitaire",
       "artistName": "GAMINCAT, INC.",
@@ -689,17 +700,6 @@
       "releaseDate": "2025-03-07T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/12/63/a3126383-0114-e00c-82a0-9c39e7d62ebe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/jigsolitaire/id6741408932?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 63,
-      "id": "6503272652",
-      "name": "Last Z: Survival Shooter",
-      "artistName": "Florere Game Limited",
-      "kind": "Games",
-      "releaseDate": "2025-04-24T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f3/36/9ef336c6-bccf-c932-a085-abb660add3c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
     },
     {
       "date": "2026-02-17",
@@ -715,6 +715,17 @@
     {
       "date": "2026-02-17",
       "rank": 65,
+      "id": "1643509748",
+      "name": "Merge Cooking®",
+      "artistName": "Happibits",
+      "kind": "Games",
+      "releaseDate": "2022-09-19T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/c2/bc/b2c2bc2f-4f3a-fd34-bb93-b05c9ca0fbbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/merge-cooking/id1643509748?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 66,
       "id": "1484468651",
       "name": "Dice Dreams™",
       "artistName": "SuperPlay",
@@ -725,29 +736,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 66,
-      "id": "1446254576",
-      "name": "Solitaire Cash",
-      "artistName": "Papaya Gaming",
-      "kind": "Games",
-      "releaseDate": "2018-12-28T20:56:52-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/ff/57/e9ff57b4-9526-c55d-8431-608de9a9670c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/solitaire-cash/id1446254576?uo=2"
-    },
-    {
-      "date": "2026-02-17",
       "rank": 67,
-      "id": "347411942",
-      "name": "Sonic The Hedgehog 2 Classic",
-      "artistName": "SEGA",
-      "kind": "Games",
-      "releaseDate": "2010-04-19T20:18:15-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ae/19/43ae196d-8ab4-6575-9eb3-b1d1a52e012c/AppIcon2-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 68,
       "id": "553834731",
       "name": "Candy Crush Saga",
       "artistName": "King",
@@ -758,18 +747,18 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 69,
-      "id": "6480174499",
-      "name": "TDS - Tower Destiny Survive",
-      "artistName": "SayGames LTD",
+      "rank": 68,
+      "id": "347411942",
+      "name": "Sonic The Hedgehog 2 Classic",
+      "artistName": "SEGA",
       "kind": "Games",
-      "releaseDate": "2024-07-22T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/fb/36/1ffb36d0-978b-f8d9-109b-39d130e39ea9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "releaseDate": "2010-04-19T20:18:15-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ae/19/43ae196d-8ab4-6575-9eb3-b1d1a52e012c/AppIcon2-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
       "date": "2026-02-17",
-      "rank": 70,
+      "rank": 69,
       "id": "6754900673",
       "name": "Jigsawcard Solitaire Puzzle",
       "artistName": "Oakever Games",
@@ -780,7 +769,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 71,
+      "rank": 70,
       "id": "6754549880",
       "name": "Perfect Makeover Cleaning ASMR",
       "artistName": "HMBL APPS",
@@ -791,62 +780,18 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 72,
-      "id": "1638139403",
-      "name": "Block Crush！",
-      "artistName": "Wonderful Studio",
+      "rank": 71,
+      "id": "6480174499",
+      "name": "TDS - Tower Destiny Survive",
+      "artistName": "SayGames LTD",
       "kind": "Games",
-      "releaseDate": "2022-08-05T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/e6/4b/f5e64b08-f33c-4f03-4164-4a7f8092be7e/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/block-crush/id1638139403?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 73,
-      "id": "6475592923",
-      "name": "Timeline Up!",
-      "artistName": "Rollic Games",
-      "kind": "Games",
-      "releaseDate": "2024-01-24T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/05/56/5a05569e-2f5f-9fca-6ea5-0d5881caa568/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "releaseDate": "2024-07-22T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/fb/36/1ffb36d0-978b-f8d9-109b-39d130e39ea9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
       "date": "2026-02-17",
-      "rank": 74,
-      "id": "1193508329",
-      "name": "Sudoku.com - Number Games",
-      "artistName": "Easybrain Ltd",
-      "kind": "Games",
-      "releaseDate": "2017-03-30T02:32:35-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/1a/1e/391a1e80-b8b1-0499-5bff-6f712d99688c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/sudoku-com-number-games/id1193508329?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 75,
-      "id": "6739069151",
-      "name": "Crossword Go!",
-      "artistName": "PlaySimple Games Pte Ltd",
-      "kind": "Games",
-      "releaseDate": "2024-12-10T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/67/9a/7c679a1e-57e1-c97a-3b3c-cdd9af088af1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/crossword-go/id6739069151?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 76,
-      "id": "6738114176",
-      "name": "Stake US - Casino & Slots",
-      "artistName": "Sweepsteaks Limited",
-      "kind": "Games",
-      "releaseDate": "2025-02-13T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/39/79/1639797e-a27b-7bd2-4c6f-4419b8584cd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/stake-us-casino-slots/id6738114176?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 77,
+      "rank": 72,
       "id": "1660171117",
       "name": "Zen Word® - Relax Puzzle Game",
       "artistName": "Oakever Games",
@@ -857,7 +802,40 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 78,
+      "rank": 73,
+      "id": "1638139403",
+      "name": "Block Crush！",
+      "artistName": "Wonderful Studio",
+      "kind": "Games",
+      "releaseDate": "2022-08-05T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/e6/4b/f5e64b08-f33c-4f03-4164-4a7f8092be7e/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/block-crush/id1638139403?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 74,
+      "id": "6738114176",
+      "name": "Stake US - Casino & Slots",
+      "artistName": "Sweepsteaks Limited",
+      "kind": "Games",
+      "releaseDate": "2025-02-13T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/39/79/1639797e-a27b-7bd2-4c6f-4419b8584cd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/stake-us-casino-slots/id6738114176?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 75,
+      "id": "1193508329",
+      "name": "Sudoku.com - Number Games",
+      "artistName": "Easybrain Ltd",
+      "kind": "Games",
+      "releaseDate": "2017-03-30T02:32:35-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/1a/1e/391a1e80-b8b1-0499-5bff-6f712d99688c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/sudoku-com-number-games/id1193508329?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 76,
       "id": "6450917563",
       "name": "Pizza Ready!",
       "artistName": "Supercent, Inc.",
@@ -868,18 +846,29 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 79,
-      "id": "1197961218",
-      "name": "Fillwords: Word Search Puzzle",
-      "artistName": "MALPA GAMES",
+      "rank": 77,
+      "id": "6475592923",
+      "name": "Timeline Up!",
+      "artistName": "Rollic Games",
       "kind": "Games",
-      "releaseDate": "2017-02-10T00:13:12-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/44/d9/2744d99c-d119-be31-85ed-1ac3fe150a5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/fillwords-word-search-puzzle/id1197961218?uo=2"
+      "releaseDate": "2024-01-24T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/05/56/5a05569e-2f5f-9fca-6ea5-0d5881caa568/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
     },
     {
       "date": "2026-02-17",
-      "rank": 80,
+      "rank": 78,
+      "id": "6739069151",
+      "name": "Crossword Go!",
+      "artistName": "PlaySimple Games Pte Ltd",
+      "kind": "Games",
+      "releaseDate": "2024-12-10T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/67/9a/7c679a1e-57e1-c97a-3b3c-cdd9af088af1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/crossword-go/id6739069151?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 79,
       "id": "316025912",
       "name": "Sonic The Hedgehog Classic",
       "artistName": "SEGA",
@@ -890,18 +879,18 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 81,
-      "id": "307569751",
-      "name": "NYT Games: Wordle & Crossword",
-      "artistName": "The New York Times Company",
+      "rank": 80,
+      "id": "1197961218",
+      "name": "Fillwords: Word Search Puzzle",
+      "artistName": "MALPA GAMES",
       "kind": "Games",
-      "releaseDate": "2009-03-26T19:01:58-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/be/c8/86bec814-4a3f-6725-b456-4482be74b3d4/Release-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "url": ""
+      "releaseDate": "2017-02-10T00:13:12-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/44/d9/2744d99c-d119-be31-85ed-1ac3fe150a5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/fillwords-word-search-puzzle/id1197961218?uo=2"
     },
     {
       "date": "2026-02-17",
-      "rank": 82,
+      "rank": 81,
       "id": "6504332779",
       "name": "Color Block Jam",
       "artistName": "Rollic Games",
@@ -912,18 +901,18 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 83,
-      "id": "6738905436",
-      "name": "Lavish Luck Casino",
-      "artistName": "Prudent Owl Limited",
+      "rank": 82,
+      "id": "307569751",
+      "name": "NYT Games: Wordle & Crossword",
+      "artistName": "The New York Times Company",
       "kind": "Games",
-      "releaseDate": "2024-12-16T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/5d/b6/635db695-9d8d-a5ff-71fb-88cf3e0632ab/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/lavish-luck-casino/id6738905436?uo=2"
+      "releaseDate": "2009-03-26T19:01:58-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/be/c8/86bec814-4a3f-6725-b456-4482be74b3d4/Release-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": ""
     },
     {
       "date": "2026-02-17",
-      "rank": 84,
+      "rank": 83,
       "id": "6739792763",
       "name": "Jackpot Go: Slots Casino",
       "artistName": "WISE WISHES STUDIO LIMITED",
@@ -931,6 +920,17 @@
       "releaseDate": "2025-04-02T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/b1/1b/40b11b7c-c889-12e3-3318-972ce6c40dc5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/jackpot-go-slots-casino/id6739792763?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 84,
+      "id": "6738905436",
+      "name": "Lavish Luck Casino",
+      "artistName": "Prudent Owl Limited",
+      "kind": "Games",
+      "releaseDate": "2024-12-16T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/5d/b6/635db695-9d8d-a5ff-71fb-88cf3e0632ab/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/lavish-luck-casino/id6738905436?uo=2"
     },
     {
       "date": "2026-02-17",
@@ -946,17 +946,6 @@
     {
       "date": "2026-02-17",
       "rank": 86,
-      "id": "6755425214",
-      "name": "Pocket Sort: Coin Merge Puzzle",
-      "artistName": "SayGames LTD",
-      "kind": "Games",
-      "releaseDate": "2025-11-26T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/d0/54/33d054ef-a959-9104-be65-517d4d944e3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/pocket-sort-coin-merge-puzzle/id6755425214?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 87,
       "id": "1597760047",
       "name": "OneState RP: Role Play Online",
       "artistName": "CHILLBASE LTD",
@@ -967,62 +956,18 @@
     },
     {
       "date": "2026-02-17",
+      "rank": 87,
+      "id": "6755425214",
+      "name": "Pocket Sort: Coin Merge Puzzle",
+      "artistName": "SayGames LTD",
+      "kind": "Games",
+      "releaseDate": "2025-11-26T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/d0/54/33d054ef-a959-9104-be65-517d4d944e3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/pocket-sort-coin-merge-puzzle/id6755425214?uo=2"
+    },
+    {
+      "date": "2026-02-17",
       "rank": 88,
-      "id": "1549027048",
-      "name": "Rocket League Sideswipe",
-      "artistName": "Psyonix LLC",
-      "kind": "Games",
-      "releaseDate": "2021-11-29T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/86/39/36863908-02dd-1790-3849-23128200d6ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 89,
-      "id": "1608987929",
-      "name": "Triumph: Play for Cash",
-      "artistName": "Triumph Arcade",
-      "kind": "Games",
-      "releaseDate": "2022-02-22T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/89/02/65890265-ce7b-e3ac-bcca-66afc2f41526/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 90,
-      "id": "6754191922",
-      "name": "Glory Ages - VIKINGS",
-      "artistName": "VLADISLAV VASILEV",
-      "kind": "Games",
-      "releaseDate": "2026-02-17T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/74/3e/86743e9b-6d9b-8af7-4b66-ef68bb8e014d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/glory-ages-vikings/id6754191922?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 91,
-      "id": "6744975195",
-      "name": "Sled Surfers",
-      "artistName": "Crazy Labs",
-      "kind": "Games",
-      "releaseDate": "2025-04-29T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/96/53/5c9653dd-493f-6563-a975-d2ffc7d4f9f7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/sled-surfers/id6744975195?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 92,
-      "id": "6741076536",
-      "name": "Modo Casino Slots & Games",
-      "artistName": "ARB Gaming LLC",
-      "kind": "Games",
-      "releaseDate": "2025-05-06T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/f6/76/67f676a4-d632-6110-fa9c-43f03d663d52/AppIcon2-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/modo-casino-slots-games/id6741076536?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 93,
       "id": "1521236603",
       "name": "Travel Town - Merge Adventure",
       "artistName": "Moon Active",
@@ -1033,13 +978,68 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 94,
+      "rank": 89,
+      "id": "6741076536",
+      "name": "Modo Casino Slots & Games",
+      "artistName": "ARB Gaming LLC",
+      "kind": "Games",
+      "releaseDate": "2025-05-06T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/f6/76/67f676a4-d632-6110-fa9c-43f03d663d52/AppIcon2-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/modo-casino-slots-games/id6741076536?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 90,
+      "id": "1608987929",
+      "name": "Triumph: Play for Cash",
+      "artistName": "Triumph Arcade",
+      "kind": "Games",
+      "releaseDate": "2022-02-22T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/89/02/65890265-ce7b-e3ac-bcca-66afc2f41526/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 91,
+      "id": "1549027048",
+      "name": "Rocket League Sideswipe",
+      "artistName": "Psyonix LLC",
+      "kind": "Games",
+      "releaseDate": "2021-11-29T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/86/39/36863908-02dd-1790-3849-23128200d6ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 92,
+      "id": "6744975195",
+      "name": "Sled Surfers",
+      "artistName": "Crazy Labs",
+      "kind": "Games",
+      "releaseDate": "2025-04-29T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/96/53/5c9653dd-493f-6563-a975-d2ffc7d4f9f7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/sled-surfers/id6744975195?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 93,
       "id": "6756288168",
       "name": "Cookingo: Perfect Meal",
       "artistName": "Higame Global Limited",
       "kind": "Games",
       "releaseDate": "2025-12-16T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/30/33/b33033f8-e006-17e6-75c4-9ec416f83739/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 94,
+      "id": "6448104157",
+      "name": "Offline Games - No Wifi Games",
+      "artistName": "Moreno Maio",
+      "kind": "Games",
+      "releaseDate": "2023-08-08T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2f/8c/d72f8ca5-e10b-0c7c-4a04-b90f1fbff9e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
@@ -1056,6 +1056,17 @@
     {
       "date": "2026-02-17",
       "rank": 96,
+      "id": "6754191922",
+      "name": "Glory Ages - VIKINGS",
+      "artistName": "VLADISLAV VASILEV",
+      "kind": "Games",
+      "releaseDate": "2026-02-17T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/74/3e/86743e9b-6d9b-8af7-4b66-ef68bb8e014d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/glory-ages-vikings/id6754191922?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 97,
       "id": "1604253094",
       "name": "Episode: Reality Stars",
       "artistName": "Episode Interactive",
@@ -1063,17 +1074,6 @@
       "releaseDate": "2025-12-02T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/51/b5/b151b532-6b7c-daec-b5f0-d270106ca653/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/episode-reality-stars/id1604253094?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 97,
-      "id": "6448104157",
-      "name": "Offline Games - No Wifi Games",
-      "artistName": "Moreno Maio",
-      "kind": "Games",
-      "releaseDate": "2023-08-08T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2f/8c/d72f8ca5-e10b-0c7c-4a04-b90f1fbff9e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
     },
     {
       "date": "2026-02-17",
@@ -1089,24 +1089,24 @@
     {
       "date": "2026-02-17",
       "rank": 99,
-      "id": "6590876141",
-      "name": "Color Slide - Hexa Puzzle",
-      "artistName": "SayGames LTD",
+      "id": "1330123889",
+      "name": "PUBG MOBILE",
+      "artistName": "Tencent Mobile International Limited",
       "kind": "Games",
-      "releaseDate": "2024-08-01T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ae/73/fbae7321-3905-3b3f-bdbd-624d63428e1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/color-slide-hexa-puzzle/id6590876141?uo=2"
+      "releaseDate": "2018-03-19T10:13:23-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/e5/2f/cae52f82-4e0d-b5c7-91c1-384d83e1d742/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/pubg-mobile/id1330123889?uo=2"
     },
     {
       "date": "2026-02-17",
       "rank": 100,
-      "id": "6511238101",
-      "name": "My Supermarket Simulator 3D®",
-      "artistName": "Game District LLC",
+      "id": "6738109752",
+      "name": "Tiles Survive!",
+      "artistName": "FunPlus International AG",
       "kind": "Games",
-      "releaseDate": "2024-07-05T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/2f/bd/712fbd82-3131-2131-3da8-0f157764ae26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
+      "releaseDate": "2025-07-03T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/13/5d/88135d35-45b9-e1d4-d063-0d82bf6eeadc/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/us/app/tiles-survive/id6738109752?uo=2"
     }
   ]
 }
