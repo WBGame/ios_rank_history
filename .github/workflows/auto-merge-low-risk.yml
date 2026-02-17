@@ -13,7 +13,7 @@ jobs:
     if: >-
       github.event.pull_request.draft == false &&
       startsWith(github.event.pull_request.title, 'chore: iOS daily rank update') &&
-      github.event.pull_request.user.login == 'github-actions[bot]'
+      startsWith(github.event.pull_request.head.ref, 'chore/daily-rank-')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
