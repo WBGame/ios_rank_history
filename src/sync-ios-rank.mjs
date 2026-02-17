@@ -195,10 +195,14 @@ async function main() {
 
   const dailyFile = join(DATA_DIR, `${today}.json`);
   const latestFile = join(DATA_DIR, 'latest.json');
+  const mediaDailyFile = join(DATA_DIR, `apps-${today}.json`);
+  const mediaLatestFile = join(DATA_DIR, 'apps-latest.json');
   const historyFile = join(DATA_DIR, 'history.ndjson');
 
   await writeFile(dailyFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
   await writeFile(latestFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
+  await writeFile(mediaDailyFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
+  await writeFile(mediaLatestFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
 
   for (const country of COUNTRIES) {
     const countryDatasets = datasets.filter((d) => d.country === country);
@@ -215,6 +219,16 @@ async function main() {
 
     await writeFile(join(DATA_DIR, `latest-${country}.json`), `${JSON.stringify(countryAggregate, null, 2)}\n`, 'utf8');
     await writeFile(join(DATA_DIR, `${today}-${country}.json`), `${JSON.stringify(countryAggregate, null, 2)}\n`, 'utf8');
+    await writeFile(
+      join(DATA_DIR, `apps-latest-${country}.json`),
+      `${JSON.stringify(countryAggregate, null, 2)}\n`,
+      'utf8'
+    );
+    await writeFile(
+      join(DATA_DIR, `apps-${today}-${country}.json`),
+      `${JSON.stringify(countryAggregate, null, 2)}\n`,
+      'utf8'
+    );
   }
 
   for (const dataset of datasets) {
@@ -226,6 +240,16 @@ async function main() {
     );
     await writeFile(
       join(DATA_DIR, `${today}-${dataset.country}-${feedTag}.json`),
+      `${JSON.stringify(dataset, null, 2)}\n`,
+      'utf8'
+    );
+    await writeFile(
+      join(DATA_DIR, `apps-latest-${dataset.country}-${feedTag}.json`),
+      `${JSON.stringify(dataset, null, 2)}\n`,
+      'utf8'
+    );
+    await writeFile(
+      join(DATA_DIR, `apps-${today}-${dataset.country}-${feedTag}.json`),
       `${JSON.stringify(dataset, null, 2)}\n`,
       'utf8'
     );
