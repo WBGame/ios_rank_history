@@ -31,6 +31,17 @@ jobs:
           fi
 
       - name: Run daily rank sync
+        env:
+          APPSTORE_COUNTRIES: ${{ vars.APPSTORE_COUNTRIES || 'cn,us,jp' }}
+          APPSTORE_MEDIA_TYPES: ${{ vars.APPSTORE_MEDIA_TYPES || 'apps,games' }}
+          APPSTORE_FEEDS: ${{ vars.APPSTORE_FEEDS || vars.APPSTORE_FEED || 'top-free,top-paid' }}
+          APPSTORE_FEED: ${{ vars.APPSTORE_FEED || 'top-free,top-paid' }}
+          APPSTORE_LIMIT: ${{ vars.APPSTORE_LIMIT || '100' }}
+          APPSTORE_GENRE_APPS: ${{ vars.APPSTORE_GENRE_APPS || '6000' }}
+          APPSTORE_GENRE_GAMES: ${{ vars.APPSTORE_GENRE_GAMES || '6014' }}
+          FETCH_CONCURRENCY: ${{ vars.FETCH_CONCURRENCY || '2' }}
+          FETCH_RETRIES: ${{ vars.FETCH_RETRIES || '3' }}
+          FETCH_RETRY_DELAY_MS: ${{ vars.FETCH_RETRY_DELAY_MS || '1500' }}
         run: |
           npm run sync:ios-rank --if-present
           npm run rank:daily --if-present
