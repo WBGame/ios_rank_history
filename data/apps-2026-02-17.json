@@ -5,11 +5,12 @@
     "us",
     "jp"
   ],
-  "mediaType": "apps",
+  "mediaTypes": [
+    "apps"
+  ],
   "feedTypes": [
     "top-free",
-    "top-paid",
-    "top-grossing"
+    "top-paid"
   ],
   "limit": 100,
   "totalDatasets": 6,
@@ -17,19 +18,43 @@
     {
       "ok": false,
       "country": "cn",
-      "feed": "top-grossing",
+      "mediaType": "games",
+      "feed": "top-free",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "cn",
+      "mediaType": "games",
+      "feed": "top-paid",
       "error": "Fetch failed: 404 Not Found"
     },
     {
       "ok": false,
       "country": "us",
-      "feed": "top-grossing",
+      "mediaType": "games",
+      "feed": "top-free",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "us",
+      "mediaType": "games",
+      "feed": "top-paid",
       "error": "Fetch failed: 404 Not Found"
     },
     {
       "ok": false,
       "country": "jp",
-      "feed": "top-grossing",
+      "mediaType": "games",
+      "feed": "top-free",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "jp",
+      "mediaType": "games",
+      "feed": "top-paid",
       "error": "Fetch failed: 404 Not Found"
     }
   ],

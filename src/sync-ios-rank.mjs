@@ -12,6 +12,11 @@ const COUNTRIES = (
   .filter(Boolean);
 
 const FEED_INPUT = process.env.APPSTORE_FEEDS || process.env.APPSTORE_FEED || 'top-free';
+const MEDIA_TYPES = (process.env.APPSTORE_MEDIA_TYPES || 'apps')
+  .split(',')
+  .map((v) => v.trim().toLowerCase())
+  .filter(Boolean)
+  .map((v) => (v === 'game' ? 'games' : v));
 const LIMIT = Number.parseInt(process.env.APPSTORE_LIMIT || '100', 10);
 const DATA_DIR = process.env.DATA_DIR || 'data';
 const MAX_RETRIES = Number.parseInt(process.env.FETCH_RETRIES || '3', 10);
@@ -42,10 +47,6 @@ function buildFeedCandidates(feed) {
   if (normalized.includes('toppaid')) set.add('top-paid');
   if (normalized.includes('topgrossing')) set.add('top-grossing');
   return [...set];
-}
-
-function buildFeedUrl(country, feed) {
-  return `https://rss.applemarketingtools.com/api/v2/${country}/apps/${feed}/${LIMIT}/apps.json`;
 }
 
 function fileSafeFeed(feed) {
@@ -99,14 +100,18 @@ function normalizeItems(raw) {
   }));
 }
 
-async function fetchDataset(country, feedInputItem) {
+function buildMediaFeedUrl(country, feed, mediaType) {
+  return `https://rss.applemarketingtools.com/api/v2/${country}/apps/${feed}/${LIMIT}/${mediaType}.json`;
+}
+
+async function fetchDataset(country, mediaType, feedInputItem) {
   let raw;
   let resolvedFeed = normalizeFeedAlias(feedInputItem);
   let resolvedUrl = '';
   let fetchError;
 
   for (const candidate of buildFeedCandidates(feedInputItem)) {
-    const candidateUrl = buildFeedUrl(country, candidate);
+    const candidateUrl = buildMediaFeedUrl(country, candidate, mediaType);
     try {
       raw = await fetchJson(candidateUrl);
       resolvedFeed = candidate;
@@ -118,14 +123,17 @@ async function fetchDataset(country, feedInputItem) {
   }
 
   if (!raw) {
-    throw fetchError || new Error(`failed to fetch feed=${feedInputItem} for country=${country}`);
+    throw (
+      fetchError ||
+      new Error(`failed to fetch mediaType=${mediaType} feed=${feedInputItem} for country=${country}`)
+    );
   }
 
   const items = normalizeItems(raw);
   return {
     date: today,
     country,
-    mediaType: 'apps',
+    mediaType,
     feedType: resolvedFeed,
     limit: LIMIT,
     source: resolvedUrl,
@@ -157,20 +165,23 @@ async function main() {
 
   const taskFns = [];
   for (const country of COUNTRIES) {
-    for (const feed of FEEDS) {
-      taskFns.push(async () => {
-        try {
-          const dataset = await fetchDataset(country, feed);
-          return { ok: true, country, feed, dataset };
-        } catch (err) {
-          return {
-            ok: false,
-            country,
-            feed,
-            error: err instanceof Error ? err.message : String(err)
-          };
-        }
-      });
+    for (const mediaType of MEDIA_TYPES) {
+      for (const feed of FEEDS) {
+        taskFns.push(async () => {
+          try {
+            const dataset = await fetchDataset(country, mediaType, feed);
+            return { ok: true, country, mediaType, feed, dataset };
+          } catch (err) {
+            return {
+              ok: false,
+              country,
+              mediaType,
+              feed,
+              error: err instanceof Error ? err.message : String(err)
+            };
+          }
+        });
+      }
     }
   }
 
@@ -185,7 +196,7 @@ async function main() {
   const aggregate = {
     date: today,
     countries: COUNTRIES,
-    mediaType: 'apps',
+    mediaTypes: MEDIA_TYPES,
     feedTypes: FEEDS,
     limit: LIMIT,
     totalDatasets: datasets.length,
@@ -195,40 +206,66 @@ async function main() {
 
   const dailyFile = join(DATA_DIR, `${today}.json`);
   const latestFile = join(DATA_DIR, 'latest.json');
-  const mediaDailyFile = join(DATA_DIR, `apps-${today}.json`);
-  const mediaLatestFile = join(DATA_DIR, 'apps-latest.json');
   const historyFile = join(DATA_DIR, 'history.ndjson');
 
   await writeFile(dailyFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
   await writeFile(latestFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
-  await writeFile(mediaDailyFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
-  await writeFile(mediaLatestFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
+
+  for (const mediaType of MEDIA_TYPES) {
+    const mediaDatasets = datasets.filter((d) => d.mediaType === mediaType);
+    const mediaDailyFile = join(DATA_DIR, `${mediaType}-${today}.json`);
+    const mediaLatestFile = join(DATA_DIR, `${mediaType}-latest.json`);
+    await writeFile(
+      mediaDailyFile,
+      `${JSON.stringify({ ...aggregate, mediaTypes: [mediaType], datasets: mediaDatasets }, null, 2)}\n`,
+      'utf8'
+    );
+    await writeFile(
+      mediaLatestFile,
+      `${JSON.stringify({ ...aggregate, mediaTypes: [mediaType], datasets: mediaDatasets }, null, 2)}\n`,
+      'utf8'
+    );
+  }
 
   for (const country of COUNTRIES) {
     const countryDatasets = datasets.filter((d) => d.country === country);
+    for (const mediaType of MEDIA_TYPES) {
+      const countryMediaDatasets = countryDatasets.filter((d) => d.mediaType === mediaType);
+      const countryAggregate = {
+        date: today,
+        country,
+        mediaType,
+        feedTypes: countryMediaDatasets.map((d) => d.feedType),
+        limit: LIMIT,
+        totalDatasets: countryMediaDatasets.length,
+        datasets: countryMediaDatasets
+      };
 
-    const countryAggregate = {
-      date: today,
-      country,
-      mediaType: 'apps',
-      feedTypes: countryDatasets.map((d) => d.feedType),
-      limit: LIMIT,
-      totalDatasets: countryDatasets.length,
-      datasets: countryDatasets
-    };
+      await writeFile(
+        join(DATA_DIR, `${mediaType}-latest-${country}.json`),
+        `${JSON.stringify(countryAggregate, null, 2)}\n`,
+        'utf8'
+      );
+      await writeFile(
+        join(DATA_DIR, `${mediaType}-${today}-${country}.json`),
+        `${JSON.stringify(countryAggregate, null, 2)}\n`,
+        'utf8'
+      );
 
-    await writeFile(join(DATA_DIR, `latest-${country}.json`), `${JSON.stringify(countryAggregate, null, 2)}\n`, 'utf8');
-    await writeFile(join(DATA_DIR, `${today}-${country}.json`), `${JSON.stringify(countryAggregate, null, 2)}\n`, 'utf8');
-    await writeFile(
-      join(DATA_DIR, `apps-latest-${country}.json`),
-      `${JSON.stringify(countryAggregate, null, 2)}\n`,
-      'utf8'
-    );
-    await writeFile(
-      join(DATA_DIR, `apps-${today}-${country}.json`),
-      `${JSON.stringify(countryAggregate, null, 2)}\n`,
-      'utf8'
-    );
+      // Backward compatibility for existing apps-only consumers.
+      if (mediaType === 'apps') {
+        await writeFile(
+          join(DATA_DIR, `latest-${country}.json`),
+          `${JSON.stringify(countryAggregate, null, 2)}\n`,
+          'utf8'
+        );
+        await writeFile(
+          join(DATA_DIR, `${today}-${country}.json`),
+          `${JSON.stringify(countryAggregate, null, 2)}\n`,
+          'utf8'
+        );
+      }
+    }
   }
 
   for (const dataset of datasets) {
@@ -244,12 +281,12 @@ async function main() {
       'utf8'
     );
     await writeFile(
-      join(DATA_DIR, `apps-latest-${dataset.country}-${feedTag}.json`),
+      join(DATA_DIR, `${dataset.mediaType}-latest-${dataset.country}-${feedTag}.json`),
       `${JSON.stringify(dataset, null, 2)}\n`,
       'utf8'
     );
     await writeFile(
-      join(DATA_DIR, `apps-${today}-${dataset.country}-${feedTag}.json`),
+      join(DATA_DIR, `${dataset.mediaType}-${today}-${dataset.country}-${feedTag}.json`),
       `${JSON.stringify(dataset, null, 2)}\n`,
       'utf8'
     );
@@ -293,7 +330,9 @@ async function main() {
   if (errors.length > 0) {
     console.warn(`skipped ${errors.length} failed dataset(s):`);
     for (const err of errors) {
-      console.warn(`- country=${err.country} feed=${err.feed} error=${err.error}`);
+      console.warn(
+        `- country=${err.country} mediaType=${err.mediaType} feed=${err.feed} error=${err.error}`
+      );
     }
   }
 

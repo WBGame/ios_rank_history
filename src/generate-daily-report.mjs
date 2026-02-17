@@ -8,7 +8,7 @@ const today = new Date().toISOString().slice(0, 10);
 
 function renderSection(lines, dataset) {
   lines.push(
-    `## ${dataset.country.toUpperCase()} ${dataset.feedType} Top ${Math.min(TOP_N, dataset.items.length)} Apps`
+    `## ${dataset.country.toUpperCase()} ${dataset.mediaType} ${dataset.feedType} Top ${Math.min(TOP_N, dataset.items.length)}`
   );
   lines.push('');
   lines.push(`- Total: ${dataset.total}`);
@@ -41,12 +41,14 @@ async function main() {
   });
 
   const countries = [...new Set(datasets.map((d) => String(d.country).toUpperCase()))];
+  const mediaTypes = [...new Set(datasets.map((d) => String(d.mediaType || 'apps')))];
   const feeds = [...new Set(datasets.map((d) => d.feedType))];
 
   const lines = [];
   lines.push(`# iOS Rank Daily Report (${payload.date || today})`);
   lines.push('');
   lines.push(`- Countries: ${countries.join(', ')}`);
+  lines.push(`- Media Types: ${mediaTypes.join(', ')}`);
   lines.push(`- Feeds: ${feeds.join(', ')}`);
   lines.push(`- Total datasets: ${datasets.length}`);
   lines.push('');

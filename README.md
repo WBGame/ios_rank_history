@@ -15,6 +15,7 @@ Node-based daily iOS ranking sync with GitHub automation.
 - `APPSTORE_LIMIT` (default: `100`)
 - `APPSTORE_FEED` (supports single or comma-separated feeds, e.g. `top-free,top-paid,top-grossing`)
 - `APPSTORE_FEEDS` (preferred multi-feed variable, same format as `APPSTORE_FEED`)
+- `APPSTORE_MEDIA_TYPES` (default: `apps`; can be `apps,games` for prefixed outputs)
 - `FETCH_CONCURRENCY` (default: `3`, limits simultaneous requests)
 - Unavailable feed in specific storefront will be skipped with warning, not fail the whole sync.
 - `FETCH_RETRIES` (default: `3`)
@@ -28,6 +29,7 @@ Node-based daily iOS ranking sync with GitHub automation.
 - `data/latest-us.json`
 - `data/latest-jp.json`
 - `data/latest-<country>-<feed>.json` (e.g. `latest-us-top-paid.json`)
+- `data/apps-latest*.json` and `data/games-latest*.json` (media-prefixed outputs)
 - `data/YYYY-MM-DD.json`
 - `data/YYYY-MM-DD-cn.json`
 - `data/YYYY-MM-DD-us.json`

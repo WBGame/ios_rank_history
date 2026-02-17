@@ -1,0 +1,62 @@
+{
+  "date": "2026-02-17",
+  "countries": [
+    "cn",
+    "us",
+    "jp"
+  ],
+  "mediaTypes": [
+    "games"
+  ],
+  "feedTypes": [
+    "top-free",
+    "top-paid"
+  ],
+  "limit": 100,
+  "totalDatasets": 6,
+  "warnings": [
+    {
+      "ok": false,
+      "country": "cn",
+      "mediaType": "games",
+      "feed": "top-free",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "cn",
+      "mediaType": "games",
+      "feed": "top-paid",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "us",
+      "mediaType": "games",
+      "feed": "top-free",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "us",
+      "mediaType": "games",
+      "feed": "top-paid",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "jp",
+      "mediaType": "games",
+      "feed": "top-free",
+      "error": "Fetch failed: 404 Not Found"
+    },
+    {
+      "ok": false,
+      "country": "jp",
+      "mediaType": "games",
+      "feed": "top-paid",
+      "error": "Fetch failed: 404 Not Found"
+    }
+  ],
+  "datasets": []
+}
