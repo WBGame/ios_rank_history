@@ -102,24 +102,35 @@ cp "${latest_report}" "${WIKI_DIR}/${latest_link_page}"
 if command -v jq >/dev/null 2>&1 && [[ -f "${LATEST_JSON}" ]]; then
   {
     echo
-    echo "## Top 3 Snapshot"
+    echo "## Top 10 Snapshot"
     echo
     media_types="$(jq -r '.datasets[].mediaType' "${LATEST_JSON}" | sort -u)"
     while IFS= read -r media; do
       [[ -z "${media}" ]] && continue
       echo "### ${media^^}"
       echo
-      echo "| Country | Feed | #1 | #2 | #3 |"
-      echo "| --- | --- | --- | --- | --- |"
-      jq -r --arg media "${media}" '
-        def esc: gsub("\\|"; "\\\\|");
+      jq -c --arg media "${media}" '
         .datasets
         | map(select(.mediaType == $media))
         | sort_by(.country, .feedType)
         | .[]
-        | "| \(.country|ascii_upcase) | \(.feedType) | \((.items[0].name // "-")|esc) | \((.items[1].name // "-")|esc) | \((.items[2].name // "-")|esc) |"
-      ' "${LATEST_JSON}"
-      echo
+      ' "${LATEST_JSON}" | while IFS= read -r row; do
+        country="$(printf '%s' "${row}" | jq -r '.country | ascii_upcase')"
+        feed="$(printf '%s' "${row}" | jq -r '.feedType')"
+        echo "#### ${country} · ${feed}"
+        echo
+        echo "| Rank | App |"
+        echo "| --- | --- |"
+        printf '%s' "${row}" | jq -r '
+          def esc: gsub("\\|"; "\\\\|");
+          .items
+          | to_entries
+          | .[:10]
+          | .[]
+          | "| \(.key + 1) | \(.value.name | esc) |"
+        '
+        echo
+      done
     done <<< "${media_types}"
   } >> "${WIKI_DIR}/Home.md"
 fi
