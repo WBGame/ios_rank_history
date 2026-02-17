@@ -16,6 +16,8 @@ Node-based daily iOS ranking sync with GitHub automation.
 - `APPSTORE_FEED` (supports single or comma-separated feeds, e.g. `top-free,top-paid,top-grossing`)
 - `APPSTORE_FEEDS` (preferred multi-feed variable, same format as `APPSTORE_FEED`)
 - `APPSTORE_MEDIA_TYPES` (default: `apps`; can be `apps,games` for prefixed outputs)
+- `APPSTORE_GENRE_APPS` (default: `6000`)
+- `APPSTORE_GENRE_GAMES` (default: `6014`)
 - `FETCH_CONCURRENCY` (default: `3`, limits simultaneous requests)
 - Unavailable feed in specific storefront will be skipped with warning, not fail the whole sync.
 - `FETCH_RETRIES` (default: `3`)
@@ -45,6 +47,16 @@ Workflows installed:
 - `.github/workflows/daily-rank-sync.yml`
 - `.github/workflows/auto-fix.yml`
 - `.github/workflows/auto-merge-low-risk.yml`
+
+## Data source
+
+Uses Apple iTunes RSS Feed API:
+
+`https://itunes.apple.com/{country}/rss/{type}/limit={limit}/genre={genre}/json`
+
+Example:
+
+`https://itunes.apple.com/cn/rss/topfreeapplications/limit=100/genre=6014/json`
 
 ## Automation controls
 

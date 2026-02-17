@@ -17,14 +17,14 @@ const MEDIA_TYPES = (process.env.APPSTORE_MEDIA_TYPES || 'apps')
   .map((v) => v.trim().toLowerCase())
   .filter(Boolean)
   .map((v) => (v === 'game' ? 'games' : v));
+
+const GENRE_APPS = process.env.APPSTORE_GENRE_APPS || '6000';
+const GENRE_GAMES = process.env.APPSTORE_GENRE_GAMES || '6014';
 const LIMIT = Number.parseInt(process.env.APPSTORE_LIMIT || '100', 10);
 const DATA_DIR = process.env.DATA_DIR || 'data';
 const MAX_RETRIES = Number.parseInt(process.env.FETCH_RETRIES || '3', 10);
 const RETRY_DELAY_MS = Number.parseInt(process.env.FETCH_RETRY_DELAY_MS || '1500', 10);
-const FETCH_CONCURRENCY = Math.max(
-  1,
-  Number.parseInt(process.env.FETCH_CONCURRENCY || '3', 10)
-);
+const FETCH_CONCURRENCY = Math.max(1, Number.parseInt(process.env.FETCH_CONCURRENCY || '2', 10));
 const FALLBACK_FILE = process.env.APPSTORE_FALLBACK_FILE || '';
 
 const today = new Date().toISOString().slice(0, 10);
@@ -40,17 +40,26 @@ function normalizeFeedAlias(feed) {
 
 const FEEDS = [...new Set(FEED_INPUT.split(',').map((f) => normalizeFeedAlias(f)).filter(Boolean))];
 
-function buildFeedCandidates(feed) {
-  const normalized = normalizeFeedAlias(feed);
-  const set = new Set([normalized]);
-  if (normalized.includes('topfree')) set.add('top-free');
-  if (normalized.includes('toppaid')) set.add('top-paid');
-  if (normalized.includes('topgrossing')) set.add('top-grossing');
-  return [...set];
-}
-
 function fileSafeFeed(feed) {
   return feed.replace(/[^a-z0-9-]/g, '-');
+}
+
+function feedAliasToApiType(feedAlias) {
+  const alias = normalizeFeedAlias(feedAlias);
+  if (alias === 'top-free') return 'topfreeapplications';
+  if (alias === 'top-paid') return 'toppaidapplications';
+  if (alias === 'top-grossing') return 'topgrossingapplications';
+  return alias;
+}
+
+function mediaTypeToGenre(mediaType) {
+  return mediaType === 'games' ? GENRE_GAMES : GENRE_APPS;
+}
+
+function buildRssUrl(country, feedAlias, mediaType) {
+  const type = feedAliasToApiType(feedAlias);
+  const genre = mediaTypeToGenre(mediaType);
+  return `https://itunes.apple.com/${country}/rss/${type}/limit=${LIMIT}/genre=${genre}/json`;
 }
 
 async function fetchJson(url) {
@@ -86,57 +95,47 @@ async function fetchJson(url) {
 }
 
 function normalizeItems(raw) {
-  const list = raw?.feed?.results || [];
-  return list.map((item, idx) => ({
+  if (Array.isArray(raw?.feed?.results)) {
+    return raw.feed.results.map((item, idx) => ({
+      date: today,
+      rank: idx + 1,
+      id: item.id,
+      name: item.name,
+      artistName: item.artistName,
+      kind: item.kind,
+      releaseDate: item.releaseDate,
+      artworkUrl100: item.artworkUrl100,
+      url: item.url
+    }));
+  }
+
+  const entries = Array.isArray(raw?.feed?.entry) ? raw.feed.entry : [];
+  return entries.map((item, idx) => ({
     date: today,
     rank: idx + 1,
-    id: item.id,
-    name: item.name,
-    artistName: item.artistName,
-    kind: item.kind,
-    releaseDate: item.releaseDate,
-    artworkUrl100: item.artworkUrl100,
-    url: item.url
+    id: item?.id?.attributes?.['im:id'] || item?.id?.label || '',
+    name: item?.['im:name']?.label || '',
+    artistName: item?.['im:artist']?.label || '',
+    kind: item?.category?.attributes?.term || '',
+    releaseDate: item?.['im:releaseDate']?.label || '',
+    artworkUrl100: (item?.['im:image'] || []).slice(-1)[0]?.label || '',
+    url: item?.link?.attributes?.href || ''
   }));
 }
 
-function buildMediaFeedUrl(country, feed, mediaType) {
-  return `https://rss.applemarketingtools.com/api/v2/${country}/apps/${feed}/${LIMIT}/${mediaType}.json`;
-}
-
-async function fetchDataset(country, mediaType, feedInputItem) {
-  let raw;
-  let resolvedFeed = normalizeFeedAlias(feedInputItem);
-  let resolvedUrl = '';
-  let fetchError;
-
-  for (const candidate of buildFeedCandidates(feedInputItem)) {
-    const candidateUrl = buildMediaFeedUrl(country, candidate, mediaType);
-    try {
-      raw = await fetchJson(candidateUrl);
-      resolvedFeed = candidate;
-      resolvedUrl = candidateUrl;
-      break;
-    } catch (err) {
-      fetchError = err;
-    }
-  }
-
-  if (!raw) {
-    throw (
-      fetchError ||
-      new Error(`failed to fetch mediaType=${mediaType} feed=${feedInputItem} for country=${country}`)
-    );
-  }
-
+async function fetchDataset(country, mediaType, feedAlias) {
+  const url = buildRssUrl(country, feedAlias, mediaType);
+  const raw = await fetchJson(url);
   const items = normalizeItems(raw);
+
   return {
     date: today,
     country,
     mediaType,
-    feedType: resolvedFeed,
+    feedType: normalizeFeedAlias(feedAlias),
     limit: LIMIT,
-    source: resolvedUrl,
+    genre: mediaTypeToGenre(mediaType),
+    source: url,
     total: items.length,
     items
   };
@@ -213,15 +212,13 @@ async function main() {
 
   for (const mediaType of MEDIA_TYPES) {
     const mediaDatasets = datasets.filter((d) => d.mediaType === mediaType);
-    const mediaDailyFile = join(DATA_DIR, `${mediaType}-${today}.json`);
-    const mediaLatestFile = join(DATA_DIR, `${mediaType}-latest.json`);
     await writeFile(
-      mediaDailyFile,
+      join(DATA_DIR, `${mediaType}-${today}.json`),
       `${JSON.stringify({ ...aggregate, mediaTypes: [mediaType], datasets: mediaDatasets }, null, 2)}\n`,
       'utf8'
     );
     await writeFile(
-      mediaLatestFile,
+      join(DATA_DIR, `${mediaType}-latest.json`),
       `${JSON.stringify({ ...aggregate, mediaTypes: [mediaType], datasets: mediaDatasets }, null, 2)}\n`,
       'utf8'
     );
@@ -252,7 +249,6 @@ async function main() {
         'utf8'
       );
 
-      // Backward compatibility for existing apps-only consumers.
       if (mediaType === 'apps') {
         await writeFile(
           join(DATA_DIR, `latest-${country}.json`),
