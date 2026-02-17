@@ -34,7 +34,7 @@ jobs:
           bash scripts/daily_scan.sh daily-report.md
 
       - name: Upload report artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: daily-report
           path: daily-report.md
