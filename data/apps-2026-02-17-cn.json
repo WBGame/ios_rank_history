@@ -33,17 +33,6 @@
         {
           "date": "2026-02-17",
           "rank": 2,
-          "id": "1087897068",
-          "name": "企业微信",
-          "artistName": "Tencent Technology (Shenzhen) Company Limited",
-          "kind": "Business",
-          "releaseDate": "2016-04-17T18:39:49-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/0e/c7/170ec7dd-a631-3ef7-2b8f-5c402e87147f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1/id1087897068?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 3,
           "id": "887314963",
           "name": "BOSS直聘-招聘求职找工作神器",
           "artistName": "北京华品博睿网络技术有限公司",
@@ -51,6 +40,17 @@
           "releaseDate": "2014-07-12T21:03:01-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/2e/94/c82e943f-86b2-397d-d43e-31a441a5c9c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 3,
+          "id": "1087897068",
+          "name": "企业微信",
+          "artistName": "Tencent Technology (Shenzhen) Company Limited",
+          "kind": "Business",
+          "releaseDate": "2016-04-17T18:39:49-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/0e/c7/170ec7dd-a631-3ef7-2b8f-5c402e87147f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1/id1087897068?uo=2"
         },
         {
           "date": "2026-02-17",
@@ -143,13 +143,13 @@
         {
           "date": "2026-02-17",
           "rank": 12,
-          "id": "687173477",
-          "name": "中油好客e站",
-          "artistName": "PetroChina Company Limited",
+          "id": "1175213887",
+          "name": "TIM – QQ办公简洁版",
+          "artistName": "Tencent Technology (Shanghai) Company Limited",
           "kind": "Business",
-          "releaseDate": "2013-08-27T22:48:39-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/f0/ad/77f0ad52-0daf-200d-93dc-ad5c3000e1e4/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2017-02-28T21:59:09-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/79/cc/2279cc34-9e3f-faef-39e0-e66013384961/AppIcon-1-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/tim-qq%E5%8A%9E%E5%85%AC%E7%AE%80%E6%B4%81%E7%89%88/id1175213887?uo=2"
         },
         {
           "date": "2026-02-17",
@@ -165,13 +165,13 @@
         {
           "date": "2026-02-17",
           "rank": 14,
-          "id": "1175213887",
-          "name": "TIM – QQ办公简洁版",
-          "artistName": "Tencent Technology (Shanghai) Company Limited",
+          "id": "687173477",
+          "name": "中油好客e站",
+          "artistName": "PetroChina Company Limited",
           "kind": "Business",
-          "releaseDate": "2017-02-28T21:59:09-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/79/cc/2279cc34-9e3f-faef-39e0-e66013384961/AppIcon-1-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/tim-qq%E5%8A%9E%E5%85%AC%E7%AE%80%E6%B4%81%E7%89%88/id1175213887?uo=2"
+          "releaseDate": "2013-08-27T22:48:39-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/f0/ad/77f0ad52-0daf-200d-93dc-ad5c3000e1e4/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
           "date": "2026-02-17",
@@ -220,17 +220,6 @@
         {
           "date": "2026-02-17",
           "rank": 19,
-          "id": "911374519",
-          "name": "五粮液防伪",
-          "artistName": "五粮液股份有限公司",
-          "kind": "Business",
-          "releaseDate": "2014-09-22T20:35:01-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/d9/18/97d91828-e6ff-dcfa-7332-10cf585e3f79/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 20,
           "id": "415443644",
           "name": "前程无忧51Job-求职招聘找工作",
           "artistName": "前程无忧(51job.com)",
@@ -238,6 +227,17 @@
           "releaseDate": "2011-01-29T19:27:59-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/16/08/b7160817-292b-3353-e400-d05107f995fc/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
           "url": "https://apps.apple.com/cn/app/%E5%89%8D%E7%A8%8B%E6%97%A0%E5%BF%A751job-%E6%B1%82%E8%81%8C%E6%8B%9B%E8%81%98%E6%89%BE%E5%B7%A5%E4%BD%9C/id415443644?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 20,
+          "id": "911374519",
+          "name": "五粮液防伪",
+          "artistName": "五粮液股份有限公司",
+          "kind": "Business",
+          "releaseDate": "2014-09-22T20:35:01-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/d9/18/97d91828-e6ff-dcfa-7332-10cf585e3f79/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
           "date": "2026-02-17",
@@ -253,17 +253,6 @@
         {
           "date": "2026-02-17",
           "rank": 22,
-          "id": "1512943167",
-          "name": "抖店-抖音电商商家版",
-          "artistName": "Shanghai Gewu Zhipin Network Technology Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2020-06-19T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/21/37/dc213709-0450-446a-27c7-d816f5bf6173/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 23,
           "id": "1146790989",
           "name": "米画师",
           "artistName": "北京绮心科技有限公司",
@@ -271,6 +260,17 @@
           "releaseDate": "2016-09-10T07:06:50-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/bc/10/aabc10a9-f09b-1693-2edc-c3221846965c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/cn/app/%E7%B1%B3%E7%94%BB%E5%B8%88/id1146790989?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 23,
+          "id": "1512943167",
+          "name": "抖店-抖音电商商家版",
+          "artistName": "Shanghai Gewu Zhipin Network Technology Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2020-06-19T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/21/37/dc213709-0450-446a-27c7-d816f5bf6173/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
           "date": "2026-02-17",
@@ -297,13 +297,13 @@
         {
           "date": "2026-02-17",
           "rank": 26,
-          "id": "590217303",
-          "name": "千牛",
-          "artistName": "浙江淘宝网络有限公司",
+          "id": "1628533855",
+          "name": "临界｜OC二次元画师同伴都在这里",
+          "artistName": "Shanghai Xiaoyi Network Technology Company Limited",
           "kind": "Business",
-          "releaseDate": "2013-01-24T10:12:35-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/f0/1e/25f01ed7-bb97-100a-e3ad-4450622728b0/AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2022-09-10T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/e1/2d/47e12da9-53f7-7a5f-8bfe-0c78c4e2f7ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E4%B8%B4%E7%95%8C-oc%E4%BA%8C%E6%AC%A1%E5%85%83%E7%94%BB%E5%B8%88%E5%90%8C%E4%BC%B4%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C/id1628533855?uo=2"
         },
         {
           "date": "2026-02-17",
@@ -319,6 +319,17 @@
         {
           "date": "2026-02-17",
           "rank": 28,
+          "id": "590217303",
+          "name": "千牛",
+          "artistName": "浙江淘宝网络有限公司",
+          "kind": "Business",
+          "releaseDate": "2013-01-24T10:12:35-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/f0/1e/25f01ed7-bb97-100a-e3ad-4450622728b0/AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 29,
           "id": "869802614",
           "name": "美团外卖商家版",
           "artistName": "Beijing Sankuai Online Technology Co., Ltd.",
@@ -329,7 +340,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 29,
+          "rank": 30,
           "id": "931374307",
           "name": "一汽大众",
           "artistName": "FAW-Volkswagen Automotive Co.,Ltd",
@@ -337,17 +348,6 @@
           "releaseDate": "2014-12-03T23:52:07-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/4b/77/6a4b77c6-60c5-0fe6-2012-ee7f2e7a3552/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
           "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 30,
-          "id": "1628533855",
-          "name": "临界｜OC二次元画师同伴都在这里",
-          "artistName": "Shanghai Xiaoyi Network Technology Company Limited",
-          "kind": "Business",
-          "releaseDate": "2022-09-10T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/e1/2d/47e12da9-53f7-7a5f-8bfe-0c78c4e2f7ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E4%B8%B4%E7%95%8C-oc%E4%BA%8C%E6%AC%A1%E5%85%83%E7%94%BB%E5%B8%88%E5%90%8C%E4%BC%B4%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C/id1628533855?uo=2"
         },
         {
           "date": "2026-02-17",
@@ -473,17 +473,6 @@
         {
           "date": "2026-02-17",
           "rank": 42,
-          "id": "546505307",
-          "name": "Zoom Workplace",
-          "artistName": "Zoom Communications, Inc.",
-          "kind": "Business",
-          "releaseDate": "2012-08-14T18:33:36-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/43/90/77439005-1456-e75d-63ba-ccac071f1f12/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/zoom-workplace/id546505307?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 43,
           "id": "935549084",
           "name": "和多号",
           "artistName": "China Mobile Internet Company Limited",
@@ -491,6 +480,17 @@
           "releaseDate": "2014-12-29T16:09:15-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/00/6b/cb006bec-12ef-253f-9127-726a2a252afe/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
           "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 43,
+          "id": "546505307",
+          "name": "Zoom Workplace",
+          "artistName": "Zoom Communications, Inc.",
+          "kind": "Business",
+          "releaseDate": "2012-08-14T18:33:36-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/43/90/77439005-1456-e75d-63ba-ccac071f1f12/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/zoom-workplace/id546505307?uo=2"
         },
         {
           "date": "2026-02-17",
@@ -528,28 +528,6 @@
         {
           "date": "2026-02-17",
           "rank": 47,
-          "id": "1565358162",
-          "name": "TwiNote - SNS style note",
-          "artistName": "Kiduku Hoshida",
-          "kind": "Business",
-          "releaseDate": "2021-04-29T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/a2/20/dfa220db-e395-ebf4-aebb-e5ff57a34c25/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 48,
-          "id": "1039749242",
-          "name": "知识星球 - 连接一千位铁杆粉丝",
-          "artistName": "ShenZhen DaChengTianXia Information Technology Co., LTD",
-          "kind": "Business",
-          "releaseDate": "2015-11-09T21:58:54-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8e/40/828e4051-6503-1f9d-e252-bd077bea6517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 49,
           "id": "6477339398",
           "name": "手机管家-照片修复、人像抠图、图片压缩",
           "artistName": "龙祥 高",
@@ -560,18 +538,29 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 50,
-          "id": "904548797",
-          "name": "京麦-京东商家版",
-          "artistName": "JD",
+          "rank": 48,
+          "id": "6755667762",
+          "name": "伯乐招标",
+          "artistName": "小刚 陈",
           "kind": "Business",
-          "releaseDate": "2014-09-23T22:32:55-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/bc/c6/7ebcc68f-ca0d-b49c-228b-a8c709f77de2/JMAppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+          "releaseDate": "2025-11-24T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/ed/08/dded086d-3a62-281c-e781-311a3e39621e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E4%BC%AF%E4%B9%90%E6%8B%9B%E6%A0%87/id6755667762?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 49,
+          "id": "1565358162",
+          "name": "TwiNote - SNS style note",
+          "artistName": "Kiduku Hoshida",
+          "kind": "Business",
+          "releaseDate": "2021-04-29T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/a2/20/dfa220db-e395-ebf4-aebb-e5ff57a34c25/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
           "url": ""
         },
         {
           "date": "2026-02-17",
-          "rank": 51,
+          "rank": 50,
           "id": "1547782588",
           "name": "国聘",
           "artistName": "国投人力资源服务有限公司",
@@ -582,7 +571,29 @@
         },
         {
           "date": "2026-02-17",
+          "rank": 51,
+          "id": "1039749242",
+          "name": "知识星球 - 连接一千位铁杆粉丝",
+          "artistName": "ShenZhen DaChengTianXia Information Technology Co., LTD",
+          "kind": "Business",
+          "releaseDate": "2015-11-09T21:58:54-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8e/40/828e4051-6503-1f9d-e252-bd077bea6517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
           "rank": 52,
+          "id": "904548797",
+          "name": "京麦-京东商家版",
+          "artistName": "JD",
+          "kind": "Business",
+          "releaseDate": "2014-09-23T22:32:55-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/bc/c6/7ebcc68f-ca0d-b49c-228b-a8c709f77de2/JMAppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 53,
           "id": "1148517227",
           "name": "安心记加班-记工资考勤打卡记工工资记录记账本",
           "artistName": "上海安加心网络科技有限公司",
@@ -590,17 +601,6 @@
           "releaseDate": "2016-09-24T20:56:09-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/7d/6c/c87d6caa-704c-dbf7-f2f5-108675fe454a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/100x100bb.png",
           "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 53,
-          "id": "1670264264",
-          "name": "觅讯-便捷高效的视频云会议软件",
-          "artistName": "杭州赋睿科技有限公司",
-          "kind": "Business",
-          "releaseDate": "2023-04-04T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ac/07/d5ac07d9-53c4-a1e3-6891-b240ddc44c19/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E8%A7%85%E8%AE%AF-%E4%BE%BF%E6%8D%B7%E9%AB%98%E6%95%88%E7%9A%84%E8%A7%86%E9%A2%91%E4%BA%91%E4%BC%9A%E8%AE%AE%E8%BD%AF%E4%BB%B6/id1670264264?uo=2"
         },
         {
           "date": "2026-02-17",
@@ -616,34 +616,34 @@
         {
           "date": "2026-02-17",
           "rank": 55,
-          "id": "1425891150",
-          "name": "扫描应用：文件PDF扫描－口袋扫描仪 手机扫描仪 文件扫描",
-          "artistName": "Municorn Limited",
-          "kind": "Business",
-          "releaseDate": "2018-08-24T03:59:10-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/bb/bc/1fbbbc8a-b52e-539c-6b61-e5ac1fa206a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 56,
-          "id": "1614983150",
-          "name": "拉卡拉",
-          "artistName": "Beijing Lakala Network Technology Co.,Ltd",
-          "kind": "Business",
-          "releaseDate": "2022-05-05T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/73/ba/af73ba6a-e87f-b068-494c-378a64507e0c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 57,
           "id": "981011420",
           "name": "阿里云",
           "artistName": "Alibaba Cloud Computing Ltd.",
           "kind": "Business",
           "releaseDate": "2015-05-05T17:38:35-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/cc/58/22cc5857-ad45-09e3-902a-5c3f36c8c232/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 56,
+          "id": "1670264264",
+          "name": "觅讯-便捷高效的视频云会议软件",
+          "artistName": "杭州赋睿科技有限公司",
+          "kind": "Business",
+          "releaseDate": "2023-04-04T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ac/07/d5ac07d9-53c4-a1e3-6891-b240ddc44c19/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E8%A7%85%E8%AE%AF-%E4%BE%BF%E6%8D%B7%E9%AB%98%E6%95%88%E7%9A%84%E8%A7%86%E9%A2%91%E4%BA%91%E4%BC%9A%E8%AE%AE%E8%BD%AF%E4%BB%B6/id1670264264?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 57,
+          "id": "1614983150",
+          "name": "拉卡拉",
+          "artistName": "Beijing Lakala Network Technology Co.,Ltd",
+          "kind": "Business",
+          "releaseDate": "2022-05-05T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/73/ba/af73ba6a-e87f-b068-494c-378a64507e0c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
@@ -660,116 +660,6 @@
         {
           "date": "2026-02-17",
           "rank": 59,
-          "id": "871164718",
-          "name": "兼职猫-同城找工作求职招聘平台",
-          "artistName": "Guangzhou JoiWay Information Science & Technology Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2014-05-10T22:43:57-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/9c/38/bc9c3842-9e39-85e1-bb45-919cc6e634e4/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 60,
-          "id": "1242727213",
-          "name": "邮政EMS",
-          "artistName": "CHINA POSTAL EXPRESS & LOGIST ICS CO LTD",
-          "kind": "Business",
-          "releaseDate": "2017-06-05T18:11:13-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/1e/42/f91e421a-95a4-0c3a-5b55-4b3656c466f8/AppIcon-1x_U007emarketing-0-10-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E9%82%AE%E6%94%BFems/id1242727213?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 61,
-          "id": "1585148293",
-          "name": "打印机 - 无线WiFi手机打印",
-          "artistName": "Netpeak EOOD",
-          "kind": "Business",
-          "releaseDate": "2021-11-01T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/a5/4a/f7a54a0f-717f-9baf-44f0-30260b6ea588/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 62,
-          "id": "1313108796",
-          "name": "企鹊桥-找项目、找商机神器",
-          "artistName": "杭州常龙网络科技有限公司",
-          "kind": "Business",
-          "releaseDate": "2018-01-03T10:11:26-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/b5/66/01b5661d-3433-88db-fdd6-87eeecf4c249/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 63,
-          "id": "1135064690",
-          "name": "Cisco Secure Client",
-          "artistName": "Cisco",
-          "kind": "Business",
-          "releaseDate": "2017-06-14T05:45:48-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/7a/ca/097aca4c-5f62-5b9d-50ba-454fbe577f6c/SCIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 64,
-          "id": "6755667762",
-          "name": "伯乐招标",
-          "artistName": "小刚 陈",
-          "kind": "Business",
-          "releaseDate": "2025-11-24T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/ed/08/dded086d-3a62-281c-e781-311a3e39621e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E4%BC%AF%E4%B9%90%E6%8B%9B%E6%A0%87/id6755667762?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 65,
-          "id": "1358605619",
-          "name": "浏览器-安全上网iPhone版",
-          "artistName": "立智 张",
-          "kind": "Business",
-          "releaseDate": "2018-03-26T10:59:06-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/47/55/d14755ed-b1ac-abe8-adab-95d8799f2402/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 66,
-          "id": "1461656978",
-          "name": "奔图打印",
-          "artistName": "Zhuhai Pantum Electronics Co. Ltd.",
-          "kind": "Business",
-          "releaseDate": "2019-12-05T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3e/1c/cf3e1c18-4863-8870-f7ee-8f4bc1184806/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E5%A5%94%E5%9B%BE%E6%89%93%E5%8D%B0/id1461656978?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 67,
-          "id": "1318074960",
-          "name": "淘宝闪购零售商家版",
-          "artistName": "Shanghai Rajax Information Technology Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2018-02-10T18:50:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/e0/8a/fae08a18-532d-e062-6566-77967b9dcc5c/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 68,
-          "id": "1265700906",
-          "name": "即分期超G会员",
-          "artistName": "上海即盈科技有限公司",
-          "kind": "Business",
-          "releaseDate": "2017-08-16T18:57:32-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/31/b6/b131b6a5-e989-9d02-3391-1a4ce8a62d8e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 69,
           "id": "6737788260",
           "name": "酷熊加速 - 独享静态IP动态代理与网络加速",
           "artistName": "四川墨寂网络科技有限公司",
@@ -780,7 +670,95 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 70,
+          "rank": 60,
+          "id": "871164718",
+          "name": "兼职猫-同城找工作求职招聘平台",
+          "artistName": "Guangzhou JoiWay Information Science & Technology Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2014-05-10T22:43:57-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/9c/38/bc9c3842-9e39-85e1-bb45-919cc6e634e4/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 61,
+          "id": "1425891150",
+          "name": "扫描应用：文件PDF扫描－口袋扫描仪 手机扫描仪 文件扫描",
+          "artistName": "Municorn Limited",
+          "kind": "Business",
+          "releaseDate": "2018-08-24T03:59:10-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/bb/bc/1fbbbc8a-b52e-539c-6b61-e5ac1fa206a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 62,
+          "id": "1242727213",
+          "name": "邮政EMS",
+          "artistName": "CHINA POSTAL EXPRESS & LOGIST ICS CO LTD",
+          "kind": "Business",
+          "releaseDate": "2017-06-05T18:11:13-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/1e/42/f91e421a-95a4-0c3a-5b55-4b3656c466f8/AppIcon-1x_U007emarketing-0-10-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E9%82%AE%E6%94%BFems/id1242727213?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 63,
+          "id": "1313108796",
+          "name": "企鹊桥-找项目、找商机神器",
+          "artistName": "杭州常龙网络科技有限公司",
+          "kind": "Business",
+          "releaseDate": "2018-01-03T10:11:26-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/b5/66/01b5661d-3433-88db-fdd6-87eeecf4c249/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 64,
+          "id": "1585148293",
+          "name": "打印机 - 无线WiFi手机打印",
+          "artistName": "Netpeak EOOD",
+          "kind": "Business",
+          "releaseDate": "2021-11-01T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/a5/4a/f7a54a0f-717f-9baf-44f0-30260b6ea588/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 65,
+          "id": "1135064690",
+          "name": "Cisco Secure Client",
+          "artistName": "Cisco",
+          "kind": "Business",
+          "releaseDate": "2017-06-14T05:45:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/7a/ca/097aca4c-5f62-5b9d-50ba-454fbe577f6c/SCIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 66,
+          "id": "1358605619",
+          "name": "浏览器-安全上网iPhone版",
+          "artistName": "立智 张",
+          "kind": "Business",
+          "releaseDate": "2018-03-26T10:59:06-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/47/55/d14755ed-b1ac-abe8-adab-95d8799f2402/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 67,
+          "id": "1461656978",
+          "name": "奔图打印",
+          "artistName": "Zhuhai Pantum Electronics Co. Ltd.",
+          "kind": "Business",
+          "releaseDate": "2019-12-05T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/3e/1c/cf3e1c18-4863-8870-f7ee-8f4bc1184806/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E5%A5%94%E5%9B%BE%E6%89%93%E5%8D%B0/id1461656978?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 68,
           "id": "1004291915",
           "name": "记事本 - 简单的备忘录、笔记本和小部件、記事本",
           "artistName": "Komorebi Inc.",
@@ -791,7 +769,40 @@
         },
         {
           "date": "2026-02-17",
+          "rank": 69,
+          "id": "1318074960",
+          "name": "淘宝闪购零售商家版",
+          "artistName": "Shanghai Rajax Information Technology Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2018-02-10T18:50:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/e0/8a/fae08a18-532d-e062-6566-77967b9dcc5c/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 70,
+          "id": "1265700906",
+          "name": "即分期超G会员",
+          "artistName": "上海即盈科技有限公司",
+          "kind": "Business",
+          "releaseDate": "2017-08-16T18:57:32-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/31/b6/b131b6a5-e989-9d02-3391-1a4ce8a62d8e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
           "rank": 71,
+          "id": "1064868841",
+          "name": "实习僧—大学生求职招聘找工作平台",
+          "artistName": "Mshare Network Technology Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2015-12-30T15:03:30-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/51/22/1f512294-8721-3dfd-86fc-64f3918b3c86/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 72,
           "id": "1324387488",
           "name": "加密电话-虚拟隐私小号打网络电话发短信软件",
           "artistName": "源 王",
@@ -802,7 +813,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 72,
+          "rank": 73,
           "id": "597101749",
           "name": "猪八戒-上猪八戒网 搞副业 赚点钱",
           "artistName": "Zhubajie.com",
@@ -810,17 +821,6 @@
           "releaseDate": "2013-02-02T15:37:39-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f3/6c/39f36c8e-f847-81ad-33cd-d70273a26ea2/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/cn/app/%E7%8C%AA%E5%85%AB%E6%88%92-%E4%B8%8A%E7%8C%AA%E5%85%AB%E6%88%92%E7%BD%91-%E6%90%9E%E5%89%AF%E4%B8%9A-%E8%B5%9A%E7%82%B9%E9%92%B1/id597101749?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 73,
-          "id": "1064868841",
-          "name": "实习僧—大学生求职招聘找工作平台",
-          "artistName": "Mshare Network Technology Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2015-12-30T15:03:30-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/51/22/1f512294-8721-3dfd-86fc-64f3918b3c86/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
         },
         {
           "date": "2026-02-17",
@@ -869,17 +869,6 @@
         {
           "date": "2026-02-17",
           "rank": 78,
-          "id": "1143422079",
-          "name": "银联商务",
-          "artistName": "银联商务支付股份有限公司",
-          "kind": "Business",
-          "releaseDate": "2016-09-07T07:49:23-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/d6/51/dfd651df-9f73-66fd-5a84-113ee647d15b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 79,
           "id": "870315780",
           "name": "美团酒店商家",
           "artistName": "Beijing KuXun Interactive Technology Company Limited",
@@ -890,13 +879,24 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 80,
+          "rank": 79,
           "id": "6475754191",
           "name": "同城按摩快约到家-约上门按摩交流聊成人技师友天天修泡脚软件",
           "artistName": "漫影",
           "kind": "Business",
           "releaseDate": "2024-01-10T00:00:00-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/0e/91/260e9117-c17a-520b-a69f-bf68da5ecdef/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 80,
+          "id": "1143422079",
+          "name": "银联商务",
+          "artistName": "银联商务支付股份有限公司",
+          "kind": "Business",
+          "releaseDate": "2016-09-07T07:49:23-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/d6/51/dfd651df-9f73-66fd-5a84-113ee647d15b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
@@ -913,17 +913,6 @@
         {
           "date": "2026-02-17",
           "rank": 82,
-          "id": "6473355195",
-          "name": "移动会议-中国移动云视讯",
-          "artistName": "China Mobile Limited",
-          "kind": "Business",
-          "releaseDate": "2024-01-20T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/39/d8/a639d880-838b-5a0a-4a26-93c55e631a9a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 83,
           "id": "1257636632",
           "name": "辽宁公安",
           "artistName": "LiaoNing Provincial Public Security Department",
@@ -934,40 +923,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 84,
-          "id": "989920057",
-          "name": "Magic Eraser - 轻松抠图, 剪下或移除背景",
-          "artistName": "Alan Cushway",
-          "kind": "Business",
-          "releaseDate": "2015-05-24T04:26:04-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/81/fa/0f81fa33-ac6f-3c35-b112-d845045f3461/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 85,
-          "id": "1016820238",
-          "name": "赶集招聘商家版-企业招聘招人招工",
-          "artistName": "Wuxi Wuba Ganji Youcai Information Co., Ltd",
-          "kind": "Business",
-          "releaseDate": "2015-08-03T21:12:50-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/08/d7/8408d760-0c90-7f11-f5f3-c09fe3483048/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E8%B5%B6%E9%9B%86%E6%8B%9B%E8%81%98%E5%95%86%E5%AE%B6%E7%89%88-%E4%BC%81%E4%B8%9A%E6%8B%9B%E8%81%98%E6%8B%9B%E4%BA%BA%E6%8B%9B%E5%B7%A5/id1016820238?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 86,
-          "id": "1536540331",
-          "name": "螃蟹通告",
-          "artistName": "Bittarn Technology Ltd.",
-          "kind": "Business",
-          "releaseDate": "2021-03-16T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/36/fb/b036fb84-58ba-5e68-03ff-9ac92f9e34fe/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 87,
+          "rank": 83,
           "id": "6746117494",
           "name": "得物商家版",
           "artistName": "Shanghai Dewu Information Group Co., Ltd.",
@@ -978,7 +934,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 88,
+          "rank": 84,
           "id": "6751080172",
           "name": "惠普smart: 佳能打印 - 手机打印机",
           "artistName": "Zaini Shahzad",
@@ -989,40 +945,18 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 89,
-          "id": "1058768061",
-          "name": "工银商户之家",
-          "artistName": "Industrial and Commercial Bank of China",
+          "rank": 85,
+          "id": "989920057",
+          "name": "Magic Eraser - 轻松抠图, 剪下或移除背景",
+          "artistName": "Alan Cushway",
           "kind": "Business",
-          "releaseDate": "2016-02-29T16:41:45-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/5a/90/1a5a901f-05bb-470f-cb6b-6e48fd434e8b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E5%B7%A5%E9%93%B6%E5%95%86%E6%88%B7%E4%B9%8B%E5%AE%B6/id1058768061?uo=2"
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 90,
-          "id": "6670541653",
-          "name": "call录通话",
-          "artistName": "Sunjoy",
-          "kind": "Business",
-          "releaseDate": "2024-09-26T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fa/b4/a2fab464-90dc-ba9d-3cc6-1649fa05c977/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+          "releaseDate": "2015-05-24T04:26:04-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/81/fa/0f81fa33-ac6f-3c35-b112-d845045f3461/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
           "url": ""
         },
         {
           "date": "2026-02-17",
-          "rank": 91,
-          "id": "1030675668",
-          "name": "启信宝 - 企业工商信用信息征信查询",
-          "artistName": "Shanghai ShengTeng Data Co.,Ltd",
-          "kind": "Business",
-          "releaseDate": "2015-09-10T20:30:42-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/9f/f4/bb9ff4b8-3316-a93c-73b4-d949cf641a81/AppIcon-1x_U007epad-0-11-0-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 92,
+          "rank": 86,
           "id": "6747803415",
           "name": "小知聊-一点知识，一场对话",
           "artistName": "STARLIGHT TECH PTE. LTD.",
@@ -1033,7 +967,62 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 93,
+          "rank": 87,
+          "id": "1016820238",
+          "name": "赶集招聘商家版-企业招聘招人招工",
+          "artistName": "Wuxi Wuba Ganji Youcai Information Co., Ltd",
+          "kind": "Business",
+          "releaseDate": "2015-08-03T21:12:50-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/08/d7/8408d760-0c90-7f11-f5f3-c09fe3483048/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E8%B5%B6%E9%9B%86%E6%8B%9B%E8%81%98%E5%95%86%E5%AE%B6%E7%89%88-%E4%BC%81%E4%B8%9A%E6%8B%9B%E8%81%98%E6%8B%9B%E4%BA%BA%E6%8B%9B%E5%B7%A5/id1016820238?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 88,
+          "id": "6473355195",
+          "name": "移动会议-中国移动云视讯",
+          "artistName": "China Mobile Limited",
+          "kind": "Business",
+          "releaseDate": "2024-01-20T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/39/d8/a639d880-838b-5a0a-4a26-93c55e631a9a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 89,
+          "id": "1536540331",
+          "name": "螃蟹通告",
+          "artistName": "Bittarn Technology Ltd.",
+          "kind": "Business",
+          "releaseDate": "2021-03-16T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/36/fb/b036fb84-58ba-5e68-03ff-9ac92f9e34fe/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 90,
+          "id": "1058768061",
+          "name": "工银商户之家",
+          "artistName": "Industrial and Commercial Bank of China",
+          "kind": "Business",
+          "releaseDate": "2016-02-29T16:41:45-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/5a/90/1a5a901f-05bb-470f-cb6b-6e48fd434e8b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E5%B7%A5%E9%93%B6%E5%95%86%E6%88%B7%E4%B9%8B%E5%AE%B6/id1058768061?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 91,
+          "id": "6670541653",
+          "name": "call录通话",
+          "artistName": "Sunjoy",
+          "kind": "Business",
+          "releaseDate": "2024-09-26T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fa/b4/a2fab464-90dc-ba9d-3cc6-1649fa05c977/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 92,
           "id": "1060484215",
           "name": "海康云商",
           "artistName": "Hikvision Digital Technology Co.,Ltd",
@@ -1044,18 +1033,18 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 94,
-          "id": "1076852043",
-          "name": "南银法巴消金-信用贷款快速借钱平台",
-          "artistName": "BON BNPP CONSUMER FINANCE CO., LTD.",
+          "rank": 93,
+          "id": "1030675668",
+          "name": "启信宝 - 企业工商信用信息征信查询",
+          "artistName": "Shanghai ShengTeng Data Co.,Ltd",
           "kind": "Business",
-          "releaseDate": "2016-03-31T19:11:15-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/e3/a4/8be3a4bc-4587-2dd3-0528-8a52960116ae/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/%E5%8D%97%E9%93%B6%E6%B3%95%E5%B7%B4%E6%B6%88%E9%87%91-%E4%BF%A1%E7%94%A8%E8%B4%B7%E6%AC%BE%E5%BF%AB%E9%80%9F%E5%80%9F%E9%92%B1%E5%B9%B3%E5%8F%B0/id1076852043?uo=2"
+          "releaseDate": "2015-09-10T20:30:42-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/9f/f4/bb9ff4b8-3316-a93c-73b4-d949cf641a81/AppIcon-1x_U007epad-0-11-0-0-85-220-0.png/100x100bb.png",
+          "url": ""
         },
         {
           "date": "2026-02-17",
-          "rank": 95,
+          "rank": 94,
           "id": "6447550373",
           "name": "Car Play Connect & Pass",
           "artistName": "Alexey Timokhin",
@@ -1066,24 +1055,35 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 96,
-          "id": "1107821690",
-          "name": "车e兴",
-          "artistName": "河南省安视博系统工程有限公司",
+          "rank": 95,
+          "id": "6608964889",
+          "name": "神仙外企-专业外企求职招聘APP",
+          "artistName": "成都先胜信息科技有限公司",
           "kind": "Business",
-          "releaseDate": "2016-05-04T17:34:15-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/fe/fe/bafefe3b-22fb-dd9b-46ab-02945535a01f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "releaseDate": "2024-08-17T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/a0/48/cba04852-e31b-d253-c494-b9a677e6cbd6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
           "date": "2026-02-17",
-          "rank": 97,
-          "id": "1200776424",
-          "name": "我爱电话录音：专业手机通话录音软件兼语音备忘录",
-          "artistName": "BPMobile",
+          "rank": 96,
+          "id": "1076852043",
+          "name": "南银法巴消金-信用贷款快速借钱平台",
+          "artistName": "BON BNPP CONSUMER FINANCE CO., LTD.",
           "kind": "Business",
-          "releaseDate": "2018-03-28T14:14:30-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/f8/bb/b9f8bb39-c4a4-366d-d528-16e8dd94fbb0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+          "releaseDate": "2016-03-31T19:11:15-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/e3/a4/8be3a4bc-4587-2dd3-0528-8a52960116ae/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/%E5%8D%97%E9%93%B6%E6%B3%95%E5%B7%B4%E6%B6%88%E9%87%91-%E4%BF%A1%E7%94%A8%E8%B4%B7%E6%AC%BE%E5%BF%AB%E9%80%9F%E5%80%9F%E9%92%B1%E5%B9%B3%E5%8F%B0/id1076852043?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 97,
+          "id": "1033115605",
+          "name": "京粉(京东联盟出品)",
+          "artistName": "北京京东世纪贸易有限公司",
+          "kind": "Business",
+          "releaseDate": "2015-09-16T11:25:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/f1/13/f4f1131b-8d4e-ad83-decb-ca88d6ae839a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.jpeg/100x100bb.png",
           "url": ""
         },
         {
@@ -1111,12 +1111,12 @@
         {
           "date": "2026-02-17",
           "rank": 100,
-          "id": "6608964889",
-          "name": "神仙外企-专业外企求职招聘APP",
-          "artistName": "成都先胜信息科技有限公司",
+          "id": "1107821690",
+          "name": "车e兴",
+          "artistName": "河南省安视博系统工程有限公司",
           "kind": "Business",
-          "releaseDate": "2024-08-17T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/a0/48/cba04852-e31b-d253-c494-b9a677e6cbd6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "releaseDate": "2016-05-04T17:34:15-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/fe/fe/bafefe3b-22fb-dd9b-46ab-02945535a01f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
           "url": ""
         }
       ]
@@ -1138,46 +1138,13 @@
           "name": "海关税则速查 - 2026海关税则查询海关编码查询进出口关税",
           "artistName": "Wuhan Xingyun Technology Co., Ltd.",
           "kind": "Business",
-          "releaseDate": "2026-02-16T06:26:03-07:00",
+          "releaseDate": "2026-02-16T00:00:00-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/f7/64/d1f7642e-727a-4958-1cc0-4132636f7837/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/cn/app/%E6%B5%B7%E5%85%B3%E7%A8%8E%E5%88%99%E9%80%9F%E6%9F%A5-2026%E6%B5%B7%E5%85%B3%E7%A8%8E%E5%88%99%E6%9F%A5%E8%AF%A2%E6%B5%B7%E5%85%B3%E7%BC%96%E7%A0%81%E6%9F%A5%E8%AF%A2%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%85%B3%E7%A8%8E/id6759132280?uo=2"
         },
         {
           "date": "2026-02-17",
           "rank": 2,
-          "id": "1291687067",
-          "name": "证件复印",
-          "artistName": "同庆 牛",
-          "kind": "Business",
-          "releaseDate": "2017-10-13T19:13:59-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/68/9f/e9689ffa-795c-169b-4c1a-7718d4d9ea5e/AppIcon-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 3,
-          "id": "1435859725",
-          "name": "剑桥国际英语教程入门级",
-          "artistName": "梦 周",
-          "kind": "Business",
-          "releaseDate": "2018-09-11T14:52:10-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/54/81/d0548125-caed-880f-39ca-a2b0dc7301bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 4,
-          "id": "6478600208",
-          "name": "税则查询",
-          "artistName": "辉 徐",
-          "kind": "Business",
-          "releaseDate": "2024-03-01T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/5c/66/3d5c669a-f4a7-4359-3a43-f2bcc3b52317/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 5,
           "id": "364876095",
           "name": "Jump Desktop (RDP, VNC, Fluid)",
           "artistName": "Phase Five Systems",
@@ -1188,7 +1155,51 @@
         },
         {
           "date": "2026-02-17",
+          "rank": 3,
+          "id": "1291687067",
+          "name": "证件复印",
+          "artistName": "同庆 牛",
+          "kind": "Business",
+          "releaseDate": "2017-10-13T19:13:59-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/68/9f/e9689ffa-795c-169b-4c1a-7718d4d9ea5e/AppIcon-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 4,
+          "id": "1435859725",
+          "name": "剑桥国际英语教程入门级",
+          "artistName": "梦 周",
+          "kind": "Business",
+          "releaseDate": "2018-09-11T14:52:10-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/54/81/d0548125-caed-880f-39ca-a2b0dc7301bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 5,
+          "id": "6478600208",
+          "name": "税则查询",
+          "artistName": "辉 徐",
+          "kind": "Business",
+          "releaseDate": "2024-03-01T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/5c/66/3d5c669a-f4a7-4359-3a43-f2bcc3b52317/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-17",
           "rank": 6,
+          "id": "6745967929",
+          "name": "Secure Voice Recorder",
+          "artistName": "Makayama.com",
+          "kind": "Business",
+          "releaseDate": "2025-05-19T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/71/ec/0071ec28-7b0d-1adf-5ecd-4261f22276f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/cn/app/secure-voice-recorder/id6745967929?uo=2"
+        },
+        {
+          "date": "2026-02-17",
+          "rank": 7,
           "id": "1075701407",
           "name": "海关税则查询",
           "artistName": "华 孙",
@@ -1199,7 +1210,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 7,
+          "rank": 8,
           "id": "6444353154",
           "name": "世界各国数据速查",
           "artistName": "阳 沈",
@@ -1210,7 +1221,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 8,
+          "rank": 9,
           "id": "558160040",
           "name": "vMEyeCloud",
           "artistName": "Guangzhou Kedi Intelligence Technology Co., Ltd.",
@@ -1221,7 +1232,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 9,
+          "rank": 10,
           "id": "333212604",
           "name": "蒙恬名片王Mobile",
           "artistName": "Penpower Technology Ltd.",
@@ -1232,7 +1243,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 10,
+          "rank": 11,
           "id": "921217360",
           "name": "二维码工房Pro-二维码生成器二维码扫描扫码",
           "artistName": "芸倩 潘",
@@ -1243,7 +1254,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 11,
+          "rank": 12,
           "id": "338550388",
           "name": "Audio Memos",
           "artistName": "Imesart S.a.r.l.",
@@ -1254,7 +1265,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 12,
+          "rank": 13,
           "id": "1232108557",
           "name": "移动公证录音专业版-最好用的录音机及电话录音软件",
           "artistName": "Beijing Zhengtongrenke Technology Co., Ltd.",
@@ -1265,7 +1276,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 13,
+          "rank": 14,
           "id": "6758658840",
           "name": "PixPhoto-证件照,高清证件照制作",
           "artistName": "航 余",
@@ -1276,7 +1287,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 14,
+          "rank": 15,
           "id": "1555193080",
           "name": "Calcility - Minimal Calculator",
           "artistName": "翔 何",
@@ -1287,7 +1298,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 15,
+          "rank": 16,
           "id": "1460078746",
           "name": "口袋扫描仪Pro - 专业PDF编辑、文字识别",
           "artistName": "HiThink",
@@ -1298,7 +1309,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 16,
+          "rank": 17,
           "id": "342548956",
           "name": "TurboScan Pro",
           "artistName": "Piksoft Inc.",
@@ -1309,7 +1320,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 17,
+          "rank": 18,
           "id": "957190641",
           "name": "Logo工房",
           "artistName": "芸倩 潘",
@@ -1320,7 +1331,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 18,
+          "rank": 19,
           "id": "1185298870",
           "name": "视频合成: 融合、叠加、合并图像和视频",
           "artistName": "丽譞 牛",
@@ -1331,7 +1342,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 19,
+          "rank": 20,
           "id": "576443892",
           "name": "Logo Creator & Maker",
           "artistName": "Logo Maker LLC",
@@ -1342,7 +1353,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 20,
+          "rank": 21,
           "id": "1435723728",
           "name": "剑桥国际英语教程1级",
           "artistName": "梦 周",
@@ -1353,7 +1364,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 21,
+          "rank": 22,
           "id": "522627917",
           "name": "FTPManager Pro",
           "artistName": "Skyjos Co., Ltd.",
@@ -1364,7 +1375,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 22,
+          "rank": 23,
           "id": "1435569793",
           "name": "剑桥国际英语教程2级",
           "artistName": "梦 周",
@@ -1375,7 +1386,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 23,
+          "rank": 24,
           "id": "1197953047",
           "name": "高中语文必修下册人教部编版",
           "artistName": "梦 周",
@@ -1386,7 +1397,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 24,
+          "rank": 25,
           "id": "288013812",
           "name": "TimeScroller - timezone helper",
           "artistName": "Terry Brett",
@@ -1397,7 +1408,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 25,
+          "rank": 26,
           "id": "1208354930",
           "name": "高考英语必备3500词",
           "artistName": "梦 周",
@@ -1408,7 +1419,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 26,
+          "rank": 27,
           "id": "1296628260",
           "name": "新概念英语青少版入门级AB -经典品牌教材",
           "artistName": "梦 周",
@@ -1419,7 +1430,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 27,
+          "rank": 28,
           "id": "892393815",
           "name": "录音机 - AVR PRO",
           "artistName": "Newkline Co., Ltd.",
@@ -1430,7 +1441,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 28,
+          "rank": 29,
           "id": "295798315",
           "name": "文件",
           "artistName": "Savy Soda Pty Ltd",
@@ -1441,7 +1452,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 29,
+          "rank": 30,
           "id": "307868751",
           "name": "JotNot扫描仪应用程序专业版",
           "artistName": "MobiTech 3000 LLC",
@@ -1452,7 +1463,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 30,
+          "rank": 31,
           "id": "6756067768",
           "name": "海关税则大全",
           "artistName": "丽丽 许",
@@ -1463,7 +1474,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 31,
+          "rank": 32,
           "id": "382005326",
           "name": "G通讯录 - GContact",
           "artistName": "EJing",
@@ -1474,7 +1485,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 32,
+          "rank": 33,
           "id": "946930094",
           "name": "FineReader Pro: PDF Scanner",
           "artistName": "ABBYY USA Software House Inc",
@@ -1485,7 +1496,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 33,
+          "rank": 34,
           "id": "401818935",
           "name": "Genius Scan Enterprise - PDF",
           "artistName": "The Grizzly Labs",
@@ -1496,7 +1507,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 34,
+          "rank": 35,
           "id": "1135811739",
           "name": "传真应用: 从手机发送传真",
           "artistName": "BPMobile",
@@ -1507,7 +1518,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 35,
+          "rank": 36,
           "id": "428974099",
           "name": "Mail+ for Outlook",
           "artistName": "MAIL PLUS APP LLC",
@@ -1518,7 +1529,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 36,
+          "rank": 37,
           "id": "1579255889",
           "name": "小法典 - 你的私人法律服务助理",
           "artistName": "淑婷 刘",
@@ -1529,7 +1540,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 37,
+          "rank": 38,
           "id": "530058716",
           "name": "BusinessCardDesigner - 名片制作，创作者，编辑，模板，PDF，AirPrint和电子邮件的功能设计",
           "artistName": "Katsushi Nakano",
@@ -1540,7 +1551,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 38,
+          "rank": 39,
           "id": "362470364",
           "name": "Windows远程桌面",
           "artistName": "Hana Mobile",
@@ -1551,7 +1562,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 39,
+          "rank": 40,
           "id": "1208354736",
           "name": "中考英语必备1600词",
           "artistName": "梦 周",
@@ -1562,7 +1573,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 40,
+          "rank": 41,
           "id": "1205236506",
           "name": "新概念英语青少版1A1B -经典品牌学习教材",
           "artistName": "梦 周",
@@ -1573,7 +1584,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 41,
+          "rank": 42,
           "id": "423213182",
           "name": "inShort: 项目和工作流规划专家",
           "artistName": "Jury Shortki",
@@ -1584,7 +1595,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 42,
+          "rank": 43,
           "id": "1207732284",
           "name": "小学英语三年级上下册福建闽教版",
           "artistName": "梦 周",
@@ -1595,7 +1606,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 43,
+          "rank": 44,
           "id": "1207732298",
           "name": "小学英语五年级上下册福建闽教版",
           "artistName": "梦 周",
@@ -1606,7 +1617,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 44,
+          "rank": 45,
           "id": "412588865",
           "name": "USB Disk Pro for iPhone",
           "artistName": "Imesart S.a.r.l.",
@@ -1617,7 +1628,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 45,
+          "rank": 46,
           "id": "373045717",
           "name": "Voice Recorder HD",
           "artistName": "eFUSION Co., Ltd.",
@@ -1628,7 +1639,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 46,
+          "rank": 47,
           "id": "1126113478",
           "name": "Touchscreen Test",
           "artistName": "Vishal Singh",
@@ -1639,7 +1650,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 47,
+          "rank": 48,
           "id": "1384762505",
           "name": "牛津少儿英语Let’s go 1",
           "artistName": "梦 周",
@@ -1650,7 +1661,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 48,
+          "rank": 49,
           "id": "409586727",
           "name": "汇率换算",
           "artistName": "EJing",
@@ -1661,7 +1672,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 49,
+          "rank": 50,
           "id": "899313582",
           "name": "PDF工作室 - 编辑文件，PDF格式转换，添加图片，PDF批注，签署文件",
           "artistName": "MULTI MOBILE Ltd",
@@ -1672,7 +1683,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 50,
+          "rank": 51,
           "id": "333211045",
           "name": "WorldCard Mobile",
           "artistName": "Penpower Technology Ltd.",
@@ -1683,7 +1694,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 51,
+          "rank": 52,
           "id": "285877935",
           "name": "QuickVoice2Text Email (PRO Recorder)",
           "artistName": "nFinity Inc",
@@ -1694,7 +1705,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 52,
+          "rank": 53,
           "id": "936694037",
           "name": "录音机专业版: 高清录制",
           "artistName": "LiveBird Technologies Private Limited",
@@ -1705,7 +1716,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 53,
+          "rank": 54,
           "id": "1188586848",
           "name": "小学语文一年级下册部编版",
           "artistName": "梦 周",
@@ -1716,7 +1727,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 54,
+          "rank": 55,
           "id": "755134885",
           "name": "Scrollit: display scrolling",
           "artistName": "AMAXIM APPS, INC",
@@ -1727,7 +1738,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 55,
+          "rank": 56,
           "id": "1207732288",
           "name": "小学英语四年级上下册福建闽教版",
           "artistName": "梦 周",
@@ -1738,7 +1749,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 56,
+          "rank": 57,
           "id": "285750155",
           "name": "iRecorder Pro 录音机",
           "artistName": "SIMPLETOUCH LLC",
@@ -1749,7 +1760,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 57,
+          "rank": 58,
           "id": "310425060",
           "name": "WiFi 移动硬盘 HD Instant SMB Network Server Share",
           "artistName": "Savy Soda Pty Ltd",
@@ -1760,7 +1771,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 58,
+          "rank": 59,
           "id": "1207732664",
           "name": "小学英语六年级上下册福建闽教版",
           "artistName": "梦 周",
@@ -1771,7 +1782,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 59,
+          "rank": 60,
           "id": "1441926695",
           "name": "语音笔记 PRO - 录音机 AI笔记",
           "artistName": "Newkline Co., Ltd.",
@@ -1782,7 +1793,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 60,
+          "rank": 61,
           "id": "288362053",
           "name": "Remote Desktop - RDP",
           "artistName": "MochaSoft",
@@ -1793,7 +1804,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 61,
+          "rank": 62,
           "id": "353483464",
           "name": "EagleEyes-plus",
           "artistName": "Avtech",
@@ -1804,7 +1815,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 62,
+          "rank": 63,
           "id": "1183169428",
           "name": "初中英语六年级上下册鲁教版 -五四学制",
           "artistName": "梦 周",
@@ -1815,7 +1826,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 63,
+          "rank": 64,
           "id": "1384267946",
           "name": "牛津少儿英语Let’s go begin",
           "artistName": "梦 周",
@@ -1826,7 +1837,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 64,
+          "rank": 65,
           "id": "1201209424",
           "name": "专业扫描仪 — PDF文件扫描",
           "artistName": "Zafar Ullah",
@@ -1837,7 +1848,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 65,
+          "rank": 66,
           "id": "347345474",
           "name": "名片扫描 Business Card Reader Pro",
           "artistName": "ABBYY USA Software House Inc",
@@ -1848,7 +1859,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 66,
+          "rank": 67,
           "id": "685978557",
           "name": "声控录音－声控开启、后台录音",
           "artistName": "召伟 何",
@@ -1859,7 +1870,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 67,
+          "rank": 68,
           "id": "1385272502",
           "name": "牛津少儿英语Let’s go 2",
           "artistName": "梦 周",
@@ -1870,7 +1881,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 68,
+          "rank": 69,
           "id": "577499909",
           "name": "TapeACall Pro: 记录通话记录",
           "artistName": "Mosaic S.r.l.",
@@ -1881,7 +1892,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 69,
+          "rank": 70,
           "id": "1370748482",
           "name": "英语图解学习词典国际版",
           "artistName": "梦 周",
@@ -1892,7 +1903,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 70,
+          "rank": 71,
           "id": "608985698",
           "name": "VesselFinder Pro",
           "artistName": "AstraPaging Ltd.",
@@ -1903,7 +1914,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 71,
+          "rank": 72,
           "id": "1202079488",
           "name": "小学语文四年级上册北师大版",
           "artistName": "梦 周",
@@ -1914,7 +1925,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 72,
+          "rank": 73,
           "id": "812959928",
           "name": "纳米仓库：仓库核算及销售管理",
           "artistName": "Erziman Asaliyev",
@@ -1925,7 +1936,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 73,
+          "rank": 74,
           "id": "963570332",
           "name": "請求書 見積書 かんたん作成の新定番 SmartForm",
           "artistName": "whitez",
@@ -1936,7 +1947,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 74,
+          "rank": 75,
           "id": "598268211",
           "name": "声控录音机",
           "artistName": "Hongwen Yang",
@@ -1947,7 +1958,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 75,
+          "rank": 76,
           "id": "427761719",
           "name": "PrintCentral Pro for iPhone",
           "artistName": "EuroSmartz Ltd",
@@ -1958,7 +1969,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 76,
+          "rank": 77,
           "id": "1188969234",
           "name": "小学语文二年级下册部编版",
           "artistName": "梦 周",
@@ -1969,7 +1980,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 77,
+          "rank": 78,
           "id": "1197952631",
           "name": "高中语文必修上册人教部编版",
           "artistName": "梦 周",
@@ -1980,7 +1991,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 78,
+          "rank": 79,
           "id": "1297102134",
           "name": "新概念英语青少版4A4B -经典品牌教材",
           "artistName": "梦 周",
@@ -1991,7 +2002,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 79,
+          "rank": 80,
           "id": "478861246",
           "name": "Doc Scan Pro - PDF Fax 文档扫描仪",
           "artistName": "IFUNPLAY CO., LTD.",
@@ -2002,7 +2013,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 80,
+          "rank": 81,
           "id": "1207615827",
           "name": "小学英语四年级上下册河北冀教版",
           "artistName": "梦 周",
@@ -2013,7 +2024,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 81,
+          "rank": 82,
           "id": "550062698",
           "name": "Inkflow Plus Visual Notebook",
           "artistName": "Qrayon, LLC",
@@ -2024,7 +2035,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 82,
+          "rank": 83,
           "id": "1189508765",
           "name": "人教版小学语文三年级上册",
           "artistName": "梦 周",
@@ -2035,7 +2046,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 83,
+          "rank": 84,
           "id": "1207615823",
           "name": "小学英语三年级上下册河北冀教版",
           "artistName": "梦 周",
@@ -2046,7 +2057,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 84,
+          "rank": 85,
           "id": "1206730434",
           "name": "小学英语四年级上下册鲁科版",
           "artistName": "阳志 欧",
@@ -2057,7 +2068,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 85,
+          "rank": 86,
           "id": "294934058",
           "name": "HotSchedules",
           "artistName": "HotSchedules",
@@ -2068,7 +2079,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 86,
+          "rank": 87,
           "id": "1188350026",
           "name": "小学语文二年级上册部编版",
           "artistName": "梦 周",
@@ -2079,7 +2090,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 87,
+          "rank": 88,
           "id": "1204278073",
           "name": "小学英语二年级上下册清华大学版",
           "artistName": "梦 周",
@@ -2090,7 +2101,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 88,
+          "rank": 89,
           "id": "1189827332",
           "name": "小学语文四年级下册部编版",
           "artistName": "梦 周",
@@ -2101,7 +2112,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 89,
+          "rank": 90,
           "id": "1201211832",
           "name": "商业画布 - 构建您自己的商业模式",
           "artistName": "子浩 张",
@@ -2112,7 +2123,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 90,
+          "rank": 91,
           "id": "881159868",
           "name": "图形工作室 - 徽标造物主和设计制造商",
           "artistName": "MULTI MOBILE Ltd",
@@ -2123,7 +2134,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 91,
+          "rank": 92,
           "id": "1207615831",
           "name": "小学英语五年级上下册河北冀教版",
           "artistName": "梦 周",
@@ -2134,7 +2145,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 92,
+          "rank": 93,
           "id": "509088443",
           "name": "簽名 +",
           "artistName": "Whizpool",
@@ -2145,7 +2156,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 93,
+          "rank": 94,
           "id": "883101890",
           "name": "PDF Reader Pro-注释,签名,编辑,转换,OCR",
           "artistName": "PDF Technologies, Inc.",
@@ -2156,7 +2167,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 94,
+          "rank": 95,
           "id": "623856305",
           "name": "PDF Export Pro - PDF编辑器和扫描",
           "artistName": "LiveBird Technologies Private Limited",
@@ -2167,7 +2178,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 95,
+          "rank": 96,
           "id": "1182270738",
           "name": "初中英语七年级下册北师大版",
           "artistName": "梦 周",
@@ -2178,7 +2189,7 @@
         },
         {
           "date": "2026-02-17",
-          "rank": 96,
+          "rank": 97,
           "id": "1189511227",
           "name": "小学语文三年级下册部编版 -学霸口袋助手",
           "artistName": "梦 周",
@@ -2186,17 +2197,6 @@
           "releaseDate": "2017-01-02T14:19:39-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/d5/c7/b9d5c786-035c-c594-1e28-95160ab5a07f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
           "url": ""
-        },
-        {
-          "date": "2026-02-17",
-          "rank": 97,
-          "id": "289968941",
-          "name": "Network Ping",
-          "artistName": "MochaSoft",
-          "kind": "Business",
-          "releaseDate": "2019-02-13T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/22/58/492258f6-a0cf-4e46-bbca-f3776f00aef8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/cn/app/network-ping/id289968941?uo=2"
         }
       ]
     }
