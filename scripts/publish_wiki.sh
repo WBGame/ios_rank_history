@@ -13,6 +13,7 @@ fi
 
 WORKDIR="${WORKDIR:-$PWD}"
 REPORT_DIR="${REPORT_DIR:-${WORKDIR}/reports}"
+LATEST_JSON="${LATEST_JSON:-${WORKDIR}/data/latest.json}"
 TMP_DIR="${TMP_DIR:-/tmp/wiki-sync-$$}"
 WIKI_DIR="${TMP_DIR}/wiki"
 REPO_URL="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git"
@@ -41,6 +42,13 @@ report_countries="$(sed -n 's/^- Countries: //p' "${latest_report}" | head -n1)"
 report_media_types="$(sed -n 's/^- Media Types: //p' "${latest_report}" | head -n1)"
 report_feeds="$(sed -n 's/^- Feeds: //p' "${latest_report}" | head -n1)"
 report_total_datasets="$(sed -n 's/^- Total datasets: //p' "${latest_report}" | head -n1)"
+
+if command -v jq >/dev/null 2>&1 && [[ -f "${LATEST_JSON}" ]]; then
+  report_countries="$(jq -r '[.datasets[].country | ascii_upcase] | unique | join(", ")' "${LATEST_JSON}" 2>/dev/null || echo "${report_countries}")"
+  report_media_types="$(jq -r '[.datasets[].mediaType] | unique | join(", ")' "${LATEST_JSON}" 2>/dev/null || echo "${report_media_types}")"
+  report_feeds="$(jq -r '[.datasets[].feedType] | unique | join(", ")' "${LATEST_JSON}" 2>/dev/null || echo "${report_feeds}")"
+  report_total_datasets="$(jq -r '.datasets | length' "${LATEST_JSON}" 2>/dev/null || echo "${report_total_datasets}")"
+fi
 
 cp "${latest_report}" "${WIKI_DIR}/${daily_page}"
 cp "${latest_report}" "${WIKI_DIR}/${latest_link_page}"
@@ -90,6 +98,31 @@ cp "${latest_report}" "${WIKI_DIR}/${latest_link_page}"
     echo "- [Daily-${d}.md](Daily-${d}.md)"
   done
 } > "${WIKI_DIR}/_Sidebar.md"
+
+if command -v jq >/dev/null 2>&1 && [[ -f "${LATEST_JSON}" ]]; then
+  {
+    echo
+    echo "## Top 3 Snapshot"
+    echo
+    media_types="$(jq -r '.datasets[].mediaType' "${LATEST_JSON}" | sort -u)"
+    while IFS= read -r media; do
+      [[ -z "${media}" ]] && continue
+      echo "### ${media^^}"
+      echo
+      echo "| Country | Feed | #1 | #2 | #3 |"
+      echo "| --- | --- | --- | --- | --- |"
+      jq -r --arg media "${media}" '
+        def esc: gsub("\\|"; "\\\\|");
+        .datasets
+        | map(select(.mediaType == $media))
+        | sort_by(.country, .feedType)
+        | .[]
+        | "| \(.country|ascii_upcase) | \(.feedType) | \((.items[0].name // "-")|esc) | \((.items[1].name // "-")|esc) | \((.items[2].name // "-")|esc) |"
+      ' "${LATEST_JSON}"
+      echo
+    done <<< "${media_types}"
+  } >> "${WIKI_DIR}/Home.md"
+fi
 
 # Sync recent report pages
 ls -1 "${REPORT_DIR}"/daily-*.md 2>/dev/null | sort -r | head -n 30 | while read -r f; do

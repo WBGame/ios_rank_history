@@ -77,7 +77,7 @@ Example:
 
 - Workflow `publish-wiki` publishes ranking markdown into GitHub Wiki.
 - Generates:
-  - `Home.md` (latest + recent reports index)
+  - `Home.md` (summary + recent reports + Top 3 snapshot)
   - `Latest.md` (always points to newest report)
   - `_Sidebar.md` (wiki quick navigation)
   - `Daily-YYYY-MM-DD.md` pages
