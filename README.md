@@ -47,6 +47,7 @@ Workflows installed:
 - `.github/workflows/daily-rank-sync.yml`
 - `.github/workflows/auto-fix.yml`
 - `.github/workflows/auto-merge-low-risk.yml`
+- `.github/workflows/publish-wiki.yml`
 
 ## Data source
 
@@ -71,3 +72,11 @@ Example:
 - Webhook notifications:
   - Set `NOTIFY_WEBHOOK_URL` in repository Secrets.
   - Optional variable `NOTIFY_PROVIDER` in repository Variables: `feishu` / `wecom` / `slack`.
+
+## Wiki publishing
+
+- Workflow `publish-wiki` publishes ranking markdown into GitHub Wiki.
+- Generates:
+  - `Home.md` (latest + recent reports index)
+  - `Daily-YYYY-MM-DD.md` pages
+- Requires repository Wiki enabled in GitHub settings.
