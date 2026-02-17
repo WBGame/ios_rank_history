@@ -20,7 +20,7 @@ jobs:
 
       - name: Publish ranking report to Wiki
         env:
-          GH_TOKEN: ${{ secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.WIKI_PAT || secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
           bash scripts/publish_wiki.sh

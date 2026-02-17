@@ -80,3 +80,4 @@ Example:
   - `Home.md` (latest + recent reports index)
   - `Daily-YYYY-MM-DD.md` pages
 - Requires repository Wiki enabled in GitHub settings.
+- Recommended secret: `WIKI_PAT` (PAT with `repo` scope). Fallback is `AUTO_FIX_PAT` then `GITHUB_TOKEN`.

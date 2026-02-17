@@ -16,12 +16,15 @@ REPORT_DIR="${REPORT_DIR:-${WORKDIR}/reports}"
 TMP_DIR="${TMP_DIR:-/tmp/wiki-sync-$$}"
 WIKI_DIR="${TMP_DIR}/wiki"
 REPO_URL="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git"
+CLONE_LOG="${TMP_DIR}/clone.log"
 
 mkdir -p "${TMP_DIR}"
 
-if ! git clone "${REPO_URL}" "${WIKI_DIR}" >/dev/null 2>&1; then
-  echo "[warn] failed to clone wiki repo. Make sure Wiki is enabled in repository settings."
-  exit 0
+if ! git clone "${REPO_URL}" "${WIKI_DIR}" >"${CLONE_LOG}" 2>&1; then
+  echo "[warn] failed to clone wiki repo, try bootstrap mode"
+  mkdir -p "${WIKI_DIR}"
+  git -C "${WIKI_DIR}" init -b master >/dev/null 2>&1 || git -C "${WIKI_DIR}" init >/dev/null 2>&1
+  git -C "${WIKI_DIR}" remote add origin "${REPO_URL}"
 fi
 
 latest_report="$(ls -1 "${REPORT_DIR}"/daily-*.md 2>/dev/null | sort | tail -n1 || true)"
@@ -70,6 +73,13 @@ if git diff --cached --quiet; then
 fi
 
 git commit -m "docs: update wiki rankings ${latest_date}" >/dev/null
-git push origin master >/dev/null 2>&1 || git push origin main >/dev/null 2>&1
+if ! git push origin master >/dev/null 2>&1 && ! git push origin main >/dev/null 2>&1; then
+  echo "[error] failed to push wiki pages"
+  if [[ -f "${CLONE_LOG}" ]]; then
+    echo "[debug] clone error:"
+    sed -n '1,120p' "${CLONE_LOG}"
+  fi
+  exit 1
+fi
 
 echo "[done] wiki updated: ${daily_page}"
