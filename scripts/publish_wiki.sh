@@ -35,26 +35,61 @@ fi
 
 latest_date="$(basename "${latest_report}" | sed -E 's/^daily-([0-9]{4}-[0-9]{2}-[0-9]{2})\.md$/\1/')"
 daily_page="Daily-${latest_date}.md"
+latest_link_page="Latest.md"
+
+report_countries="$(sed -n 's/^- Countries: //p' "${latest_report}" | head -n1)"
+report_media_types="$(sed -n 's/^- Media Types: //p' "${latest_report}" | head -n1)"
+report_feeds="$(sed -n 's/^- Feeds: //p' "${latest_report}" | head -n1)"
+report_total_datasets="$(sed -n 's/^- Total datasets: //p' "${latest_report}" | head -n1)"
 
 cp "${latest_report}" "${WIKI_DIR}/${daily_page}"
+cp "${latest_report}" "${WIKI_DIR}/${latest_link_page}"
 
 {
   echo "# iOS Rank Wiki"
   echo
-  echo "- Latest update: ${latest_date}"
-  echo "- Source repository: ${GITHUB_REPOSITORY}"
+  echo "| Item | Value |"
+  echo "| --- | --- |"
+  echo "| Latest update | ${latest_date} |"
+  echo "| Repository | [${GITHUB_REPOSITORY}](https://github.com/${GITHUB_REPOSITORY}) |"
+  echo "| Countries | ${report_countries:-N/A} |"
+  echo "| Media Types | ${report_media_types:-N/A} |"
+  echo "| Feeds | ${report_feeds:-N/A} |"
+  echo "| Total datasets | ${report_total_datasets:-N/A} |"
   echo
-  echo "## Latest Report"
+  echo "## Quick Links"
   echo
+  echo "- [Latest report](${latest_link_page})"
   echo "- [${daily_page}](${daily_page})"
+  echo
+  echo "## Navigation"
+  echo
+  echo "- [Home](Home)"
+  echo "- [Latest](${latest_link_page})"
+  echo "- [Recent reports](#recent-reports)"
   echo
   echo "## Recent Reports"
   echo
+  echo "| Date | Page |"
+  echo "| --- | --- |"
   ls -1 "${REPORT_DIR}"/daily-*.md 2>/dev/null | sort -r | head -n 30 | while read -r f; do
+    d="$(basename "$f" | sed -E 's/^daily-([0-9]{4}-[0-9]{2}-[0-9]{2})\.md$/\1/')"
+    echo "| ${d} | [Daily-${d}.md](Daily-${d}.md) |"
+  done
+} > "${WIKI_DIR}/Home.md"
+
+{
+  echo "## Wiki Navigation"
+  echo
+  echo "- [Home](Home)"
+  echo "- [Latest](${latest_link_page})"
+  echo
+  echo "### Recent Reports"
+  ls -1 "${REPORT_DIR}"/daily-*.md 2>/dev/null | sort -r | head -n 20 | while read -r f; do
     d="$(basename "$f" | sed -E 's/^daily-([0-9]{4}-[0-9]{2}-[0-9]{2})\.md$/\1/')"
     echo "- [Daily-${d}.md](Daily-${d}.md)"
   done
-} > "${WIKI_DIR}/Home.md"
+} > "${WIKI_DIR}/_Sidebar.md"
 
 # Sync recent report pages
 ls -1 "${REPORT_DIR}"/daily-*.md 2>/dev/null | sort -r | head -n 30 | while read -r f; do

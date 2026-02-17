@@ -78,6 +78,8 @@ Example:
 - Workflow `publish-wiki` publishes ranking markdown into GitHub Wiki.
 - Generates:
   - `Home.md` (latest + recent reports index)
+  - `Latest.md` (always points to newest report)
+  - `_Sidebar.md` (wiki quick navigation)
   - `Daily-YYYY-MM-DD.md` pages
 - Requires repository Wiki enabled in GitHub settings.
 - Recommended secret: `WIKI_PAT` (PAT with `repo` scope). Fallback is `AUTO_FIX_PAT` then `GITHUB_TOKEN`.
