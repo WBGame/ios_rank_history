@@ -10,7 +10,8 @@ Node-based daily iOS ranking sync with GitHub automation.
 
 ## Environment variables
 
-- `APPSTORE_COUNTRY` (default: `cn`)
+- `APPSTORE_COUNTRIES` (default: `cn,us,jp`)
+- `APPSTORE_COUNTRY` (legacy fallback when `APPSTORE_COUNTRIES` is not set)
 - `APPSTORE_LIMIT` (default: `100`)
 - `APPSTORE_FEED` (default: `top-free`; also accepts legacy `topfreeapplications`)
 - `FETCH_RETRIES` (default: `3`)
@@ -20,7 +21,13 @@ Node-based daily iOS ranking sync with GitHub automation.
 ## Data outputs
 
 - `data/latest.json`
+- `data/latest-cn.json`
+- `data/latest-us.json`
+- `data/latest-jp.json`
 - `data/YYYY-MM-DD.json`
+- `data/YYYY-MM-DD-cn.json`
+- `data/YYYY-MM-DD-us.json`
+- `data/YYYY-MM-DD-jp.json`
 - `data/history.ndjson`
 - `reports/daily-YYYY-MM-DD.md`
 
