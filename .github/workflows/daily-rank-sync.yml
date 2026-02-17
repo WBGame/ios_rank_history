@@ -35,6 +35,30 @@ jobs:
           npm run sync:ios-rank --if-present
           npm run rank:daily --if-present
 
+      - name: Validate data coverage
+        env:
+          EXPECTED_COUNTRIES: ${{ vars.APPSTORE_COUNTRIES || 'cn,us,jp' }}
+          EXPECTED_MEDIA_TYPES: ${{ vars.APPSTORE_MEDIA_TYPES || 'apps,games' }}
+          EXPECTED_FEEDS: ${{ vars.APPSTORE_FEEDS || vars.APPSTORE_FEED || 'top-free,top-paid' }}
+          MIN_COVERAGE_RATIO: ${{ vars.MIN_COVERAGE_RATIO || '1.0' }}
+        run: |
+          bash scripts/validate_data.sh
+
+      - name: Prune old snapshots
+        id: prune
+        env:
+          DATA_RETENTION_DAYS: ${{ vars.DATA_RETENTION_DAYS || '14' }}
+          PRUNE_ARCHIVE_DIR: /tmp/prune-archive
+        run: |
+          bash scripts/prune_data.sh
+
+      - name: Upload prune archive
+        if: steps.prune.outputs.archive_file != ''
+        uses: actions/upload-artifact@v6
+        with:
+          name: pruned-snapshots-${{ github.run_id }}
+          path: ${{ steps.prune.outputs.archive_file }}
+
       - name: Create pull request for rank data update
         id: cpr
         uses: peter-evans/create-pull-request@v8
