@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-17",
   "country": "cn",
   "mediaType": "apps",
   "feedType": "top-paid",
@@ -9,30 +9,19 @@
   "total": 97,
   "items": [
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 1,
       "id": "6759132280",
       "name": "海关税则速查 - 2026海关税则查询海关编码查询进出口关税",
       "artistName": "Wuhan Xingyun Technology Co., Ltd.",
       "kind": "Business",
       "releaseDate": "2026-02-16T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a8/33/d4a833a2-61af-bc9d-6691-3b1e998b40ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/f7/64/d1f7642e-727a-4958-1cc0-4132636f7837/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/cn/app/%E6%B5%B7%E5%85%B3%E7%A8%8E%E5%88%99%E9%80%9F%E6%9F%A5-2026%E6%B5%B7%E5%85%B3%E7%A8%8E%E5%88%99%E6%9F%A5%E8%AF%A2%E6%B5%B7%E5%85%B3%E7%BC%96%E7%A0%81%E6%9F%A5%E8%AF%A2%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%85%B3%E7%A8%8E/id6759132280?uo=2"
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 2,
-      "id": "342548956",
-      "name": "TurboScan Pro",
-      "artistName": "Piksoft Inc.",
-      "kind": "Business",
-      "releaseDate": "2009-12-07T09:46:12-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/02/fc/9802fc47-b5c2-4f87-4b4c-05e18ad5822d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 3,
       "id": "364876095",
       "name": "Jump Desktop (RDP, VNC, Fluid)",
       "artistName": "Phase Five Systems",
@@ -42,8 +31,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 4,
+      "date": "2026-02-17",
+      "rank": 3,
       "id": "1291687067",
       "name": "证件复印",
       "artistName": "同庆 牛",
@@ -53,8 +42,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 5,
+      "date": "2026-02-17",
+      "rank": 4,
       "id": "1435859725",
       "name": "剑桥国际英语教程入门级",
       "artistName": "梦 周",
@@ -64,19 +53,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 6,
-      "id": "883101890",
-      "name": "PDF Reader Pro-注释,签名,编辑,转换,OCR",
-      "artistName": "PDF Technologies, Inc.",
-      "kind": "Business",
-      "releaseDate": "2014-06-21T21:55:32-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/46/96/f64696cb-408e-6a22-46d2-43f06a27898e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 7,
+      "date": "2026-02-17",
+      "rank": 5,
       "id": "6478600208",
       "name": "税则查询",
       "artistName": "辉 徐",
@@ -86,8 +64,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 8,
+      "date": "2026-02-17",
+      "rank": 6,
       "id": "6745967929",
       "name": "Secure Voice Recorder",
       "artistName": "Makayama.com",
@@ -97,7 +75,29 @@
       "url": "https://apps.apple.com/cn/app/secure-voice-recorder/id6745967929?uo=2"
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 7,
+      "id": "1075701407",
+      "name": "海关税则查询",
+      "artistName": "华 孙",
+      "kind": "Business",
+      "releaseDate": "2016-01-21T21:51:19-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a8/d3/67/a8d367a3-45c2-fe38-64f2-319993f55fb1/mzl.qejynfyg.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 8,
+      "id": "6444353154",
+      "name": "世界各国数据速查",
+      "artistName": "阳 沈",
+      "kind": "Business",
+      "releaseDate": "2022-11-25T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ee/2b/c0ee2b51-51e2-598f-7173-89cbd5e08be8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 9,
       "id": "558160040",
       "name": "vMEyeCloud",
@@ -108,7 +108,7 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 10,
       "id": "333212604",
       "name": "蒙恬名片王Mobile",
@@ -119,7 +119,7 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 11,
       "id": "921217360",
       "name": "二维码工房Pro-二维码生成器二维码扫描扫码",
@@ -130,19 +130,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 12,
-      "id": "1075701407",
-      "name": "海关税则查询",
-      "artistName": "华 孙",
-      "kind": "Business",
-      "releaseDate": "2016-01-21T21:51:19-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a8/d3/67/a8d367a3-45c2-fe38-64f2-319993f55fb1/mzl.qejynfyg.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 13,
       "id": "338550388",
       "name": "Audio Memos",
       "artistName": "Imesart S.a.r.l.",
@@ -152,19 +141,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 14,
-      "id": "6444353154",
-      "name": "世界各国数据速查",
-      "artistName": "阳 沈",
-      "kind": "Business",
-      "releaseDate": "2022-11-25T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ee/2b/c0ee2b51-51e2-598f-7173-89cbd5e08be8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 15,
+      "date": "2026-02-17",
+      "rank": 13,
       "id": "1232108557",
       "name": "移动公证录音专业版-最好用的录音机及电话录音软件",
       "artistName": "Beijing Zhengtongrenke Technology Co., Ltd.",
@@ -174,7 +152,29 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 14,
+      "id": "6758658840",
+      "name": "PixPhoto-证件照,高清证件照制作",
+      "artistName": "航 余",
+      "kind": "Business",
+      "releaseDate": "2026-02-07T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/34/e3/7c34e389-b288-46a3-ece8-3e02bd47d9d7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/pixphoto-%E8%AF%81%E4%BB%B6%E7%85%A7-%E9%AB%98%E6%B8%85%E8%AF%81%E4%BB%B6%E7%85%A7%E5%88%B6%E4%BD%9C/id6758658840?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 15,
+      "id": "1555193080",
+      "name": "Calcility - Minimal Calculator",
+      "artistName": "翔 何",
+      "kind": "Business",
+      "releaseDate": "2021-04-05T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/be/a9/1e/bea91e6a-6659-3c86-84dd-5fd175deafcf/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 16,
       "id": "1460078746",
       "name": "口袋扫描仪Pro - 专业PDF编辑、文字识别",
@@ -185,30 +185,19 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 17,
-      "id": "6758658840",
-      "name": "PixPhoto-证件照,高清证件照制作",
-      "artistName": "航 余",
+      "id": "342548956",
+      "name": "TurboScan Pro",
+      "artistName": "Piksoft Inc.",
       "kind": "Business",
-      "releaseDate": "2026-02-07T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/34/e3/7c34e389-b288-46a3-ece8-3e02bd47d9d7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/pixphoto-%E8%AF%81%E4%BB%B6%E7%85%A7-%E9%AB%98%E6%B8%85%E8%AF%81%E4%BB%B6%E7%85%A7%E5%88%B6%E4%BD%9C/id6758658840?uo=2"
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 18,
-      "id": "1555193080",
-      "name": "Calcility - Minimal Calculator",
-      "artistName": "翔 何",
-      "kind": "Business",
-      "releaseDate": "2021-04-05T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/be/a9/1e/bea91e6a-6659-3c86-84dd-5fd175deafcf/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "releaseDate": "2009-12-07T09:46:12-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/02/fc/9802fc47-b5c2-4f87-4b4c-05e18ad5822d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 19,
+      "date": "2026-02-17",
+      "rank": 18,
       "id": "957190641",
       "name": "Logo工房",
       "artistName": "芸倩 潘",
@@ -218,8 +207,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 20,
+      "date": "2026-02-17",
+      "rank": 19,
       "id": "1185298870",
       "name": "视频合成: 融合、叠加、合并图像和视频",
       "artistName": "丽譞 牛",
@@ -229,8 +218,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 21,
+      "date": "2026-02-17",
+      "rank": 20,
       "id": "576443892",
       "name": "Logo Creator & Maker",
       "artistName": "Logo Maker LLC",
@@ -240,7 +229,18 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 21,
+      "id": "1435723728",
+      "name": "剑桥国际英语教程1级",
+      "artistName": "梦 周",
+      "kind": "Business",
+      "releaseDate": "2018-09-11T00:58:52-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f5/a1/04/f5a10420-dd50-849e-fed1-58f109cc3731/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 22,
       "id": "522627917",
       "name": "FTPManager Pro",
@@ -251,40 +251,40 @@
       "url": "https://apps.apple.com/cn/app/ftpmanager-pro/id522627917?uo=2"
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 23,
-      "id": "1296628260",
-      "name": "新概念英语青少版入门级AB -经典品牌教材",
+      "id": "1435569793",
+      "name": "剑桥国际英语教程2级",
       "artistName": "梦 周",
       "kind": "Business",
-      "releaseDate": "2017-10-16T14:05:41-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c6/8c/04/c68c04ea-0ec5-0334-e6b6-97329e34b1df/pr_source.png/100x100bb.png",
+      "releaseDate": "2018-09-08T15:36:55-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/37/44/693744f4-dce9-d619-5a3f-648fba9a8f2b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 24,
-      "id": "892393815",
-      "name": "录音机 - AVR PRO",
-      "artistName": "Newkline Co., Ltd.",
+      "id": "1197953047",
+      "name": "高中语文必修下册人教部编版",
+      "artistName": "梦 周",
       "kind": "Business",
-      "releaseDate": "2014-07-05T23:14:03-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a2/aa/f9a2aa8e-9bbf-e29f-09f8-17b5b6b3055a/AppIcon_PRO-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "releaseDate": "2017-01-23T14:11:28-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/b8/e3/47b8e30b-16bb-e706-5c29-b01d97f26cc2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 25,
-      "id": "295798315",
-      "name": "文件",
-      "artistName": "Savy Soda Pty Ltd",
+      "id": "288013812",
+      "name": "TimeScroller - timezone helper",
+      "artistName": "Terry Brett",
       "kind": "Business",
-      "releaseDate": "2008-11-20T10:16:08-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c8/74/1fc874c3-5190-2747-8e81-31acc8e0eff2/DocumentsPlusAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "releaseDate": "2019-02-02T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/8f/0e/57/8f0e5734-00bc-1611-3749-21213b07bef7/AppIcon-1x_U007emarketing-0-2-0-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 26,
       "id": "1208354930",
       "name": "高考英语必备3500词",
@@ -295,8 +295,41 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 27,
+      "id": "1296628260",
+      "name": "新概念英语青少版入门级AB -经典品牌教材",
+      "artistName": "梦 周",
+      "kind": "Business",
+      "releaseDate": "2017-10-16T14:05:41-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c6/8c/04/c68c04ea-0ec5-0334-e6b6-97329e34b1df/pr_source.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 28,
+      "id": "892393815",
+      "name": "录音机 - AVR PRO",
+      "artistName": "Newkline Co., Ltd.",
+      "kind": "Business",
+      "releaseDate": "2014-07-05T23:14:03-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a2/aa/f9a2aa8e-9bbf-e29f-09f8-17b5b6b3055a/AppIcon_PRO-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 29,
+      "id": "295798315",
+      "name": "文件",
+      "artistName": "Savy Soda Pty Ltd",
+      "kind": "Business",
+      "releaseDate": "2008-11-20T10:16:08-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c8/74/1fc874c3-5190-2747-8e81-31acc8e0eff2/DocumentsPlusAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 30,
       "id": "307868751",
       "name": "JotNot扫描仪应用程序专业版",
       "artistName": "MobiTech 3000 LLC",
@@ -306,151 +339,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 28,
-      "id": "382005326",
-      "name": "G通讯录 - GContact",
-      "artistName": "EJing",
-      "kind": "Business",
-      "releaseDate": "2010-07-29T11:32:13-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/87/88/7f878819-58b4-b288-cc8b-8836fcbc1d24/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 29,
-      "id": "1435723728",
-      "name": "剑桥国际英语教程1级",
-      "artistName": "梦 周",
-      "kind": "Business",
-      "releaseDate": "2018-09-11T00:58:52-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f5/a1/04/f5a10420-dd50-849e-fed1-58f109cc3731/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 30,
-      "id": "946930094",
-      "name": "FineReader Pro: PDF Scanner",
-      "artistName": "ABBYY USA Software House Inc",
-      "kind": "Business",
-      "releaseDate": "2015-01-07T23:39:05-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d6/dd/34d6ddca-2585-1879-87d7-1990a581cad0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 31,
-      "id": "401818935",
-      "name": "Genius Scan Enterprise - PDF",
-      "artistName": "The Grizzly Labs",
-      "kind": "Business",
-      "releaseDate": "2010-12-15T20:48:12-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/bb/09/25bb09ff-b0ea-e5a7-9c8a-852c972a4d37/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/genius-scan-enterprise-pdf/id401818935?uo=2"
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 32,
-      "id": "1435569793",
-      "name": "剑桥国际英语教程2级",
-      "artistName": "梦 周",
-      "kind": "Business",
-      "releaseDate": "2018-09-08T15:36:55-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/37/44/693744f4-dce9-d619-5a3f-648fba9a8f2b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 33,
-      "id": "1197953047",
-      "name": "高中语文必修下册人教部编版",
-      "artistName": "梦 周",
-      "kind": "Business",
-      "releaseDate": "2017-01-23T14:11:28-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/b8/e3/47b8e30b-16bb-e706-5c29-b01d97f26cc2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 34,
-      "id": "428974099",
-      "name": "Mail+ for Outlook",
-      "artistName": "MAIL PLUS APP LLC",
-      "kind": "Business",
-      "releaseDate": "2011-04-18T16:19:56-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/f9/75/6df975bf-b88a-9784-3e9a-c53b4fe9832d/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 35,
-      "id": "288013812",
-      "name": "TimeScroller - timezone helper",
-      "artistName": "Terry Brett",
-      "kind": "Business",
-      "releaseDate": "2019-02-02T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/8f/0e/57/8f0e5734-00bc-1611-3749-21213b07bef7/AppIcon-1x_U007emarketing-0-2-0-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 36,
-      "id": "1579255889",
-      "name": "小法典 - 你的私人法律服务助理",
-      "artistName": "淑婷 刘",
-      "kind": "Business",
-      "releaseDate": "2021-08-22T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/fb/82/06fb8257-2098-44ea-354d-aa86a4e3bd46/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 37,
-      "id": "530058716",
-      "name": "BusinessCardDesigner - 名片制作，创作者，编辑，模板，PDF，AirPrint和电子邮件的功能设计",
-      "artistName": "Katsushi Nakano",
-      "kind": "Business",
-      "releaseDate": "2012-06-01T16:52:29-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9e/f7/09/9ef70977-51e0-0afa-2d8c-69f0a51b3416/mzl.axcvtwdj.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 38,
-      "id": "362470364",
-      "name": "Windows远程桌面",
-      "artistName": "Hana Mobile",
-      "kind": "Business",
-      "releaseDate": "2010-03-19T19:23:41-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/44/86/2e448600-6e27-ef51-3884-cc85354d2f05/AppIconConnectMyPC-0-1x_U007emarketing-0-85-220-5.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 39,
-      "id": "1208354736",
-      "name": "中考英语必备1600词",
-      "artistName": "梦 周",
-      "kind": "Business",
-      "releaseDate": "2017-02-23T19:33:19-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/40/0f/7e/400f7e7e-a0ee-c5f3-9916-6be78464856c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 40,
-      "id": "1205236506",
-      "name": "新概念英语青少版1A1B -经典品牌学习教材",
-      "artistName": "梦 周",
-      "kind": "Business",
-      "releaseDate": "2017-02-12T13:41:43-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/2c/c7/e32cc7fb-8364-3498-3759-1038572e10a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 41,
       "id": "6756067768",
       "name": "海关税则大全",
       "artistName": "丽丽 许",
@@ -460,52 +350,118 @@
       "url": "https://apps.apple.com/cn/app/%E6%B5%B7%E5%85%B3%E7%A8%8E%E5%88%99%E5%A4%A7%E5%85%A8/id6756067768?uo=2"
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 32,
+      "id": "382005326",
+      "name": "G通讯录 - GContact",
+      "artistName": "EJing",
+      "kind": "Business",
+      "releaseDate": "2010-07-29T11:32:13-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/87/88/7f878819-58b4-b288-cc8b-8836fcbc1d24/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 33,
+      "id": "946930094",
+      "name": "FineReader Pro: PDF Scanner",
+      "artistName": "ABBYY USA Software House Inc",
+      "kind": "Business",
+      "releaseDate": "2015-01-07T23:39:05-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d6/dd/34d6ddca-2585-1879-87d7-1990a581cad0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 34,
+      "id": "401818935",
+      "name": "Genius Scan Enterprise - PDF",
+      "artistName": "The Grizzly Labs",
+      "kind": "Business",
+      "releaseDate": "2010-12-15T20:48:12-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/bb/09/25bb09ff-b0ea-e5a7-9c8a-852c972a4d37/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/genius-scan-enterprise-pdf/id401818935?uo=2"
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 35,
+      "id": "1135811739",
+      "name": "传真应用: 从手机发送传真",
+      "artistName": "BPMobile",
+      "kind": "Business",
+      "releaseDate": "2016-09-01T18:59:02-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/88/53d988a4-2532-20dc-f1b7-f6ef1eca9420/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 36,
+      "id": "428974099",
+      "name": "Mail+ for Outlook",
+      "artistName": "MAIL PLUS APP LLC",
+      "kind": "Business",
+      "releaseDate": "2011-04-18T16:19:56-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/f9/75/6df975bf-b88a-9784-3e9a-c53b4fe9832d/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 37,
+      "id": "1579255889",
+      "name": "小法典 - 你的私人法律服务助理",
+      "artistName": "淑婷 刘",
+      "kind": "Business",
+      "releaseDate": "2021-08-22T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/fb/82/06fb8257-2098-44ea-354d-aa86a4e3bd46/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 38,
+      "id": "530058716",
+      "name": "BusinessCardDesigner - 名片制作，创作者，编辑，模板，PDF，AirPrint和电子邮件的功能设计",
+      "artistName": "Katsushi Nakano",
+      "kind": "Business",
+      "releaseDate": "2012-06-01T16:52:29-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9e/f7/09/9ef70977-51e0-0afa-2d8c-69f0a51b3416/mzl.axcvtwdj.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 39,
+      "id": "362470364",
+      "name": "Windows远程桌面",
+      "artistName": "Hana Mobile",
+      "kind": "Business",
+      "releaseDate": "2010-03-19T19:23:41-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/44/86/2e448600-6e27-ef51-3884-cc85354d2f05/AppIconConnectMyPC-0-1x_U007emarketing-0-85-220-5.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 40,
+      "id": "1208354736",
+      "name": "中考英语必备1600词",
+      "artistName": "梦 周",
+      "kind": "Business",
+      "releaseDate": "2017-02-23T19:33:19-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/40/0f/7e/400f7e7e-a0ee-c5f3-9916-6be78464856c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 41,
+      "id": "1205236506",
+      "name": "新概念英语青少版1A1B -经典品牌学习教材",
+      "artistName": "梦 周",
+      "kind": "Business",
+      "releaseDate": "2017-02-12T13:41:43-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/2c/c7/e32cc7fb-8364-3498-3759-1038572e10a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 42,
-      "id": "1207732284",
-      "name": "小学英语三年级上下册福建闽教版",
-      "artistName": "梦 周",
-      "kind": "Business",
-      "releaseDate": "2017-02-21T18:32:51-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/24/bf/e024bf4a-fea0-c3f1-643d-bd6b70b4f319/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 43,
-      "id": "1207732298",
-      "name": "小学英语五年级上下册福建闽教版",
-      "artistName": "梦 周",
-      "kind": "Business",
-      "releaseDate": "2017-02-27T16:38:46-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/ca/fe/8acafe4a-968f-57b3-bac2-4ac2c3fe0e84/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 44,
-      "id": "412588865",
-      "name": "USB Disk Pro for iPhone",
-      "artistName": "Imesart S.a.r.l.",
-      "kind": "Business",
-      "releaseDate": "2011-01-05T01:53:46-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/c9/b8/7ac9b8a6-290e-78f6-0b35-777e75c07c8f/IconPro-iPhone-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 45,
-      "id": "373045717",
-      "name": "Voice Recorder HD",
-      "artistName": "eFUSION Co., Ltd.",
-      "kind": "Business",
-      "releaseDate": "2010-05-27T19:17:08-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/30/86/b73086ce-8cfc-c44a-5264-7db73f2adb61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 46,
       "id": "423213182",
       "name": "inShort: 项目和工作流规划专家",
       "artistName": "Jury Shortki",
@@ -515,7 +471,51 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 43,
+      "id": "1207732284",
+      "name": "小学英语三年级上下册福建闽教版",
+      "artistName": "梦 周",
+      "kind": "Business",
+      "releaseDate": "2017-02-21T18:32:51-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/24/bf/e024bf4a-fea0-c3f1-643d-bd6b70b4f319/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 44,
+      "id": "1207732298",
+      "name": "小学英语五年级上下册福建闽教版",
+      "artistName": "梦 周",
+      "kind": "Business",
+      "releaseDate": "2017-02-27T16:38:46-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/ca/fe/8acafe4a-968f-57b3-bac2-4ac2c3fe0e84/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 45,
+      "id": "412588865",
+      "name": "USB Disk Pro for iPhone",
+      "artistName": "Imesart S.a.r.l.",
+      "kind": "Business",
+      "releaseDate": "2011-01-05T01:53:46-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/c9/b8/7ac9b8a6-290e-78f6-0b35-777e75c07c8f/IconPro-iPhone-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 46,
+      "id": "373045717",
+      "name": "Voice Recorder HD",
+      "artistName": "eFUSION Co., Ltd.",
+      "kind": "Business",
+      "releaseDate": "2010-05-27T19:17:08-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/30/86/b73086ce-8cfc-c44a-5264-7db73f2adb61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 47,
       "id": "1126113478",
       "name": "Touchscreen Test",
@@ -526,19 +526,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 48,
-      "id": "1135811739",
-      "name": "传真应用: 从手机发送传真",
-      "artistName": "BPMobile",
-      "kind": "Business",
-      "releaseDate": "2016-09-01T18:59:02-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/88/53d988a4-2532-20dc-f1b7-f6ef1eca9420/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 49,
       "id": "1384762505",
       "name": "牛津少儿英语Let’s go 1",
       "artistName": "梦 周",
@@ -548,8 +537,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 50,
+      "date": "2026-02-17",
+      "rank": 49,
       "id": "409586727",
       "name": "汇率换算",
       "artistName": "EJing",
@@ -559,8 +548,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 51,
+      "date": "2026-02-17",
+      "rank": 50,
       "id": "899313582",
       "name": "PDF工作室 - 编辑文件，PDF格式转换，添加图片，PDF批注，签署文件",
       "artistName": "MULTI MOBILE Ltd",
@@ -570,8 +559,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 52,
+      "date": "2026-02-17",
+      "rank": 51,
       "id": "333211045",
       "name": "WorldCard Mobile",
       "artistName": "Penpower Technology Ltd.",
@@ -581,8 +570,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 53,
+      "date": "2026-02-17",
+      "rank": 52,
       "id": "285877935",
       "name": "QuickVoice2Text Email (PRO Recorder)",
       "artistName": "nFinity Inc",
@@ -592,8 +581,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 54,
+      "date": "2026-02-17",
+      "rank": 53,
       "id": "936694037",
       "name": "录音机专业版: 高清录制",
       "artistName": "LiveBird Technologies Private Limited",
@@ -603,8 +592,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 55,
+      "date": "2026-02-17",
+      "rank": 54,
       "id": "1188586848",
       "name": "小学语文一年级下册部编版",
       "artistName": "梦 周",
@@ -614,8 +603,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 56,
+      "date": "2026-02-17",
+      "rank": 55,
       "id": "755134885",
       "name": "Scrollit: display scrolling",
       "artistName": "AMAXIM APPS, INC",
@@ -625,8 +614,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 57,
+      "date": "2026-02-17",
+      "rank": 56,
       "id": "1207732288",
       "name": "小学英语四年级上下册福建闽教版",
       "artistName": "梦 周",
@@ -636,8 +625,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 58,
+      "date": "2026-02-17",
+      "rank": 57,
       "id": "285750155",
       "name": "iRecorder Pro 录音机",
       "artistName": "SIMPLETOUCH LLC",
@@ -647,8 +636,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 59,
+      "date": "2026-02-17",
+      "rank": 58,
       "id": "310425060",
       "name": "WiFi 移动硬盘 HD Instant SMB Network Server Share",
       "artistName": "Savy Soda Pty Ltd",
@@ -658,8 +647,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 60,
+      "date": "2026-02-17",
+      "rank": 59,
       "id": "1207732664",
       "name": "小学英语六年级上下册福建闽教版",
       "artistName": "梦 周",
@@ -669,8 +658,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 61,
+      "date": "2026-02-17",
+      "rank": 60,
       "id": "1441926695",
       "name": "语音笔记 PRO - 录音机 AI笔记",
       "artistName": "Newkline Co., Ltd.",
@@ -680,8 +669,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 62,
+      "date": "2026-02-17",
+      "rank": 61,
       "id": "288362053",
       "name": "Remote Desktop - RDP",
       "artistName": "MochaSoft",
@@ -691,8 +680,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 63,
+      "date": "2026-02-17",
+      "rank": 62,
       "id": "353483464",
       "name": "EagleEyes-plus",
       "artistName": "Avtech",
@@ -702,8 +691,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 64,
+      "date": "2026-02-17",
+      "rank": 63,
       "id": "1183169428",
       "name": "初中英语六年级上下册鲁教版 -五四学制",
       "artistName": "梦 周",
@@ -713,8 +702,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 65,
+      "date": "2026-02-17",
+      "rank": 64,
       "id": "1384267946",
       "name": "牛津少儿英语Let’s go begin",
       "artistName": "梦 周",
@@ -724,8 +713,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 66,
+      "date": "2026-02-17",
+      "rank": 65,
       "id": "1201209424",
       "name": "专业扫描仪 — PDF文件扫描",
       "artistName": "Zafar Ullah",
@@ -735,8 +724,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 67,
+      "date": "2026-02-17",
+      "rank": 66,
       "id": "347345474",
       "name": "名片扫描 Business Card Reader Pro",
       "artistName": "ABBYY USA Software House Inc",
@@ -746,8 +735,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 68,
+      "date": "2026-02-17",
+      "rank": 67,
       "id": "685978557",
       "name": "声控录音－声控开启、后台录音",
       "artistName": "召伟 何",
@@ -757,8 +746,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 69,
+      "date": "2026-02-17",
+      "rank": 68,
       "id": "1385272502",
       "name": "牛津少儿英语Let’s go 2",
       "artistName": "梦 周",
@@ -768,7 +757,18 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 69,
+      "id": "577499909",
+      "name": "TapeACall Pro: 记录通话记录",
+      "artistName": "Mosaic S.r.l.",
+      "kind": "Business",
+      "releaseDate": "2013-01-27T14:05:15-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 70,
       "id": "1370748482",
       "name": "英语图解学习词典国际版",
@@ -779,19 +779,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 71,
-      "id": "577499909",
-      "name": "TapeACall Pro: 记录通话记录",
-      "artistName": "Mosaic S.r.l.",
-      "kind": "Business",
-      "releaseDate": "2013-01-27T14:05:15-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 72,
       "id": "608985698",
       "name": "VesselFinder Pro",
       "artistName": "AstraPaging Ltd.",
@@ -801,8 +790,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 73,
+      "date": "2026-02-17",
+      "rank": 72,
       "id": "1202079488",
       "name": "小学语文四年级上册北师大版",
       "artistName": "梦 周",
@@ -812,8 +801,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 74,
+      "date": "2026-02-17",
+      "rank": 73,
       "id": "812959928",
       "name": "纳米仓库：仓库核算及销售管理",
       "artistName": "Erziman Asaliyev",
@@ -823,7 +812,18 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 74,
+      "id": "963570332",
+      "name": "請求書 見積書 かんたん作成の新定番 SmartForm",
+      "artistName": "whitez",
+      "kind": "Business",
+      "releaseDate": "2015-02-18T22:52:33-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/6c/eb/616ceb37-aa2e-a59a-d3f7-ba987d11996d/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 75,
       "id": "598268211",
       "name": "声控录音机",
@@ -834,19 +834,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 76,
-      "id": "963570332",
-      "name": "請求書 見積書 かんたん作成の新定番 SmartForm",
-      "artistName": "whitez",
-      "kind": "Business",
-      "releaseDate": "2015-02-18T22:52:33-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/6c/eb/616ceb37-aa2e-a59a-d3f7-ba987d11996d/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 77,
       "id": "427761719",
       "name": "PrintCentral Pro for iPhone",
       "artistName": "EuroSmartz Ltd",
@@ -856,8 +845,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 78,
+      "date": "2026-02-17",
+      "rank": 77,
       "id": "1188969234",
       "name": "小学语文二年级下册部编版",
       "artistName": "梦 周",
@@ -867,8 +856,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 79,
+      "date": "2026-02-17",
+      "rank": 78,
       "id": "1197952631",
       "name": "高中语文必修上册人教部编版",
       "artistName": "梦 周",
@@ -878,8 +867,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 80,
+      "date": "2026-02-17",
+      "rank": 79,
       "id": "1297102134",
       "name": "新概念英语青少版4A4B -经典品牌教材",
       "artistName": "梦 周",
@@ -889,8 +878,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 81,
+      "date": "2026-02-17",
+      "rank": 80,
       "id": "478861246",
       "name": "Doc Scan Pro - PDF Fax 文档扫描仪",
       "artistName": "IFUNPLAY CO., LTD.",
@@ -900,8 +889,8 @@
       "url": "https://apps.apple.com/cn/app/doc-scan-pro-pdf-fax-%E6%96%87%E6%A1%A3%E6%89%AB%E6%8F%8F%E4%BB%AA/id478861246?uo=2"
     },
     {
-      "date": "2026-02-18",
-      "rank": 82,
+      "date": "2026-02-17",
+      "rank": 81,
       "id": "1207615827",
       "name": "小学英语四年级上下册河北冀教版",
       "artistName": "梦 周",
@@ -911,8 +900,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 83,
+      "date": "2026-02-17",
+      "rank": 82,
       "id": "550062698",
       "name": "Inkflow Plus Visual Notebook",
       "artistName": "Qrayon, LLC",
@@ -922,8 +911,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 84,
+      "date": "2026-02-17",
+      "rank": 83,
       "id": "1189508765",
       "name": "人教版小学语文三年级上册",
       "artistName": "梦 周",
@@ -933,8 +922,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 85,
+      "date": "2026-02-17",
+      "rank": 84,
       "id": "1207615823",
       "name": "小学英语三年级上下册河北冀教版",
       "artistName": "梦 周",
@@ -944,8 +933,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
-      "rank": 86,
+      "date": "2026-02-17",
+      "rank": 85,
       "id": "1206730434",
       "name": "小学英语四年级上下册鲁科版",
       "artistName": "阳志 欧",
@@ -955,7 +944,18 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 86,
+      "id": "294934058",
+      "name": "HotSchedules",
+      "artistName": "HotSchedules",
+      "kind": "Business",
+      "releaseDate": "2008-10-30T22:30:52-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/f8/72/78f872a3-4e39-789e-343f-099c6cb2a592/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 87,
       "id": "1188350026",
       "name": "小学语文二年级上册部编版",
@@ -966,7 +966,7 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 88,
       "id": "1204278073",
       "name": "小学英语二年级上下册清华大学版",
@@ -977,19 +977,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 89,
-      "id": "294934058",
-      "name": "HotSchedules",
-      "artistName": "HotSchedules",
-      "kind": "Business",
-      "releaseDate": "2008-10-30T22:30:52-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/f8/72/78f872a3-4e39-789e-343f-099c6cb2a592/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 90,
       "id": "1189827332",
       "name": "小学语文四年级下册部编版",
       "artistName": "梦 周",
@@ -999,7 +988,18 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 90,
+      "id": "1201211832",
+      "name": "商业画布 - 构建您自己的商业模式",
+      "artistName": "子浩 张",
+      "kind": "Business",
+      "releaseDate": "2017-02-02T13:53:55-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/91/0b/46/910b4671-32a3-6c04-8d2c-49163b4200f7/AppIcon-0-1x_U007emarketing-0-0-85-220-10.jpeg/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 91,
       "id": "881159868",
       "name": "图形工作室 - 徽标造物主和设计制造商",
@@ -1010,7 +1010,7 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 92,
       "id": "1207615831",
       "name": "小学英语五年级上下册河北冀教版",
@@ -1021,19 +1021,8 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 93,
-      "id": "1201211832",
-      "name": "商业画布 - 构建您自己的商业模式",
-      "artistName": "子浩 张",
-      "kind": "Business",
-      "releaseDate": "2017-02-02T13:53:55-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/91/0b/46/910b4671-32a3-6c04-8d2c-49163b4200f7/AppIcon-0-1x_U007emarketing-0-0-85-220-10.jpeg/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-18",
-      "rank": 94,
       "id": "509088443",
       "name": "簽名 +",
       "artistName": "Whizpool",
@@ -1043,7 +1032,18 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
+      "rank": 94,
+      "id": "883101890",
+      "name": "PDF Reader Pro-注释,签名,编辑,转换,OCR",
+      "artistName": "PDF Technologies, Inc.",
+      "kind": "Business",
+      "releaseDate": "2014-06-21T21:55:32-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/46/96/f64696cb-408e-6a22-46d2-43f06a27898e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
       "rank": 95,
       "id": "623856305",
       "name": "PDF Export Pro - PDF编辑器和扫描",
@@ -1054,7 +1054,7 @@
       "url": "https://apps.apple.com/cn/app/pdf-export-pro-pdf%E7%BC%96%E8%BE%91%E5%99%A8%E5%92%8C%E6%89%AB%E6%8F%8F/id623856305?uo=2"
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 96,
       "id": "1182270738",
       "name": "初中英语七年级下册北师大版",
@@ -1065,7 +1065,7 @@
       "url": ""
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "rank": 97,
       "id": "1189511227",
       "name": "小学语文三年级下册部编版 -学霸口袋助手",
