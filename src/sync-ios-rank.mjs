@@ -4,14 +4,34 @@ import { join } from 'node:path';
 
 const COUNTRY = process.env.APPSTORE_COUNTRY || 'cn';
 const LIMIT = Number.parseInt(process.env.APPSTORE_LIMIT || '100', 10);
-const FEED_TYPE = process.env.APPSTORE_FEED || 'topfreeapplications';
+const FEED_TYPE = process.env.APPSTORE_FEED || 'top-free';
 const DATA_DIR = process.env.DATA_DIR || 'data';
 const MAX_RETRIES = Number.parseInt(process.env.FETCH_RETRIES || '3', 10);
 const RETRY_DELAY_MS = Number.parseInt(process.env.FETCH_RETRY_DELAY_MS || '1500', 10);
 const FALLBACK_FILE = process.env.APPSTORE_FALLBACK_FILE || '';
 
 const today = new Date().toISOString().slice(0, 10);
-const feedUrl = `https://rss.applemarketingtools.com/api/v2/${COUNTRY}/apps/${FEED_TYPE}/${LIMIT}/apps.json`;
+function normalizeFeedAlias(feed) {
+  const text = String(feed || '').trim().toLowerCase();
+  if (!text) return 'top-free';
+  if (text === 'topfreeapplications') return 'top-free';
+  if (text === 'toppaidapplications') return 'top-paid';
+  if (text === 'topgrossingapplications') return 'top-grossing';
+  return text;
+}
+
+function buildFeedCandidates(feed) {
+  const normalized = normalizeFeedAlias(feed);
+  const set = new Set([normalized]);
+  if (normalized.includes('topfree')) set.add('top-free');
+  if (normalized.includes('toppaid')) set.add('top-paid');
+  if (normalized.includes('topgrossing')) set.add('top-grossing');
+  return [...set];
+}
+
+function buildFeedUrl(feed) {
+  return `https://rss.applemarketingtools.com/api/v2/${COUNTRY}/apps/${feed}/${LIMIT}/apps.json`;
+}
 
 async function fetchJson(url) {
   let lastError;
@@ -63,7 +83,27 @@ function normalizeItems(raw) {
 async function main() {
   await mkdir(DATA_DIR, { recursive: true });
 
-  const raw = await fetchJson(feedUrl);
+  let raw;
+  let resolvedFeed = FEED_TYPE;
+  let resolvedUrl = '';
+  let fetchError;
+
+  for (const candidate of buildFeedCandidates(FEED_TYPE)) {
+    const candidateUrl = buildFeedUrl(candidate);
+    try {
+      raw = await fetchJson(candidateUrl);
+      resolvedFeed = candidate;
+      resolvedUrl = candidateUrl;
+      break;
+    } catch (err) {
+      fetchError = err;
+    }
+  }
+
+  if (!raw) {
+    throw fetchError || new Error('failed to fetch any appstore feed');
+  }
+
   const items = normalizeItems(raw);
 
   const dailyFile = join(DATA_DIR, `${today}.json`);
@@ -73,9 +113,9 @@ async function main() {
   const payload = {
     date: today,
     country: COUNTRY,
-    feedType: FEED_TYPE,
+    feedType: resolvedFeed,
     limit: LIMIT,
-    source: feedUrl,
+    source: resolvedUrl,
     total: items.length,
     items
   };
@@ -87,7 +127,7 @@ async function main() {
   const alreadySynced = existing.split('\n').filter(Boolean).some((line) => {
     try {
       const row = JSON.parse(line);
-      return row.date === today && row.country === COUNTRY && row.feedType === FEED_TYPE;
+      return row.date === today && row.country === COUNTRY && row.feedType === resolvedFeed;
     } catch {
       return false;
     }
@@ -99,10 +139,10 @@ async function main() {
       `${existing}${JSON.stringify({
         date: today,
         country: COUNTRY,
-        feedType: FEED_TYPE,
+        feedType: resolvedFeed,
         limit: LIMIT,
         total: items.length,
-        source: feedUrl,
+        source: resolvedUrl,
         top10: items.slice(0, 10)
       })}\n`,
       'utf8'

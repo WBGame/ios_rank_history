@@ -12,7 +12,7 @@ Node-based daily iOS ranking sync with GitHub automation.
 
 - `APPSTORE_COUNTRY` (default: `cn`)
 - `APPSTORE_LIMIT` (default: `100`)
-- `APPSTORE_FEED` (default: `topfreeapplications`)
+- `APPSTORE_FEED` (default: `top-free`; also accepts legacy `topfreeapplications`)
 - `FETCH_RETRIES` (default: `3`)
 - `FETCH_RETRY_DELAY_MS` (default: `1500`)
 - `APPSTORE_FALLBACK_FILE` (optional; local JSON path when remote fetch is unavailable)
