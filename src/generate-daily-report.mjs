@@ -7,9 +7,10 @@ const TOP_N = Number.parseInt(process.env.REPORT_TOP_N || '20', 10);
 const today = new Date().toISOString().slice(0, 10);
 
 function renderSection(lines, dataset) {
-  lines.push(`## ${dataset.country.toUpperCase()} Top ${Math.min(TOP_N, dataset.items.length)} Apps`);
+  lines.push(
+    `## ${dataset.country.toUpperCase()} ${dataset.feedType} Top ${Math.min(TOP_N, dataset.items.length)} Apps`
+  );
   lines.push('');
-  lines.push(`- Feed: ${dataset.feedType}`);
   lines.push(`- Total: ${dataset.total}`);
   lines.push(`- Source: ${dataset.source}`);
   lines.push('');
@@ -33,12 +34,20 @@ async function main() {
   await mkdir(REPORT_DIR, { recursive: true });
 
   const datasets = Array.isArray(payload.datasets) ? payload.datasets : [payload];
+  datasets.sort((a, b) => {
+    const c = String(a.country).localeCompare(String(b.country));
+    if (c !== 0) return c;
+    return String(a.feedType).localeCompare(String(b.feedType));
+  });
+
+  const countries = [...new Set(datasets.map((d) => String(d.country).toUpperCase()))];
+  const feeds = [...new Set(datasets.map((d) => d.feedType))];
 
   const lines = [];
   lines.push(`# iOS Rank Daily Report (${payload.date || today})`);
   lines.push('');
-  lines.push(`- Countries: ${datasets.map((d) => d.country.toUpperCase()).join(', ')}`);
-  lines.push(`- Feed: ${payload.feedType || datasets[0]?.feedType || 'unknown'}`);
+  lines.push(`- Countries: ${countries.join(', ')}`);
+  lines.push(`- Feeds: ${feeds.join(', ')}`);
   lines.push(`- Total datasets: ${datasets.length}`);
   lines.push('');
 

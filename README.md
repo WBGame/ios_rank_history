@@ -13,7 +13,10 @@ Node-based daily iOS ranking sync with GitHub automation.
 - `APPSTORE_COUNTRIES` (default: `cn,us,jp`)
 - `APPSTORE_COUNTRY` (legacy fallback when `APPSTORE_COUNTRIES` is not set)
 - `APPSTORE_LIMIT` (default: `100`)
-- `APPSTORE_FEED` (default: `top-free`; also accepts legacy `topfreeapplications`)
+- `APPSTORE_FEED` (supports single or comma-separated feeds, e.g. `top-free,top-paid,top-grossing`)
+- `APPSTORE_FEEDS` (preferred multi-feed variable, same format as `APPSTORE_FEED`)
+- `FETCH_CONCURRENCY` (default: `3`, limits simultaneous requests)
+- Unavailable feed in specific storefront will be skipped with warning, not fail the whole sync.
 - `FETCH_RETRIES` (default: `3`)
 - `FETCH_RETRY_DELAY_MS` (default: `1500`)
 - `APPSTORE_FALLBACK_FILE` (optional; local JSON path when remote fetch is unavailable)
@@ -24,10 +27,12 @@ Node-based daily iOS ranking sync with GitHub automation.
 - `data/latest-cn.json`
 - `data/latest-us.json`
 - `data/latest-jp.json`
+- `data/latest-<country>-<feed>.json` (e.g. `latest-us-top-paid.json`)
 - `data/YYYY-MM-DD.json`
 - `data/YYYY-MM-DD-cn.json`
 - `data/YYYY-MM-DD-us.json`
 - `data/YYYY-MM-DD-jp.json`
+- `data/YYYY-MM-DD-<country>-<feed>.json`
 - `data/history.ndjson`
 - `reports/daily-YYYY-MM-DD.md`
 

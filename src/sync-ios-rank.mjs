@@ -10,11 +10,16 @@ const COUNTRIES = (
   .split(',')
   .map((v) => v.trim().toLowerCase())
   .filter(Boolean);
+
+const FEED_INPUT = process.env.APPSTORE_FEEDS || process.env.APPSTORE_FEED || 'top-free';
 const LIMIT = Number.parseInt(process.env.APPSTORE_LIMIT || '100', 10);
-const FEED_TYPE = process.env.APPSTORE_FEED || 'top-free';
 const DATA_DIR = process.env.DATA_DIR || 'data';
 const MAX_RETRIES = Number.parseInt(process.env.FETCH_RETRIES || '3', 10);
 const RETRY_DELAY_MS = Number.parseInt(process.env.FETCH_RETRY_DELAY_MS || '1500', 10);
+const FETCH_CONCURRENCY = Math.max(
+  1,
+  Number.parseInt(process.env.FETCH_CONCURRENCY || '3', 10)
+);
 const FALLBACK_FILE = process.env.APPSTORE_FALLBACK_FILE || '';
 
 const today = new Date().toISOString().slice(0, 10);
@@ -28,6 +33,8 @@ function normalizeFeedAlias(feed) {
   return text;
 }
 
+const FEEDS = [...new Set(FEED_INPUT.split(',').map((f) => normalizeFeedAlias(f)).filter(Boolean))];
+
 function buildFeedCandidates(feed) {
   const normalized = normalizeFeedAlias(feed);
   const set = new Set([normalized]);
@@ -39,6 +46,10 @@ function buildFeedCandidates(feed) {
 
 function buildFeedUrl(country, feed) {
   return `https://rss.applemarketingtools.com/api/v2/${country}/apps/${feed}/${LIMIT}/apps.json`;
+}
+
+function fileSafeFeed(feed) {
+  return feed.replace(/[^a-z0-9-]/g, '-');
 }
 
 async function fetchJson(url) {
@@ -88,13 +99,13 @@ function normalizeItems(raw) {
   }));
 }
 
-async function fetchCountryDataset(country) {
+async function fetchDataset(country, feedInputItem) {
   let raw;
-  let resolvedFeed = FEED_TYPE;
+  let resolvedFeed = normalizeFeedAlias(feedInputItem);
   let resolvedUrl = '';
   let fetchError;
 
-  for (const candidate of buildFeedCandidates(FEED_TYPE)) {
+  for (const candidate of buildFeedCandidates(feedInputItem)) {
     const candidateUrl = buildFeedUrl(country, candidate);
     try {
       raw = await fetchJson(candidateUrl);
@@ -107,7 +118,7 @@ async function fetchCountryDataset(country) {
   }
 
   if (!raw) {
-    throw fetchError || new Error(`failed to fetch any appstore feed for ${country}`);
+    throw fetchError || new Error(`failed to fetch feed=${feedInputItem} for country=${country}`);
   }
 
   const items = normalizeItems(raw);
@@ -123,22 +134,62 @@ async function fetchCountryDataset(country) {
   };
 }
 
+async function runWithConcurrency(taskFns, limit) {
+  const results = new Array(taskFns.length);
+  let cursor = 0;
+
+  async function worker() {
+    while (true) {
+      const idx = cursor;
+      cursor += 1;
+      if (idx >= taskFns.length) return;
+      results[idx] = await taskFns[idx]();
+    }
+  }
+
+  const workers = Array.from({ length: Math.min(limit, taskFns.length) }, () => worker());
+  await Promise.all(workers);
+  return results;
+}
+
 async function main() {
   await mkdir(DATA_DIR, { recursive: true });
 
-  const datasets = [];
+  const taskFns = [];
   for (const country of COUNTRIES) {
-    const dataset = await fetchCountryDataset(country);
-    datasets.push(dataset);
+    for (const feed of FEEDS) {
+      taskFns.push(async () => {
+        try {
+          const dataset = await fetchDataset(country, feed);
+          return { ok: true, country, feed, dataset };
+        } catch (err) {
+          return {
+            ok: false,
+            country,
+            feed,
+            error: err instanceof Error ? err.message : String(err)
+          };
+        }
+      });
+    }
+  }
+
+  const taskResults = await runWithConcurrency(taskFns, FETCH_CONCURRENCY);
+  const datasets = taskResults.filter((r) => r.ok).map((r) => r.dataset);
+  const errors = taskResults.filter((r) => !r.ok);
+
+  if (datasets.length === 0) {
+    throw new Error('all dataset fetches failed');
   }
 
   const aggregate = {
     date: today,
     countries: COUNTRIES,
     mediaType: 'apps',
-    feedType: normalizeFeedAlias(FEED_TYPE),
+    feedTypes: FEEDS,
     limit: LIMIT,
     totalDatasets: datasets.length,
+    warnings: errors,
     datasets
   };
 
@@ -149,11 +200,35 @@ async function main() {
   await writeFile(dailyFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
   await writeFile(latestFile, `${JSON.stringify(aggregate, null, 2)}\n`, 'utf8');
 
+  for (const country of COUNTRIES) {
+    const countryDatasets = datasets.filter((d) => d.country === country);
+
+    const countryAggregate = {
+      date: today,
+      country,
+      mediaType: 'apps',
+      feedTypes: countryDatasets.map((d) => d.feedType),
+      limit: LIMIT,
+      totalDatasets: countryDatasets.length,
+      datasets: countryDatasets
+    };
+
+    await writeFile(join(DATA_DIR, `latest-${country}.json`), `${JSON.stringify(countryAggregate, null, 2)}\n`, 'utf8');
+    await writeFile(join(DATA_DIR, `${today}-${country}.json`), `${JSON.stringify(countryAggregate, null, 2)}\n`, 'utf8');
+  }
+
   for (const dataset of datasets) {
-    const latestCountryFile = join(DATA_DIR, `latest-${dataset.country}.json`);
-    const dailyCountryFile = join(DATA_DIR, `${today}-${dataset.country}.json`);
-    await writeFile(latestCountryFile, `${JSON.stringify(dataset, null, 2)}\n`, 'utf8');
-    await writeFile(dailyCountryFile, `${JSON.stringify(dataset, null, 2)}\n`, 'utf8');
+    const feedTag = fileSafeFeed(dataset.feedType);
+    await writeFile(
+      join(DATA_DIR, `latest-${dataset.country}-${feedTag}.json`),
+      `${JSON.stringify(dataset, null, 2)}\n`,
+      'utf8'
+    );
+    await writeFile(
+      join(DATA_DIR, `${today}-${dataset.country}-${feedTag}.json`),
+      `${JSON.stringify(dataset, null, 2)}\n`,
+      'utf8'
+    );
   }
 
   const existing = existsSync(historyFile) ? await readFile(historyFile, 'utf8') : '';
@@ -191,7 +266,16 @@ async function main() {
 
   await writeFile(historyFile, out, 'utf8');
 
-  console.log(`synced ${datasets.length} country datasets to ${dailyFile}`);
+  if (errors.length > 0) {
+    console.warn(`skipped ${errors.length} failed dataset(s):`);
+    for (const err of errors) {
+      console.warn(`- country=${err.country} feed=${err.feed} error=${err.error}`);
+    }
+  }
+
+  console.log(
+    `synced ${datasets.length} datasets across ${COUNTRIES.length} countries and ${FEEDS.length} feeds to ${dailyFile}`
+  );
 }
 
 main().catch((err) => {
