@@ -1,0 +1,44 @@
+name: publish-wiki
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reports/**'
+      - 'data/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Publish ranking report to Wiki
+        env:
+          GH_TOKEN: ${{ secrets.WIKI_PAT || secrets.AUTO_FIX_PAT || secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          WIKI_TOP_N: ${{ vars.WIKI_TOP_N || '10' }}
+          WIKI_MOVER_N: ${{ vars.WIKI_MOVER_N || '5' }}
+          WIKI_RECENT_LIMIT: ${{ vars.WIKI_RECENT_LIMIT || '30' }}
+          WIKI_COUNTRIES: ${{ vars.WIKI_COUNTRIES }}
+          WIKI_MEDIA_TYPES: ${{ vars.WIKI_MEDIA_TYPES }}
+        run: |
+          bash scripts/publish_wiki.sh
+
+      - name: Notify webhook
+        if: always()
+        env:
+          NOTIFY_WEBHOOK_URL: ${{ secrets.NOTIFY_WEBHOOK_URL }}
+          NOTIFY_PROVIDER: ${{ vars.NOTIFY_PROVIDER || 'feishu' }}
+          NOTIFY_STATUS: ${{ job.status }}
+          NOTIFY_TITLE: publish-wiki
+          NOTIFY_MESSAGE: >-
+            repository=${{ github.repository }}
+            run=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          bash scripts/notify_webhook.sh

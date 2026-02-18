@@ -31,9 +31,44 @@ jobs:
           fi
 
       - name: Run daily rank sync
+        env:
+          APPSTORE_COUNTRIES: ${{ vars.APPSTORE_COUNTRIES || 'cn,us,jp' }}
+          APPSTORE_MEDIA_TYPES: ${{ vars.APPSTORE_MEDIA_TYPES || 'apps,games' }}
+          APPSTORE_FEEDS: ${{ vars.APPSTORE_FEEDS || vars.APPSTORE_FEED || 'top-free,top-paid' }}
+          APPSTORE_FEED: ${{ vars.APPSTORE_FEED || 'top-free,top-paid' }}
+          APPSTORE_LIMIT: ${{ vars.APPSTORE_LIMIT || '100' }}
+          APPSTORE_GENRE_APPS: ${{ vars.APPSTORE_GENRE_APPS || '6000' }}
+          APPSTORE_GENRE_GAMES: ${{ vars.APPSTORE_GENRE_GAMES || '6014' }}
+          FETCH_CONCURRENCY: ${{ vars.FETCH_CONCURRENCY || '2' }}
+          FETCH_RETRIES: ${{ vars.FETCH_RETRIES || '3' }}
+          FETCH_RETRY_DELAY_MS: ${{ vars.FETCH_RETRY_DELAY_MS || '1500' }}
         run: |
           npm run sync:ios-rank --if-present
           npm run rank:daily --if-present
+
+      - name: Validate data coverage
+        env:
+          EXPECTED_COUNTRIES: ${{ vars.APPSTORE_COUNTRIES || 'cn,us,jp' }}
+          EXPECTED_MEDIA_TYPES: ${{ vars.APPSTORE_MEDIA_TYPES || 'apps,games' }}
+          EXPECTED_FEEDS: ${{ vars.APPSTORE_FEEDS || vars.APPSTORE_FEED || 'top-free,top-paid' }}
+          MIN_COVERAGE_RATIO: ${{ vars.MIN_COVERAGE_RATIO || '1.0' }}
+        run: |
+          bash scripts/validate_data.sh
+
+      - name: Prune old snapshots
+        id: prune
+        env:
+          DATA_RETENTION_DAYS: ${{ vars.DATA_RETENTION_DAYS || '14' }}
+          PRUNE_ARCHIVE_DIR: /tmp/prune-archive
+        run: |
+          bash scripts/prune_data.sh
+
+      - name: Upload prune archive
+        if: steps.prune.outputs.archive_file != ''
+        uses: actions/upload-artifact@v6
+        with:
+          name: pruned-snapshots-${{ github.run_id }}
+          path: ${{ steps.prune.outputs.archive_file }}
 
       - name: Create pull request for rank data update
         id: cpr

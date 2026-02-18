@@ -23,6 +23,13 @@ Node-based daily iOS ranking sync with GitHub automation.
 - `FETCH_RETRIES` (default: `3`)
 - `FETCH_RETRY_DELAY_MS` (default: `1500`)
 - `APPSTORE_FALLBACK_FILE` (optional; local JSON path when remote fetch is unavailable)
+- `DATA_RETENTION_DAYS` (default: `14`, prune old dated snapshots)
+- `MIN_COVERAGE_RATIO` (default: `1.0`, data coverage gate)
+- `WIKI_TOP_N` (default: `10`)
+- `WIKI_MOVER_N` (default: `5`)
+- `WIKI_RECENT_LIMIT` (default: `30`)
+- `WIKI_COUNTRIES` (optional, comma-separated filter)
+- `WIKI_MEDIA_TYPES` (optional, comma-separated filter)
 
 ## Data outputs
 
@@ -47,6 +54,7 @@ Workflows installed:
 - `.github/workflows/daily-rank-sync.yml`
 - `.github/workflows/auto-fix.yml`
 - `.github/workflows/auto-merge-low-risk.yml`
+- `.github/workflows/publish-wiki.yml`
 
 ## Data source
 
@@ -71,3 +79,20 @@ Example:
 - Webhook notifications:
   - Set `NOTIFY_WEBHOOK_URL` in repository Secrets.
   - Optional variable `NOTIFY_PROVIDER` in repository Variables: `feishu` / `wecom` / `slack`.
+
+## Wiki publishing
+
+- Workflow `publish-wiki` publishes ranking markdown into GitHub Wiki.
+- Generates:
+  - `Home.md` (summary + recent reports + Top 10 snapshot + movers)
+  - `Latest.md` (always points to newest report)
+  - `_Sidebar.md` (wiki quick navigation)
+  - `Daily-YYYY-MM-DD.md` pages
+- Generates split pages per country/media, e.g. `CN-apps.md`, `US-games.md`.
+- Requires repository Wiki enabled in GitHub settings.
+- Recommended secret: `WIKI_PAT` (PAT with `repo` scope). Fallback is `AUTO_FIX_PAT` then `GITHUB_TOKEN`.
+
+## Data quality and size control
+
+- `daily-rank-sync` includes automatic data coverage validation (`scripts/validate_data.sh`).
+- It also prunes old dated snapshots (`scripts/prune_data.sh`) and uploads pruned archives as workflow artifacts.
