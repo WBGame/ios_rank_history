@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-04",
   "country": "cn",
   "mediaType": "games",
   "feedType": "top-free",
@@ -9,7 +9,7 @@
   "total": 100,
   "items": [
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 1,
       "id": "6740756173",
       "name": "鹅鸭杀",
@@ -20,19 +20,8 @@
       "url": "https://apps.apple.com/cn/app/%E9%B9%85%E9%B8%AD%E6%9D%80/id6740756173?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 2,
-      "id": "897841116",
-      "name": "熊出没之熊大快跑 - 官方正版休闲跑酷游戏",
-      "artistName": "乐堂动漫信息技术有限公司",
-      "kind": "Games",
-      "releaseDate": "2014-09-25T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/bc/b9/4ebcb983-98e6-64c2-924d-649faae22838/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 3,
       "id": "1642894547",
       "name": "三角洲行动",
       "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
@@ -42,8 +31,8 @@
       "url": "https://apps.apple.com/cn/app/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8/id1642894547?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 4,
+      "date": "2026-03-04",
+      "rank": 3,
       "id": "989673964",
       "name": "王者荣耀",
       "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
@@ -53,8 +42,30 @@
       "url": "https://apps.apple.com/cn/app/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/id989673964?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
+      "rank": 4,
+      "id": "6746321359",
+      "name": "我的花园世界",
+      "artistName": "厦门麟贝互娱科技有限公司",
+      "kind": "Games",
+      "releaseDate": "2025-08-05T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/a0/63/eda06349-7a34-4a28-0a55-d5b92fcf9514/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%88%91%E7%9A%84%E8%8A%B1%E5%9B%AD%E4%B8%96%E7%95%8C/id6746321359?uo=2"
+    },
+    {
+      "date": "2026-03-04",
       "rank": 5,
+      "id": "897841116",
+      "name": "熊出没之熊大快跑 - 官方正版休闲跑酷游戏",
+      "artistName": "乐堂动漫信息技术有限公司",
+      "kind": "Games",
+      "releaseDate": "2014-09-25T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/bc/b9/4ebcb983-98e6-64c2-924d-649faae22838/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 6,
       "id": "1321803705",
       "name": "和平精英",
       "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
@@ -64,52 +75,8 @@
       "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 6,
-      "id": "6746321359",
-      "name": "我的花园世界",
-      "artistName": "厦门麟贝互娱科技有限公司",
-      "kind": "Games",
-      "releaseDate": "2025-08-05T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/96/da/4996dac1-6fa0-65d5-95ee-1e08d799f517/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%88%91%E7%9A%84%E8%8A%B1%E5%9B%AD%E4%B8%96%E7%95%8C/id6746321359?uo=2"
-    },
-    {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 7,
-      "id": "6752632961",
-      "name": "时尚百货城",
-      "artistName": "深圳市爱的番茄科技有限公司",
-      "kind": "Games",
-      "releaseDate": "2026-01-28T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/89/b1/7f89b179-03b3-786b-2dc7-848a96039768/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%97%B6%E5%B0%9A%E7%99%BE%E8%B4%A7%E5%9F%8E/id6752632961?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 8,
-      "id": "6757894463",
-      "name": "一个箭头：箭序次元",
-      "artistName": "中豪 申",
-      "kind": "Games",
-      "releaseDate": "2026-01-26T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/ea/30/96ea3026-1b41-b73d-f6e0-0d9036d52c49/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E4%B8%80%E4%B8%AA%E7%AE%AD%E5%A4%B4-%E7%AE%AD%E5%BA%8F%E6%AC%A1%E5%85%83/id6757894463?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 9,
-      "id": "6535673811",
-      "name": "无畏契约：源能行动",
-      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
-      "kind": "Games",
-      "releaseDate": "2025-08-18T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/96/0a/b9960a3e-e5e4-9e0d-0fbd-416b0201d2e0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6-%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8/id6535673811?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 10,
       "id": "1544884479",
       "name": "蛋仔派对",
       "artistName": "网易移动游戏",
@@ -119,8 +86,30 @@
       "url": "https://apps.apple.com/cn/app/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9/id1544884479?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 11,
+      "date": "2026-03-04",
+      "rank": 8,
+      "id": "6535673811",
+      "name": "无畏契约：源能行动",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
+      "kind": "Games",
+      "releaseDate": "2025-08-18T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/96/0a/b9960a3e-e5e4-9e0d-0fbd-416b0201d2e0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6-%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8/id6535673811?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 9,
+      "id": "6752632961",
+      "name": "时尚百货城",
+      "artistName": "深圳市爱的番茄科技有限公司",
+      "kind": "Games",
+      "releaseDate": "2026-01-28T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/89/b1/7f89b179-03b3-786b-2dc7-848a96039768/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%97%B6%E5%B0%9A%E7%99%BE%E8%B4%A7%E5%9F%8E/id6752632961?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 10,
       "id": "791532221",
       "name": "开心消消乐",
       "artistName": "乐元素",
@@ -130,8 +119,8 @@
       "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 12,
+      "date": "2026-03-04",
+      "rank": 11,
       "id": "1478101301",
       "name": "金铲铲之战",
       "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
@@ -141,7 +130,18 @@
       "url": "https://apps.apple.com/cn/app/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98/id1478101301?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
+      "rank": 12,
+      "id": "1243986797",
+      "name": "我的世界：移动版",
+      "artistName": "网易移动游戏(MC)",
+      "kind": "Games",
+      "releaseDate": "2017-09-13T20:44:57-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/38/5a/b1385a0f-6c97-dd64-472d-fea56831dfc5/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C-%E7%A7%BB%E5%8A%A8%E7%89%88/id1243986797?uo=2"
+    },
+    {
+      "date": "2026-03-04",
       "rank": 13,
       "id": "6758373409",
       "name": "爷爷的农院：幸福如此简单",
@@ -152,7 +152,7 @@
       "url": "https://apps.apple.com/cn/app/%E7%88%B7%E7%88%B7%E7%9A%84%E5%86%9C%E9%99%A2-%E5%B9%B8%E7%A6%8F%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95/id6758373409?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 14,
       "id": "446324234",
       "name": "腾讯欢乐斗地主",
@@ -163,19 +163,8 @@
       "url": "https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB/id446324234?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 15,
-      "id": "1014227673",
-      "name": "神庙逃亡2",
-      "artistName": "iDreamSky Technology Limited",
-      "kind": "Games",
-      "releaseDate": "2015-09-03T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/5e/48/2b5e4853-e26f-e8da-ae02-525c245607a4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 16,
       "id": "689180123",
       "name": "欢乐麻将",
       "artistName": "Tencent Mobile Games",
@@ -185,63 +174,8 @@
       "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 17,
-      "id": "1243986797",
-      "name": "我的世界：移动版",
-      "artistName": "网易移动游戏(MC)",
-      "kind": "Games",
-      "releaseDate": "2017-09-13T20:44:57-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/38/5a/b1385a0f-6c97-dd64-472d-fea56831dfc5/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C-%E7%A7%BB%E5%8A%A8%E7%89%88/id1243986797?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 18,
-      "id": "6478492012",
-      "name": "无尽冬日",
-      "artistName": "Shanghai Qingdi Technology Company Limited",
-      "kind": "Games",
-      "releaseDate": "2024-05-30T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c1/a4/1cc1a4ee-cfb0-82ab-1eb8-95bc85344064/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 19,
-      "id": "995122577",
-      "name": "地铁跑酷 -熊出没联动",
-      "artistName": "iDreamSky Technology Limited",
-      "kind": "Games",
-      "releaseDate": "2017-01-22T22:21:18-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/c8/52/04c85230-eedd-5424-2d76-657768d245c4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%9C%B0%E9%93%81%E8%B7%91%E9%85%B7-%E7%86%8A%E5%87%BA%E6%B2%A1%E8%81%94%E5%8A%A8/id995122577?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 20,
-      "id": "6758451373",
-      "name": "心灵手巧:激光艺术",
-      "artistName": "凯喆 贾",
-      "kind": "Games",
-      "releaseDate": "2026-02-03T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/05/92/7f059285-547e-87f3-b7ad-5163a41c0c8b/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%BF%83%E7%81%B5%E6%89%8B%E5%B7%A7-%E6%BF%80%E5%85%89%E8%89%BA%E6%9C%AF/id6758451373?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 21,
-      "id": "6544797261",
-      "name": "超自然行动组-百万大金爆率翻倍",
-      "artistName": "巨人网络科技有限公司",
-      "kind": "Games",
-      "releaseDate": "2024-07-16T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/5f/f6/cd5ff69b-74da-2b74-7aa7-bcca73b4b44e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8%E7%BB%84-%E7%99%BE%E4%B8%87%E5%A4%A7%E9%87%91%E7%88%86%E7%8E%87%E7%BF%BB%E5%80%8D/id6544797261?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 22,
+      "date": "2026-03-04",
+      "rank": 16,
       "id": "6475002539",
       "name": "再玩亿关",
       "artistName": "无锡地鼠洞网络科技有限公司",
@@ -251,19 +185,30 @@
       "url": "https://apps.apple.com/cn/app/%E5%86%8D%E7%8E%A9%E4%BA%BF%E5%85%B3/id6475002539?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 23,
-      "id": "6757910796",
-      "name": "回村开饭店：食趣团团转",
-      "artistName": "楚鑫 王",
+      "date": "2026-03-04",
+      "rank": 17,
+      "id": "6478492012",
+      "name": "无尽冬日",
+      "artistName": "Shanghai Qingdi Technology Company Limited",
       "kind": "Games",
-      "releaseDate": "2026-01-16T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/46/a6/6e46a60f-3d36-ff28-3503-42675aa7f41b/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%9B%9E%E6%9D%91%E5%BC%80%E9%A5%AD%E5%BA%97-%E9%A3%9F%E8%B6%A3%E5%9B%A2%E5%9B%A2%E8%BD%AC/id6757910796?uo=2"
+      "releaseDate": "2024-05-30T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c1/a4/1cc1a4ee-cfb0-82ab-1eb8-95bc85344064/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 24,
+      "date": "2026-03-04",
+      "rank": 18,
+      "id": "1014227673",
+      "name": "神庙逃亡2",
+      "artistName": "iDreamSky Technology Limited",
+      "kind": "Games",
+      "releaseDate": "2015-09-03T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/5e/48/2b5e4853-e26f-e8da-ae02-525c245607a4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 19,
       "id": "1170455562",
       "name": "迷你世界",
       "artistName": "Miniwan Tech",
@@ -273,8 +218,30 @@
       "url": "https://apps.apple.com/cn/app/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/id1170455562?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 25,
+      "date": "2026-03-04",
+      "rank": 20,
+      "id": "6544797261",
+      "name": "超自然行动组-百万大金爆率翻倍",
+      "artistName": "巨人网络科技有限公司",
+      "kind": "Games",
+      "releaseDate": "2024-07-16T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/5f/f6/cd5ff69b-74da-2b74-7aa7-bcca73b4b44e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8%E7%BB%84-%E7%99%BE%E4%B8%87%E5%A4%A7%E9%87%91%E7%88%86%E7%8E%87%E7%BF%BB%E5%80%8D/id6544797261?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 21,
+      "id": "6752496348",
+      "name": "荣耀奇迹：龙神降临",
+      "artistName": "Dongyang Meiqu",
+      "kind": "Games",
+      "releaseDate": "2026-01-25T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/ef/05/10ef05e8-352d-e8cb-9554-54b4454001d7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E8%8D%A3%E8%80%80%E5%A5%87%E8%BF%B9-%E9%BE%99%E7%A5%9E%E9%99%8D%E4%B8%B4/id6752496348?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 22,
       "id": "1498874997",
       "name": "巅峰极速",
       "artistName": "网易移动游戏",
@@ -284,8 +251,19 @@
       "url": "https://apps.apple.com/cn/app/%E5%B7%85%E5%B3%B0%E6%9E%81%E9%80%9F/id1498874997?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 26,
+      "date": "2026-03-04",
+      "rank": 23,
+      "id": "6758451373",
+      "name": "心灵手巧:激光艺术",
+      "artistName": "凯喆 贾",
+      "kind": "Games",
+      "releaseDate": "2026-02-03T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/05/92/7f059285-547e-87f3-b7ad-5163a41c0c8b/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%BF%83%E7%81%B5%E6%89%8B%E5%B7%A7-%E6%BF%80%E5%85%89%E8%89%BA%E6%9C%AF/id6758451373?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 24,
       "id": "1120536875",
       "name": "贪吃蛇大作战®",
       "artistName": "Wuhan Weipai Network Technology Co., Ltd.",
@@ -295,8 +273,41 @@
       "url": "https://apps.apple.com/cn/app/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98/id1120536875?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
+      "rank": 25,
+      "id": "995122577",
+      "name": "地铁跑酷 -熊出没联动",
+      "artistName": "iDreamSky Technology Limited",
+      "kind": "Games",
+      "releaseDate": "2017-01-22T22:21:18-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/c8/52/04c85230-eedd-5424-2d76-657768d245c4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%9C%B0%E9%93%81%E8%B7%91%E9%85%B7-%E7%86%8A%E5%87%BA%E6%B2%A1%E8%81%94%E5%8A%A8/id995122577?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 26,
+      "id": "6757894463",
+      "name": "一个箭头：箭序次元",
+      "artistName": "中豪 申",
+      "kind": "Games",
+      "releaseDate": "2026-01-26T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/ea/30/96ea3026-1b41-b73d-f6e0-0d9036d52c49/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E4%B8%80%E4%B8%AA%E7%AE%AD%E5%A4%B4-%E7%AE%AD%E5%BA%8F%E6%AC%A1%E5%85%83/id6757894463?uo=2"
+    },
+    {
+      "date": "2026-03-04",
       "rank": 27,
+      "id": "6757910796",
+      "name": "回村开饭店：食趣团团转",
+      "artistName": "楚鑫 王",
+      "kind": "Games",
+      "releaseDate": "2026-01-16T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/46/a6/6e46a60f-3d36-ff28-3503-42675aa7f41b/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%9B%9E%E6%9D%91%E5%BC%80%E9%A5%AD%E5%BA%97-%E9%A3%9F%E8%B6%A3%E5%9B%A2%E5%9B%A2%E8%BD%AC/id6757910796?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 28,
       "id": "639516529",
       "name": "植物大战僵尸2",
       "artistName": "PopCap",
@@ -306,18 +317,7 @@
       "url": "https://apps.apple.com/cn/app/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82/id639516529?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 28,
-      "id": "6752363458",
-      "name": "猫咪整理师 - 房间造景布置 整理收纳达人",
-      "artistName": "Gloryway Puzzle",
-      "kind": "Games",
-      "releaseDate": "2025-09-22T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/15/57/c415573f-f90d-4e36-11f4-abf1ce893e79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%8C%AB%E5%92%AA%E6%95%B4%E7%90%86%E5%B8%88-%E6%88%BF%E9%97%B4%E9%80%A0%E6%99%AF%E5%B8%83%E7%BD%AE-%E6%95%B4%E7%90%86%E6%94%B6%E7%BA%B3%E8%BE%BE%E4%BA%BA/id6752363458?uo=2"
-    },
-    {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 29,
       "id": "1235504705",
       "name": "QQ飞车",
@@ -328,18 +328,18 @@
       "url": "https://apps.apple.com/cn/app/qq%E9%A3%9E%E8%BD%A6/id1235504705?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 30,
-      "id": "6753840575",
-      "name": "不服来通关 - 策略塔防 割草闯关游戏",
-      "artistName": "ManyFun",
+      "id": "955396648",
+      "name": "火影忍者",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
       "kind": "Games",
-      "releaseDate": "2025-11-11T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/ae/cf/7eaecf6e-a1f2-5a83-db31-be237b46d45d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E4%B8%8D%E6%9C%8D%E6%9D%A5%E9%80%9A%E5%85%B3-%E7%AD%96%E7%95%A5%E5%A1%94%E9%98%B2-%E5%89%B2%E8%8D%89%E9%97%AF%E5%85%B3%E6%B8%B8%E6%88%8F/id6753840575?uo=2"
+      "releaseDate": "2016-01-06T20:06:08-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c1/b9/bac1b982-4601-4558-6b6f-18768f51586d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/id955396648?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 31,
       "id": "1455054000",
       "name": "英雄联盟手游",
@@ -350,19 +350,8 @@
       "url": "https://apps.apple.com/cn/app/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8/id1455054000?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 32,
-      "id": "955396648",
-      "name": "火影忍者",
-      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
-      "kind": "Games",
-      "releaseDate": "2016-01-06T20:06:08-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c1/b9/bac1b982-4601-4558-6b6f-18768f51586d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/id955396648?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 33,
       "id": "6475668638",
       "name": "燕云十六声",
       "artistName": "网易移动游戏",
@@ -372,63 +361,8 @@
       "url": "https://apps.apple.com/cn/app/%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0/id6475668638?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 34,
-      "id": "6757172630",
-      "name": "疯狂水世界",
-      "artistName": "益世界网络科技(上海)有限公司",
-      "kind": "Games",
-      "releaseDate": "2026-01-21T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/e9/4a/64e94a1b-daf7-9826-997f-ca06f0aca4e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 35,
-      "id": "6757469154",
-      "name": "挪箭666 - 箭头消除挪一挪",
-      "artistName": "AkerSun Technology Co.,Ltd.",
-      "kind": "Games",
-      "releaseDate": "2026-01-30T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b6/48/ffb6489f-31d8-12c7-2dc2-eabda1c37e8d/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%8C%AA%E7%AE%AD666-%E7%AE%AD%E5%A4%B4%E6%B6%88%E9%99%A4%E6%8C%AA%E4%B8%80%E6%8C%AA/id6757469154?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 36,
-      "id": "6752496348",
-      "name": "荣耀奇迹：龙神降临",
-      "artistName": "Dongyang Meiqu",
-      "kind": "Games",
-      "releaseDate": "2026-01-25T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/ef/05/10ef05e8-352d-e8cb-9554-54b4454001d7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E8%8D%A3%E8%80%80%E5%A5%87%E8%BF%B9-%E9%BE%99%E7%A5%9E%E9%99%8D%E4%B8%B4/id6752496348?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 37,
-      "id": "1450136725",
-      "name": "竞技联盟德州扑克",
-      "artistName": "Sohoo Limited",
-      "kind": "Games",
-      "releaseDate": "2019-04-23T20:07:14-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/28/83/3328835e-16aa-c0bf-a153-91dc1ac5ff1f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%AB%9E%E6%8A%80%E8%81%94%E7%9B%9F%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B/id1450136725?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 38,
-      "id": "1042545880",
-      "name": "穿越火线-枪战王者",
-      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
-      "kind": "Games",
-      "releaseDate": "2015-12-02T20:14:05-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/03/e9/0b03e92f-6f0e-0d18-fc3e-af5830e4ecec/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF-%E6%9E%AA%E6%88%98%E7%8E%8B%E8%80%85/id1042545880?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 39,
+      "date": "2026-03-04",
+      "rank": 33,
       "id": "6746205735",
       "name": "The Brainiest",
       "artistName": "Chris Tovey",
@@ -438,19 +372,19 @@
       "url": "https://apps.apple.com/cn/app/the-brainiest/id6746205735?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 40,
-      "id": "1501314785",
-      "name": "途游斗地主（比赛版）",
-      "artistName": "Tuyoo Online HK Limited",
+      "date": "2026-03-04",
+      "rank": 34,
+      "id": "1089336971",
+      "name": "汤姆猫跑酷",
+      "artistName": "Outfit7 Limited",
       "kind": "Games",
-      "releaseDate": "2020-04-02T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8a/8c/948a8cc8-ddc5-b1f0-3cee-683ae3c59d5e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E9%80%94%E6%B8%B8%E6%96%97%E5%9C%B0%E4%B8%BB-%E6%AF%94%E8%B5%9B%E7%89%88/id1501314785?uo=2"
+      "releaseDate": "2016-06-28T08:38:59-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/8e/09/518e09f8-0fdf-8331-d0c1-29ff65e53afc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%B1%A4%E5%A7%86%E7%8C%AB%E8%B7%91%E9%85%B7/id1089336971?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 41,
+      "date": "2026-03-04",
+      "rank": 35,
       "id": "1330863325",
       "name": "第五人格",
       "artistName": "网易移动游戏",
@@ -460,8 +394,85 @@
       "url": "https://apps.apple.com/cn/app/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC/id1330863325?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
+      "rank": 36,
+      "id": "1042545880",
+      "name": "穿越火线-枪战王者",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
+      "kind": "Games",
+      "releaseDate": "2015-12-02T20:14:05-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/03/e9/0b03e92f-6f0e-0d18-fc3e-af5830e4ecec/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF-%E6%9E%AA%E6%88%98%E7%8E%8B%E8%80%85/id1042545880?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 37,
+      "id": "1501314785",
+      "name": "途游斗地主（比赛版）",
+      "artistName": "Tuyoo Online HK Limited",
+      "kind": "Games",
+      "releaseDate": "2020-04-02T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8a/8c/948a8cc8-ddc5-b1f0-3cee-683ae3c59d5e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E9%80%94%E6%B8%B8%E6%96%97%E5%9C%B0%E4%B8%BB-%E6%AF%94%E8%B5%9B%E7%89%88/id1501314785?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 38,
+      "id": "6753840575",
+      "name": "不服来通关 - 策略塔防 割草闯关游戏",
+      "artistName": "ManyFun",
+      "kind": "Games",
+      "releaseDate": "2025-11-11T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/ae/cf/7eaecf6e-a1f2-5a83-db31-be237b46d45d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E4%B8%8D%E6%9C%8D%E6%9D%A5%E9%80%9A%E5%85%B3-%E7%AD%96%E7%95%A5%E5%A1%94%E9%98%B2-%E5%89%B2%E8%8D%89%E9%97%AF%E5%85%B3%E6%B8%B8%E6%88%8F/id6753840575?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 39,
+      "id": "1450136725",
+      "name": "竞技联盟德州扑克",
+      "artistName": "Sohoo Limited",
+      "kind": "Games",
+      "releaseDate": "2019-04-23T20:07:14-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/28/83/3328835e-16aa-c0bf-a153-91dc1ac5ff1f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%AB%9E%E6%8A%80%E8%81%94%E7%9B%9F%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B/id1450136725?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 40,
+      "id": "6448017202",
+      "name": "街机恐龙",
+      "artistName": "湖南草花互动网络科技有限公司",
+      "kind": "Games",
+      "releaseDate": "2026-02-02T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/72/49/987249e9-49c8-ccce-2c44-470cbaa6dfa7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E8%A1%97%E6%9C%BA%E6%81%90%E9%BE%99/id6448017202?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 41,
+      "id": "6752363458",
+      "name": "猫咪整理师 - 房间造景布置 整理收纳达人",
+      "artistName": "Gloryway Puzzle",
+      "kind": "Games",
+      "releaseDate": "2025-09-22T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/15/57/c415573f-f90d-4e36-11f4-abf1ce893e79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%8C%AB%E5%92%AA%E6%95%B4%E7%90%86%E5%B8%88-%E6%88%BF%E9%97%B4%E9%80%A0%E6%99%AF%E5%B8%83%E7%BD%AE-%E6%95%B4%E7%90%86%E6%94%B6%E7%BA%B3%E8%BE%BE%E4%BA%BA/id6752363458?uo=2"
+    },
+    {
+      "date": "2026-03-04",
       "rank": 42,
+      "id": "996509117",
+      "name": "球球大作战-送联动皮肤",
+      "artistName": "巨人网络科技有限公司",
+      "kind": "Games",
+      "releaseDate": "2015-05-30T18:31:04-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/ac/cf/d4accfe3-104c-efb0-693c-d4897dd3a616/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%90%83%E7%90%83%E5%A4%A7%E4%BD%9C%E6%88%98-%E9%80%81%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4/id996509117?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 43,
       "id": "472885640",
       "name": "JJ斗地主-专业棋牌合集",
       "artistName": "JJWorld(Beijing) Network Technology Company Limited",
@@ -471,41 +482,41 @@
       "url": "https://apps.apple.com/cn/app/jj%E6%96%97%E5%9C%B0%E4%B8%BB-%E4%B8%93%E4%B8%9A%E6%A3%8B%E7%89%8C%E5%90%88%E9%9B%86/id472885640?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 43,
-      "id": "996509117",
-      "name": "球球大作战",
-      "artistName": "巨人网络科技有限公司",
-      "kind": "Games",
-      "releaseDate": "2015-05-30T18:31:04-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/08/3a/9f083a06-bafb-9fc7-cd0e-abe77095c370/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%90%83%E7%90%83%E5%A4%A7%E4%BD%9C%E6%88%98/id996509117?uo=2"
-    },
-    {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 44,
-      "id": "1089336971",
-      "name": "汤姆猫跑酷",
-      "artistName": "Outfit7 Limited",
-      "kind": "Games",
-      "releaseDate": "2016-06-28T08:38:59-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f9/32/7cf9325c-2568-45cf-3108-3c2cda115990/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%B1%A4%E5%A7%86%E7%8C%AB%E8%B7%91%E9%85%B7/id1089336971?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 45,
       "id": "1344733855",
       "name": "光·遇",
       "artistName": "网易移动游戏",
       "kind": "Games",
       "releaseDate": "2019-06-20T16:51:41-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/61/d7/d161d7c9-6857-4e7a-2b37-c25ab71ccc6d/AppIcon_Netease-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/be/36/adbe3633-0ae0-9a11-1122-835523aea568/AppIcon_Netease-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/cn/app/%E5%85%89-%E9%81%87/id1344733855?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
+      "rank": 45,
+      "id": "6757172630",
+      "name": "疯狂水世界",
+      "artistName": "益世界网络科技(上海)有限公司",
+      "kind": "Games",
+      "releaseDate": "2026-01-21T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/e9/4a/64e94a1b-daf7-9826-997f-ca06f0aca4e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630?uo=2"
+    },
+    {
+      "date": "2026-03-04",
       "rank": 46,
+      "id": "6738807504",
+      "name": "疯狂烧烤摊 - 烧烤梦工厂 解压烧烤三消",
+      "artistName": "Gloryway Puzzle",
+      "kind": "Games",
+      "releaseDate": "2024-12-15T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/f3/7a/85f37a77-8f97-3b41-af00-47aee9bebf1d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E7%83%A7%E7%83%A4%E6%91%8A-%E7%83%A7%E7%83%A4%E6%A2%A6%E5%B7%A5%E5%8E%82-%E8%A7%A3%E5%8E%8B%E7%83%A7%E7%83%A4%E4%B8%89%E6%B6%88/id6738807504?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 47,
       "id": "1467190251",
       "name": "原神·空月之歌",
       "artistName": "miHoYo Games",
@@ -515,19 +526,19 @@
       "url": "https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-%E7%A9%BA%E6%9C%88%E4%B9%8B%E6%AD%8C/id1467190251?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 47,
-      "id": "6473333072",
-      "name": "杖剑传说",
-      "artistName": "Xiamen Leiting Interactive Network Co., Ltd.",
+      "date": "2026-03-04",
+      "rank": 48,
+      "id": "6757469154",
+      "name": "挪箭666 - 箭头消除挪一挪",
+      "artistName": "AkerSun Technology Co.,Ltd.",
       "kind": "Games",
-      "releaseDate": "2025-05-26T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/00/3f/8d003f27-5744-d920-645a-480447140d6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%9D%96%E5%89%91%E4%BC%A0%E8%AF%B4/id6473333072?uo=2"
+      "releaseDate": "2026-01-30T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b6/48/ffb6489f-31d8-12c7-2dc2-eabda1c37e8d/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%8C%AA%E7%AE%AD666-%E7%AE%AD%E5%A4%B4%E6%B6%88%E9%99%A4%E6%8C%AA%E4%B8%80%E6%8C%AA/id6757469154?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 48,
+      "date": "2026-03-04",
+      "rank": 49,
       "id": "6758011935",
       "name": "无限轮回-搜打撤",
       "artistName": "Dod Joy Co., Ltd.",
@@ -537,18 +548,7 @@
       "url": "https://apps.apple.com/cn/app/%E6%97%A0%E9%99%90%E8%BD%AE%E5%9B%9E-%E6%90%9C%E6%89%93%E6%92%A4/id6758011935?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 49,
-      "id": "6748882380",
-      "name": "TastyLetters",
-      "artistName": "Gheorghe Dimitrievici Sturdza",
-      "kind": "Games",
-      "releaseDate": "2025-07-21T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/32/c5/0032c55a-6423-d772-6561-98e33bd58ab9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/tastyletters/id6748882380?uo=2"
-    },
-    {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 50,
       "id": "1645516720",
       "name": "逆战：未来",
@@ -559,129 +559,19 @@
       "url": "https://apps.apple.com/cn/app/%E9%80%86%E6%88%98-%E6%9C%AA%E6%9D%A5/id1645516720?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 51,
-      "id": "6448017202",
-      "name": "街机恐龙",
-      "artistName": "湖南草花互动网络科技有限公司",
+      "id": "6473333072",
+      "name": "杖剑传说",
+      "artistName": "Xiamen Leiting Interactive Network Co., Ltd.",
       "kind": "Games",
-      "releaseDate": "2026-02-02T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/72/49/987249e9-49c8-ccce-2c44-470cbaa6dfa7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E8%A1%97%E6%9C%BA%E6%81%90%E9%BE%99/id6448017202?uo=2"
+      "releaseDate": "2025-05-26T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/00/3f/8d003f27-5744-d920-645a-480447140d6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%9D%96%E5%89%91%E4%BC%A0%E8%AF%B4/id6473333072?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 52,
-      "id": "6757509550",
-      "name": "奶奶的小农院-发酵的魔法",
-      "artistName": "文涛 于",
-      "kind": "Games",
-      "releaseDate": "2026-01-14T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/16/57/a91657cc-f8cb-9bae-1191-3408147d1fac/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%B0%8F%E5%86%9C%E9%99%A2-%E5%8F%91%E9%85%B5%E7%9A%84%E9%AD%94%E6%B3%95/id6757509550?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 53,
-      "id": "6738807504",
-      "name": "疯狂烧烤摊 - 烧烤梦工厂 解压烧烤三消",
-      "artistName": "Gloryway Puzzle",
-      "kind": "Games",
-      "releaseDate": "2024-12-15T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/f3/7a/85f37a77-8f97-3b41-af00-47aee9bebf1d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E7%83%A7%E7%83%A4%E6%91%8A-%E7%83%A7%E7%83%A4%E6%A2%A6%E5%B7%A5%E5%8E%82-%E8%A7%A3%E5%8E%8B%E7%83%A7%E7%83%A4%E4%B8%89%E6%B6%88/id6738807504?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 54,
-      "id": "6748527570",
-      "name": "奔奔王国",
-      "artistName": "Fuzhou Dian Dian Song He Technology Co., Ltd",
-      "kind": "Games",
-      "releaseDate": "2025-09-07T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ca/a3/05caa36c-b1b2-9918-d183-e9fd86ceaf04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%A5%94%E5%A5%94%E7%8E%8B%E5%9B%BD/id6748527570?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 55,
-      "id": "653350791",
-      "name": "天天酷跑",
-      "artistName": "Tencent Mobile Games",
-      "kind": "Games",
-      "releaseDate": "2013-09-14T21:44:31-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/14/8c/12148cd2-c5c7-2480-a94b-08d79b742e85/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%A4%A9%E5%A4%A9%E9%85%B7%E8%B7%91/id653350791?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 56,
-      "id": "6752552410",
-      "name": "遗弃之地",
-      "artistName": "HK HORTOR TECHNOLOGY LIMITED",
-      "kind": "Games",
-      "releaseDate": "2025-11-26T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/a7/d0/0fa7d0d7-1c78-0f03-0a79-37bb40e44b87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E9%81%97%E5%BC%83%E4%B9%8B%E5%9C%B0/id6752552410?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 57,
-      "id": "493901993",
-      "name": "节奏大师",
-      "artistName": "Tencent Mobile Games",
-      "kind": "Games",
-      "releaseDate": "2012-05-25T12:57:17-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/8c/6e/3e8c6edc-17b6-543a-28dc-0ecffcec3a51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 58,
-      "id": "6502348074",
-      "name": "永远的蔚蓝星球-合成快攻 对战轻松",
-      "artistName": "Chuangyue Joy",
-      "kind": "Games",
-      "releaseDate": "2025-05-27T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/9d/51/ca9d51bb-2b47-e0ec-7e82-109d2f156b0b/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 59,
-      "id": "6742597160",
-      "name": "植物大战僵尸3",
-      "artistName": "Hainan Mengxing Technology Co.,Ltd",
-      "kind": "Games",
-      "releaseDate": "2025-09-26T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e8/bd/5ce8bd95-98ed-5725-8e04-4d6947a68293/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B83/id6742597160?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 60,
-      "id": "1505445106",
-      "name": "暗区突围",
-      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
-      "kind": "Games",
-      "releaseDate": "2022-07-12T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/94/a1/9a94a126-3522-5c0e-c705-0b2f86a166cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4/id1505445106?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 61,
-      "id": "6738345439",
-      "name": "飞机大厨：空中烹饪",
-      "artistName": "Nordcurrent UAB",
-      "kind": "Games",
-      "releaseDate": "2024-11-27T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/9e/f5/6a9ef50a-d231-1b62-657f-faa393e51ec4/AppIconCNRID-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E5%8E%A8-%E7%A9%BA%E4%B8%AD%E7%83%B9%E9%A5%AA/id6738345439?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 62,
       "id": "6751274630",
       "name": "猪猪来财",
       "artistName": "晟溥 常",
@@ -691,107 +581,63 @@
       "url": "https://apps.apple.com/cn/app/%E7%8C%AA%E7%8C%AA%E6%9D%A5%E8%B4%A2/id6751274630?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 63,
-      "id": "1612426573",
-      "name": "梦想城镇 - Township",
-      "artistName": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd",
+      "date": "2026-03-04",
+      "rank": 53,
+      "id": "6738345439",
+      "name": "飞机大厨：空中烹饪",
+      "artistName": "Nordcurrent UAB",
       "kind": "Games",
-      "releaseDate": "2022-04-18T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/14/04/e81404f4-24e7-4a98-4ca1-202edd6e26ae/AppIconChina-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "releaseDate": "2024-11-27T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/9e/f5/6a9ef50a-d231-1b62-657f-faa393e51ec4/AppIconCNRID-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E5%8E%A8-%E7%A9%BA%E4%B8%AD%E7%83%B9%E9%A5%AA/id6738345439?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 54,
+      "id": "1505445106",
+      "name": "暗区突围",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
+      "kind": "Games",
+      "releaseDate": "2022-07-12T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/94/a1/9a94a126-3522-5c0e-c705-0b2f86a166cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4/id1505445106?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 55,
+      "id": "6748527570",
+      "name": "奔奔王国",
+      "artistName": "Fuzhou Dian Dian Song He Technology Co., Ltd",
+      "kind": "Games",
+      "releaseDate": "2025-09-07T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ca/a3/05caa36c-b1b2-9918-d183-e9fd86ceaf04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%A5%94%E5%A5%94%E7%8E%8B%E5%9B%BD/id6748527570?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 56,
+      "id": "493901993",
+      "name": "节奏大师",
+      "artistName": "Tencent Mobile Games",
+      "kind": "Games",
+      "releaseDate": "2012-05-25T12:57:17-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/8c/6e/3e8c6edc-17b6-543a-28dc-0ecffcec3a51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 64,
-      "id": "6758036926",
-      "name": "箭头传说",
-      "artistName": "利红 阳",
+      "date": "2026-03-04",
+      "rank": 57,
+      "id": "6742597160",
+      "name": "植物大战僵尸3",
+      "artistName": "Hainan Mengxing Technology Co.,Ltd",
       "kind": "Games",
-      "releaseDate": "2026-01-20T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/82/28/f582282c-9c49-7cd0-2a57-ac9edcfdc1a4/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%AE%AD%E5%A4%B4%E4%BC%A0%E8%AF%B4/id6758036926?uo=2"
+      "releaseDate": "2025-09-26T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e8/bd/5ce8bd95-98ed-5725-8e04-4d6947a68293/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B83/id6742597160?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 65,
-      "id": "6755369758",
-      "name": "花团锦绣",
-      "artistName": "梓程 赵",
-      "kind": "Games",
-      "releaseDate": "2025-11-17T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/da/1c/4fda1c6a-8ed3-f671-ff27-fcb509d8e3ad/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%BB%A3/id6755369758?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 66,
-      "id": "689888397",
-      "name": "保卫萝卜2",
-      "artistName": "Beijing Kai Luo Tian Xia Technology Co., Ltd.",
-      "kind": "Games",
-      "releaseDate": "2013-11-20T09:08:09-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/bf/59/60bf5979-c38c-0fc0-79bf-282d2405c7fa/AppIcon_cn-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 67,
-      "id": "548592311",
-      "name": "台球世界-桌球斯诺克竞技游戏",
-      "artistName": "Hangzhou Mention Network Technology Co., Ltd.",
-      "kind": "Games",
-      "releaseDate": "2012-09-06T15:26:41-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/66/d4/dd66d423-f0a2-52b3-3ce1-b7d1557f137d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 68,
-      "id": "6474293468",
-      "name": "向僵尸开炮-尸潮来袭",
-      "artistName": "Hainan Shengchang Network Technology Co., Ltd.",
-      "kind": "Games",
-      "releaseDate": "2024-01-18T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/4e/06/a94e06fa-144d-a5a8-ab0a-b09e0bf041fe/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%90%91%E5%83%B5%E5%B0%B8%E5%BC%80%E7%82%AE-%E5%B0%B8%E6%BD%AE%E6%9D%A5%E8%A2%AD/id6474293468?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 69,
-      "id": "1123876959",
-      "name": "保卫萝卜4",
-      "artistName": "Beijing Kai Luo Tian Xia Technology Co., Ltd.",
-      "kind": "Games",
-      "releaseDate": "2022-06-30T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/3d/24/4b3d245d-b1e9-2dac-226b-3b981e6a170c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 70,
-      "id": "6755016061",
-      "name": "搬砖添财",
-      "artistName": "明明 张",
-      "kind": "Games",
-      "releaseDate": "2025-11-16T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/55/d5/8e55d56b-fb37-0037-08b2-0c58a45f4b26/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%90%AC%E7%A0%96%E6%B7%BB%E8%B4%A2/id6755016061?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 71,
-      "id": "407413403",
-      "name": "三国杀",
-      "artistName": "杭州游卡网络技术有限公司",
-      "kind": "Games",
-      "releaseDate": "2010-12-13T09:39:08-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/30/7c/90307c45-daff-5a80-1e99-19969df714a0/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E4%B8%89%E5%9B%BD%E6%9D%80/id407413403?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 72,
+      "date": "2026-03-04",
+      "rank": 58,
       "id": "1337578317",
       "name": "我的汤姆猫2",
       "artistName": "Outfit7 Limited",
@@ -801,30 +647,30 @@
       "url": "https://apps.apple.com/cn/app/%E6%88%91%E7%9A%84%E6%B1%A4%E5%A7%86%E7%8C%AB2/id1337578317?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 73,
-      "id": "6754961990",
-      "name": "生存33天",
-      "artistName": "Guangzhou Longchang Network Technology Co., Ltd.",
+      "date": "2026-03-04",
+      "rank": 59,
+      "id": "6502348074",
+      "name": "永远的蔚蓝星球-合成快攻 对战轻松",
+      "artistName": "Chuangyue Joy",
       "kind": "Games",
-      "releaseDate": "2026-01-01T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/fc/7e/a7fc7ecf-2ef3-f31c-75eb-461f0d12f173/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%94%9F%E5%AD%9833%E5%A4%A9/id6754961990?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 74,
-      "id": "1595603316",
-      "name": "部落冲突（Clash of Clans）",
-      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
-      "kind": "Games",
-      "releaseDate": "2022-02-15T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/c4/0f/e1c40f87-1a18-a569-a465-c876f9d819f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "releaseDate": "2025-05-27T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/9d/51/ca9d51bb-2b47-e0ec-7e82-109d2f156b0b/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
       "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 75,
+      "date": "2026-03-04",
+      "rank": 60,
+      "id": "6752552410",
+      "name": "遗弃之地",
+      "artistName": "HK HORTOR TECHNOLOGY LIMITED",
+      "kind": "Games",
+      "releaseDate": "2025-11-26T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/a7/d0/0fa7d0d7-1c78-0f03-0a79-37bb40e44b87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E9%81%97%E5%BC%83%E4%B9%8B%E5%9C%B0/id6752552410?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 61,
       "id": "1488410151",
       "name": "使命召唤手游",
       "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
@@ -834,8 +680,173 @@
       "url": ""
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
+      "rank": 62,
+      "id": "653350791",
+      "name": "天天酷跑",
+      "artistName": "Tencent Mobile Games",
+      "kind": "Games",
+      "releaseDate": "2013-09-14T21:44:31-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/14/8c/12148cd2-c5c7-2480-a94b-08d79b742e85/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%A4%A9%E5%A4%A9%E9%85%B7%E8%B7%91/id653350791?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 63,
+      "id": "6757509550",
+      "name": "奶奶的小农院-发酵的魔法",
+      "artistName": "文涛 于",
+      "kind": "Games",
+      "releaseDate": "2026-01-14T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/16/57/a91657cc-f8cb-9bae-1191-3408147d1fac/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%B0%8F%E5%86%9C%E9%99%A2-%E5%8F%91%E9%85%B5%E7%9A%84%E9%AD%94%E6%B3%95/id6757509550?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 64,
+      "id": "548592311",
+      "name": "台球世界-桌球斯诺克竞技游戏",
+      "artistName": "Hangzhou Mention Network Technology Co., Ltd.",
+      "kind": "Games",
+      "releaseDate": "2012-09-06T15:26:41-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/66/d4/dd66d423-f0a2-52b3-3ce1-b7d1557f137d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 65,
+      "id": "1598249037",
+      "name": "极品飞车：集结",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
+      "kind": "Games",
+      "releaseDate": "2024-07-10T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/1c/dc/201cdc5f-2f80-0e62-2e1a-36eaed41cb3e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%9E%81%E5%93%81%E9%A3%9E%E8%BD%A6-%E9%9B%86%E7%BB%93/id1598249037?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 66,
+      "id": "407413403",
+      "name": "三国杀",
+      "artistName": "杭州游卡网络技术有限公司",
+      "kind": "Games",
+      "releaseDate": "2010-12-13T09:39:08-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/30/7c/90307c45-daff-5a80-1e99-19969df714a0/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E4%B8%89%E5%9B%BD%E6%9D%80/id407413403?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 67,
+      "id": "6754961990",
+      "name": "生存33天",
+      "artistName": "Guangzhou Longchang Network Technology Co., Ltd.",
+      "kind": "Games",
+      "releaseDate": "2026-01-01T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/fc/7e/a7fc7ecf-2ef3-f31c-75eb-461f0d12f173/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%94%9F%E5%AD%9833%E5%A4%A9/id6754961990?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 68,
+      "id": "6756700091",
+      "name": "箭头哪里逃",
+      "artistName": "巧莲 李",
+      "kind": "Games",
+      "releaseDate": "2025-12-23T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/1b/38/fa1b38e7-bdc7-7781-8eca-eb1fd6462df6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%AE%AD%E5%A4%B4%E5%93%AA%E9%87%8C%E9%80%83/id6756700091?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 69,
+      "id": "1612426573",
+      "name": "梦想城镇 - Township",
+      "artistName": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd",
+      "kind": "Games",
+      "releaseDate": "2022-04-18T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/14/04/e81404f4-24e7-4a98-4ca1-202edd6e26ae/AppIconChina-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 70,
+      "id": "6474293468",
+      "name": "向僵尸开炮-尸潮来袭",
+      "artistName": "Hainan Shengchang Network Technology Co., Ltd.",
+      "kind": "Games",
+      "releaseDate": "2024-01-18T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/4e/06/a94e06fa-144d-a5a8-ab0a-b09e0bf041fe/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%90%91%E5%83%B5%E5%B0%B8%E5%BC%80%E7%82%AE-%E5%B0%B8%E6%BD%AE%E6%9D%A5%E8%A2%AD/id6474293468?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 71,
+      "id": "689888397",
+      "name": "保卫萝卜2",
+      "artistName": "Beijing Kai Luo Tian Xia Technology Co., Ltd.",
+      "kind": "Games",
+      "releaseDate": "2013-11-20T09:08:09-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/bf/59/60bf5979-c38c-0fc0-79bf-282d2405c7fa/AppIcon_cn-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 72,
+      "id": "6753859465",
+      "name": "明日方舟：终末地",
+      "artistName": "Shanghai Hypergryph Talos Network Technology Co.,Ltd.",
+      "kind": "Games",
+      "releaseDate": "2026-01-19T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/ef/d5/f5efd52a-668c-f407-af87-94bb67c5a28e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-%E7%BB%88%E6%9C%AB%E5%9C%B0/id6753859465?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 73,
+      "id": "1123876959",
+      "name": "保卫萝卜4",
+      "artistName": "Beijing Kai Luo Tian Xia Technology Co., Ltd.",
+      "kind": "Games",
+      "releaseDate": "2022-06-30T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/3d/24/4b3d245d-b1e9-2dac-226b-3b981e6a170c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 74,
+      "id": "1632344522",
+      "name": "元梦之星-山海寻灵",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
+      "kind": "Games",
+      "releaseDate": "2023-12-14T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0e/86/6d0e8676-996a-0cb6-9c2f-98584fdbc8f1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F-%E5%B1%B1%E6%B5%B7%E5%AF%BB%E7%81%B5/id1632344522?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 75,
+      "id": "1618911882",
+      "name": "恋与深空",
+      "artistName": "Paper Games",
+      "kind": "Games",
+      "releaseDate": "2024-01-15T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2e/10/2c2e104c-0f3c-b47f-54e9-1cec411843d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
       "rank": 76,
+      "id": "6758036926",
+      "name": "箭头传说",
+      "artistName": "利红 阳",
+      "kind": "Games",
+      "releaseDate": "2026-01-20T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/82/28/f582282c-9c49-7cd0-2a57-ac9edcfdc1a4/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%AE%AD%E5%A4%B4%E4%BC%A0%E8%AF%B4/id6758036926?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 77,
       "id": "6745691636",
       "name": "吃碰杠连连",
       "artistName": "Guangzhou Duoying Technology Co.,Ltd",
@@ -845,51 +856,40 @@
       "url": "https://apps.apple.com/cn/app/%E5%90%83%E7%A2%B0%E6%9D%A0%E8%BF%9E%E8%BF%9E/id6745691636?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 77,
-      "id": "1467718253",
-      "name": "微乐家乡麻将移动版-地方棋牌玩法大全",
-      "artistName": "Changchun Dingyuan Network Technology Co., Ltd.",
-      "kind": "Games",
-      "releaseDate": "2019-06-20T12:36:44-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/cf/66/5ecf66e0-acae-259e-d2f2-2662ec33e98f/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%BE%AE%E4%B9%90%E5%AE%B6%E4%B9%A1%E9%BA%BB%E5%B0%86%E7%A7%BB%E5%8A%A8%E7%89%88-%E5%9C%B0%E6%96%B9%E6%A3%8B%E7%89%8C%E7%8E%A9%E6%B3%95%E5%A4%A7%E5%85%A8/id1467718253?uo=2"
-    },
-    {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 78,
-      "id": "940547441",
-      "name": "梦幻西游",
-      "artistName": "网易移动游戏",
+      "id": "6479696944",
+      "name": "欢乐钓鱼大师",
+      "artistName": "Ark Game Limited",
       "kind": "Games",
-      "releaseDate": "2015-03-25T03:14:10-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/36/0d/23360d86-4faf-dd79-a9bf-0abc4e8ce9ef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8/id940547441?uo=2"
+      "releaseDate": "2024-03-28T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/3e/8f/e93e8f73-69ab-b3ca-942b-0988ab66b8c3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": ""
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 79,
-      "id": "6740021287",
-      "name": "假日乐消消",
-      "artistName": "乐元素",
+      "id": "6751788506",
+      "name": "倒水我最强-碰碰杯",
+      "artistName": "思源 陈",
       "kind": "Games",
-      "releaseDate": "2025-06-24T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/82/d8/df82d8d1-1b86-e12b-6bed-8e55b8b0febc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%81%87%E6%97%A5%E4%B9%90%E6%B6%88%E6%B6%88/id6740021287?uo=2"
+      "releaseDate": "2025-10-20T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/e1/6a/a9e16a0b-6c01-602a-a015-3918c76c0a5f/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%80%92%E6%B0%B4%E6%88%91%E6%9C%80%E5%BC%BA-%E7%A2%B0%E7%A2%B0%E6%9D%AF/id6751788506?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 80,
-      "id": "654897098",
-      "name": "天天爱消除",
-      "artistName": "Tencent Mobile Games",
+      "id": "1561903786",
+      "name": "心动小镇",
+      "artistName": "X.D. Network Inc.",
       "kind": "Games",
-      "releaseDate": "2013-08-04T00:51:24-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3a/93/403a9344-d927-88a5-ed28-9be670878448/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%A4%A9%E5%A4%A9%E7%88%B1%E6%B6%88%E9%99%A4/id654897098?uo=2"
+      "releaseDate": "2024-07-16T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/84/4a/7c844a51-d349-4723-ff24-06d24caf6fef/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%BF%83%E5%8A%A8%E5%B0%8F%E9%95%87/id1561903786?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 81,
       "id": "1184159988",
       "name": "元气骑士",
@@ -900,30 +900,63 @@
       "url": "https://apps.apple.com/cn/app/%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB/id1184159988?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 82,
-      "id": "6479696944",
-      "name": "欢乐钓鱼大师",
-      "artistName": "Ark Game Limited",
+      "id": "6740021287",
+      "name": "假日乐消消",
+      "artistName": "乐元素",
       "kind": "Games",
-      "releaseDate": "2024-03-28T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/3e/8f/e93e8f73-69ab-b3ca-942b-0988ab66b8c3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "releaseDate": "2025-06-24T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/82/d8/df82d8d1-1b86-e12b-6bed-8e55b8b0febc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%81%87%E6%97%A5%E4%B9%90%E6%B6%88%E6%B6%88/id6740021287?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 83,
+      "id": "6755369758",
+      "name": "花团锦绣",
+      "artistName": "梓程 赵",
+      "kind": "Games",
+      "releaseDate": "2025-11-17T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/da/1c/4fda1c6a-8ed3-f671-ff27-fcb509d8e3ad/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%BB%A3/id6755369758?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 84,
+      "id": "6746743374",
+      "name": "整理来解压 - 收纳达人清洁合集",
+      "artistName": "BoomLabs",
+      "kind": "Games",
+      "releaseDate": "2025-07-30T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/bf/12/b4bf12be-b05e-3e86-35fa-a7128aec0467/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%95%B4%E7%90%86%E6%9D%A5%E8%A7%A3%E5%8E%8B-%E6%94%B6%E7%BA%B3%E8%BE%BE%E4%BA%BA%E6%B8%85%E6%B4%81%E5%90%88%E9%9B%86/id6746743374?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 85,
+      "id": "1595603316",
+      "name": "部落冲突（Clash of Clans）",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
+      "kind": "Games",
+      "releaseDate": "2022-02-15T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/c4/0f/e1c40f87-1a18-a569-a465-c876f9d819f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 83,
-      "id": "6756700091",
-      "name": "箭头哪里逃",
-      "artistName": "巧莲 李",
+      "date": "2026-03-04",
+      "rank": 86,
+      "id": "6475341440",
+      "name": "抓大鹅",
+      "artistName": "Qingdao Bluefir Interactive Entertainment Tech Co., Ltd.",
       "kind": "Games",
-      "releaseDate": "2025-12-23T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/1b/38/fa1b38e7-bdc7-7781-8eca-eb1fd6462df6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%AE%AD%E5%A4%B4%E5%93%AA%E9%87%8C%E9%80%83/id6756700091?uo=2"
+      "releaseDate": "2024-07-18T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/14/9d/f0149d2e-97d5-714c-21c8-1033eb9d476d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
     },
     {
-      "date": "2026-03-06",
-      "rank": 84,
+      "date": "2026-03-04",
+      "rank": 87,
       "id": "1580500427",
       "name": "永劫无间",
       "artistName": "网易移动游戏",
@@ -933,40 +966,7 @@
       "url": "https://apps.apple.com/cn/app/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/id1580500427?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 85,
-      "id": "1598249037",
-      "name": "极品飞车：集结",
-      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
-      "kind": "Games",
-      "releaseDate": "2024-07-10T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/1c/dc/201cdc5f-2f80-0e62-2e1a-36eaed41cb3e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%9E%81%E5%93%81%E9%A3%9E%E8%BD%A6-%E9%9B%86%E7%BB%93/id1598249037?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 86,
-      "id": "6751788506",
-      "name": "倒水我最强-碰碰杯",
-      "artistName": "思源 陈",
-      "kind": "Games",
-      "releaseDate": "2025-10-20T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/e1/6a/a9e16a0b-6c01-602a-a015-3918c76c0a5f/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%80%92%E6%B0%B4%E6%88%91%E6%9C%80%E5%BC%BA-%E7%A2%B0%E7%A2%B0%E6%9D%AF/id6751788506?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 87,
-      "id": "6475341440",
-      "name": "抓大鹅",
-      "artistName": "Qingdao Bluefir Interactive Entertainment Tech Co., Ltd.",
-      "kind": "Games",
-      "releaseDate": "2024-07-18T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/a4/5a/5ca45a41-9fe9-7162-002a-4e902eac8d33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 88,
       "id": "534453594",
       "name": "保卫萝卜",
@@ -977,107 +977,85 @@
       "url": ""
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 89,
-      "id": "1632344522",
-      "name": "元梦之星-山海寻灵",
-      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
+      "id": "1609347000",
+      "name": "猛鬼宿舍",
+      "artistName": "眉宇 李",
       "kind": "Games",
-      "releaseDate": "2023-12-14T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0e/86/6d0e8676-996a-0cb6-9c2f-98584fdbc8f1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F-%E5%B1%B1%E6%B5%B7%E5%AF%BB%E7%81%B5/id1632344522?uo=2"
+      "releaseDate": "2022-03-16T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/d8/53/bfd85340-3c2f-e3f8-3ac6-62acbe1dd129/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "url": ""
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 90,
-      "id": "1541570980",
-      "name": "逆水寒",
+      "id": "6448847085",
+      "name": "钢琴块2",
+      "artistName": "Forward Vision Corporation Limited",
+      "kind": "Games",
+      "releaseDate": "2023-06-14T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/43/b4/fd43b474-f4d1-a6d1-e4b8-1112a09df967/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 91,
+      "id": "1467718253",
+      "name": "微乐家乡麻将移动版-地方棋牌玩法大全",
+      "artistName": "Changchun Dingyuan Network Technology Co., Ltd.",
+      "kind": "Games",
+      "releaseDate": "2019-06-20T12:36:44-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/cf/66/5ecf66e0-acae-259e-d2f2-2662ec33e98f/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%BE%AE%E4%B9%90%E5%AE%B6%E4%B9%A1%E9%BA%BB%E5%B0%86%E7%A7%BB%E5%8A%A8%E7%89%88-%E5%9C%B0%E6%96%B9%E6%A3%8B%E7%89%8C%E7%8E%A9%E6%B3%95%E5%A4%A7%E5%85%A8/id1467718253?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 92,
+      "id": "6736710456",
+      "name": "沙威玛传奇 - 中国版",
+      "artistName": "Eyad Al Shafei",
+      "kind": "Games",
+      "releaseDate": "2024-10-09T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ce/c2/8ccec2b8-1e14-bb21-47a4-c2d01216f225/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%B2%99%E5%A8%81%E7%8E%9B%E4%BC%A0%E5%A5%87-%E4%B8%AD%E5%9B%BD%E7%89%88/id6736710456?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 93,
+      "id": "1454809109",
+      "name": "Phigros",
+      "artistName": "Xiamen Pigeon Games Network Co., Ltd.",
+      "kind": "Games",
+      "releaseDate": "2019-09-03T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/99/05/599905c1-13eb-8fff-fa74-3ace09fc9714/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 94,
+      "id": "940547441",
+      "name": "梦幻西游",
       "artistName": "网易移动游戏",
       "kind": "Games",
-      "releaseDate": "2023-06-25T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/8d/1b/168d1b67-748f-6bcb-edba-66a06f9a6252/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E9%80%86%E6%B0%B4%E5%AF%92/id1541570980?uo=2"
+      "releaseDate": "2015-03-25T03:14:10-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/36/0d/23360d86-4faf-dd79-a9bf-0abc4e8ce9ef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8/id940547441?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 91,
-      "id": "1618911882",
-      "name": "恋与深空",
-      "artistName": "Paper Games",
-      "kind": "Games",
-      "releaseDate": "2024-01-15T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2e/10/2c2e104c-0f3c-b47f-54e9-1cec411843d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 92,
-      "id": "1561903786",
-      "name": "心动小镇",
-      "artistName": "X.D. Network Inc.",
-      "kind": "Games",
-      "releaseDate": "2024-07-16T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/84/4a/7c844a51-d349-4723-ff24-06d24caf6fef/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%BF%83%E5%8A%A8%E5%B0%8F%E9%95%87/id1561903786?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 93,
-      "id": "1525863146",
-      "name": "捕鱼大作战-街机打鱼游戏王者",
-      "artistName": "Tuyoo Online HK Limited",
-      "kind": "Games",
-      "releaseDate": "2020-08-22T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/18/5b/a6185bff-c108-fc04-7692-4b98455ece30/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%8D%95%E9%B1%BC%E5%A4%A7%E4%BD%9C%E6%88%98-%E8%A1%97%E6%9C%BA%E6%89%93%E9%B1%BC%E6%B8%B8%E6%88%8F%E7%8E%8B%E8%80%85/id1525863146?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 94,
-      "id": "6746743374",
-      "name": "整理来解压 - 收纳达人清洁合集",
-      "artistName": "BoomLabs",
-      "kind": "Games",
-      "releaseDate": "2025-07-30T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/bf/12/b4bf12be-b05e-3e86-35fa-a7128aec0467/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%95%B4%E7%90%86%E6%9D%A5%E8%A7%A3%E5%8E%8B-%E6%94%B6%E7%BA%B3%E8%BE%BE%E4%BA%BA%E6%B8%85%E6%B4%81%E5%90%88%E9%9B%86/id6746743374?uo=2"
-    },
-    {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 95,
-      "id": "596402997",
-      "name": "小黄人快跑 - Minion Rush",
-      "artistName": "Gameloft",
+      "id": "6756718550",
+      "name": "得亿羊羊-探索思考",
+      "artistName": "泽辉 周",
       "kind": "Games",
-      "releaseDate": "2013-06-12T09:33:36-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/ef/51/52ef5190-ce06-3b48-cec0-f5fc4bf6cba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": ""
+      "releaseDate": "2025-12-19T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3f/c6/403fc6d5-2ac0-b440-4221-8e9056bb025c/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E5%BE%97%E4%BA%BF%E7%BE%8A%E7%BE%8A-%E6%8E%A2%E7%B4%A2%E6%80%9D%E8%80%83/id6756718550?uo=2"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-04",
       "rank": 96,
-      "id": "6751218300",
-      "name": "口袋冠军",
-      "artistName": "Yodo1, LTD",
-      "kind": "Games",
-      "releaseDate": "2025-12-02T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/3b/54/f33b547d-2312-545b-2105-9f0fd290251d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E5%86%A0%E5%86%9B/id6751218300?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 97,
-      "id": "6753859465",
-      "name": "明日方舟：终末地",
-      "artistName": "Shanghai Hypergryph Talos Network Technology Co.,Ltd.",
-      "kind": "Games",
-      "releaseDate": "2026-01-19T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/ef/d5/f5efd52a-668c-f407-af87-94bb67c5a28e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-%E7%BB%88%E6%9C%AB%E5%9C%B0/id6753859465?uo=2"
-    },
-    {
-      "date": "2026-03-06",
-      "rank": 98,
       "id": "1582427876",
       "name": "桃源深处有人家",
       "artistName": "Tencent Technology (Chengdu) Co., Ltd.",
@@ -1087,26 +1065,48 @@
       "url": "https://apps.apple.com/cn/app/%E6%A1%83%E6%BA%90%E6%B7%B1%E5%A4%84%E6%9C%89%E4%BA%BA%E5%AE%B6/id1582427876?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 99,
-      "id": "1094636977",
-      "name": "罗斯方块—方块单机格子游戏新版",
-      "artistName": "Wuhan Dobest Information Technology Co, Ltd.",
+      "date": "2026-03-04",
+      "rank": 97,
+      "id": "1504236603",
+      "name": "荒野乱斗",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
       "kind": "Games",
-      "releaseDate": "2016-03-31T16:25:05-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/4e/8d/7f4e8d66-27a0-3e71-598d-b5cb8f7f796f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97-%E6%96%B9%E5%9D%97%E5%8D%95%E6%9C%BA%E6%A0%BC%E5%AD%90%E6%B8%B8%E6%88%8F%E6%96%B0%E7%89%88/id1094636977?uo=2"
+      "releaseDate": "2020-06-08T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/62/b3/f762b32d-f663-cd67-c66d-05acb8784674/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E8%8D%92%E9%87%8E%E4%B9%B1%E6%96%97/id1504236603?uo=2"
     },
     {
-      "date": "2026-03-06",
-      "rank": 100,
-      "id": "6736710456",
-      "name": "沙威玛传奇 - 中国版",
-      "artistName": "Eyad Al Shafei",
+      "date": "2026-03-04",
+      "rank": 98,
+      "id": "6711336814",
+      "name": "美职篮全明星",
+      "artistName": "Shenzhen Tencent Tianyou Technology Ltd",
       "kind": "Games",
-      "releaseDate": "2024-10-09T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ce/c2/8ccec2b8-1e14-bb21-47a4-c2d01216f225/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/cn/app/%E6%B2%99%E5%A8%81%E7%8E%9B%E4%BC%A0%E5%A5%87-%E4%B8%AD%E5%9B%BD%E7%89%88/id6736710456?uo=2"
+      "releaseDate": "2025-03-24T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/41/56/a54156c0-ea8a-9a38-68d9-9c595aa4c142/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E7%BE%8E%E8%81%8C%E7%AF%AE%E5%85%A8%E6%98%8E%E6%98%9F/id6711336814?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 99,
+      "id": "1541570980",
+      "name": "逆水寒",
+      "artistName": "网易移动游戏",
+      "kind": "Games",
+      "releaseDate": "2023-06-25T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/8d/1b/168d1b67-748f-6bcb-edba-66a06f9a6252/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/cn/app/%E9%80%86%E6%B0%B4%E5%AF%92/id1541570980?uo=2"
+    },
+    {
+      "date": "2026-03-04",
+      "rank": 100,
+      "id": "1507876668",
+      "name": "芒果斗地主",
+      "artistName": "Linzihuyu",
+      "kind": "Games",
+      "releaseDate": "2020-09-15T00:00:00-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/dd/b8/b1ddb8b5-cf6a-7953-cf3b-fe7271c0db44/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "url": ""
     }
   ]
 }
