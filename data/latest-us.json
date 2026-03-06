@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07",
+  "date": "2026-03-06",
   "country": "us",
   "mediaType": "apps",
   "feedTypes": [
@@ -10,7 +10,7 @@
   "totalDatasets": 2,
   "datasets": [
     {
-      "date": "2026-03-07",
+      "date": "2026-03-06",
       "country": "us",
       "mediaType": "apps",
       "feedType": "top-free",
@@ -20,7 +20,7 @@
       "total": 100,
       "items": [
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 1,
           "id": "1113153706",
           "name": "Microsoft Teams",
@@ -31,7 +31,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 2,
           "id": "309735670",
           "name": "Indeed Job Search",
@@ -42,18 +42,18 @@
           "url": "https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 3,
-          "id": "444553167",
-          "name": "ADP Mobile Solutions",
-          "artistName": "ADP, Inc",
+          "id": "546505307",
+          "name": "Zoom Workplace",
+          "artistName": "Zoom Communications, Inc.",
           "kind": "Business",
-          "releaseDate": "2011-07-13T07:01:08-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/80/eb/fb80eb98-e32d-2aea-1407-b9dbc1a864b5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2012-08-15T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/43/90/77439005-1456-e75d-63ba-ccac071f1f12/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/zoom-workplace/id546505307?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 4,
           "id": "288429040",
           "name": "LinkedIn: Community & Network",
@@ -64,18 +64,18 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 5,
-          "id": "546505307",
-          "name": "Zoom Workplace",
-          "artistName": "Zoom Communications, Inc.",
+          "id": "444553167",
+          "name": "ADP Mobile Solutions",
+          "artistName": "ADP, Inc",
           "kind": "Business",
-          "releaseDate": "2012-08-15T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/43/90/77439005-1456-e75d-63ba-ccac071f1f12/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/zoom-workplace/id546505307?uo=2"
+          "releaseDate": "2011-07-13T07:01:08-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/29/cc/da29cc62-fdb7-ce49-5a66-3c8ba0996b4a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 6,
           "id": "1010729050",
           "name": "FedEx Mobile",
@@ -86,7 +86,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 7,
           "id": "1451754591",
           "name": "DoorDash - Dasher",
@@ -97,7 +97,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 8,
           "id": "469337564",
           "name": "Adobe Acrobat Reader: Sign PDF",
@@ -108,18 +108,18 @@
           "url": "https://apps.apple.com/us/app/adobe-acrobat-reader-sign-pdf/id469337564?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 9,
-          "id": "6445849909",
-          "name": "UKG Pro",
-          "artistName": "UKG INC.",
+          "id": "490179405",
+          "name": "Okta Verify",
+          "artistName": "Okta, Inc.",
           "kind": "Business",
-          "releaseDate": "2023-10-02T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/25/e7/bd25e76c-8c6d-a379-2a58-d5db00d9137d/AppIconUKG-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/ukg-pro/id6445849909?uo=2"
+          "releaseDate": "2012-01-06T11:59:32-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/eb/d0/70ebd06a-9916-d171-80ec-186d1332f85b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 10,
           "id": "316800034",
           "name": "Workday",
@@ -130,52 +130,8 @@
           "url": "https://apps.apple.com/us/app/workday/id316800034?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 11,
-          "id": "1131342792",
-          "name": "Uber - Driver: Drive & Deliver",
-          "artistName": "Uber Technologies, Inc.",
-          "kind": "Business",
-          "releaseDate": "2016-10-18T12:07:11-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/36/ae/b036ae8d-68a2-e85e-246e-61baf770efad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 12,
-          "id": "490179405",
-          "name": "Okta Verify",
-          "artistName": "Okta, Inc.",
-          "kind": "Business",
-          "releaseDate": "2012-01-06T11:59:32-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/eb/d0/70ebd06a-9916-d171-80ec-186d1332f85b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 13,
-          "id": "1386412985",
-          "name": "WhatsApp Business",
-          "artistName": "WhatsApp Inc.",
-          "kind": "Business",
-          "releaseDate": "2019-04-04T22:53:41-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d4/b2/a1d4b276-cb04-c596-fd73-41cb908b1fb8/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 14,
-          "id": "1483998235",
-          "name": "Spark Driver",
-          "artistName": "Walmart",
-          "kind": "Business",
-          "releaseDate": "2019-11-11T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/db/dd/c3dbddf2-7982-7b20-3ee6-c2ae09e3d8b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 15,
           "id": "422663827",
           "name": "Duo Mobile",
           "artistName": "Duo Security LLC",
@@ -185,7 +141,51 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 12,
+          "id": "1483998235",
+          "name": "Spark Driver",
+          "artistName": "Walmart",
+          "kind": "Business",
+          "releaseDate": "2019-11-11T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/db/dd/c3dbddf2-7982-7b20-3ee6-c2ae09e3d8b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 13,
+          "id": "6445849909",
+          "name": "UKG Pro",
+          "artistName": "UKG INC.",
+          "kind": "Business",
+          "releaseDate": "2023-10-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/25/e7/bd25e76c-8c6d-a379-2a58-d5db00d9137d/AppIconUKG-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/ukg-pro/id6445849909?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 14,
+          "id": "1131342792",
+          "name": "Uber - Driver: Drive & Deliver",
+          "artistName": "Uber Technologies, Inc.",
+          "kind": "Business",
+          "releaseDate": "2016-10-18T12:07:11-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/36/ae/b036ae8d-68a2-e85e-246e-61baf770efad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 15,
+          "id": "1386412985",
+          "name": "WhatsApp Business",
+          "artistName": "WhatsApp Inc.",
+          "kind": "Business",
+          "releaseDate": "2019-04-04T22:53:41-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d4/b2/a1d4b276-cb04-c596-fd73-41cb908b1fb8/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 16,
           "id": "336377331",
           "name": "UPS",
@@ -196,7 +196,7 @@
           "url": "https://apps.apple.com/us/app/ups/id336377331?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 17,
           "id": "1454725763",
           "name": "Amazon Flex",
@@ -207,52 +207,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 18,
-          "id": "618783545",
-          "name": "Slack",
-          "artistName": "Slack Technologies, Inc.",
-          "kind": "Business",
-          "releaseDate": "2013-03-20T12:23:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/1b/06/431b06ff-3c7a-6506-26c2-ef44089c9339/slack_icon_prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 19,
-          "id": "652438572",
-          "name": "Paylocity",
-          "artistName": "Paylocity",
-          "kind": "Business",
-          "releaseDate": "2013-06-27T09:24:56-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/55/f7/f655f70c-eac4-81b9-d18b-a58853c07cd8/AppIcon-Release-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 20,
-          "id": "1454056744",
-          "name": "Instacart Shopper: Earn money",
-          "artistName": "Maplebear Inc",
-          "kind": "Business",
-          "releaseDate": "2019-05-01T09:55:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/de/a4/90dea4db-4ffa-5330-7dd4-befffff977a2/AppIcon.com.instacart.shopper-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 21,
-          "id": "1397865865",
-          "name": "Package Tracker - pkge Mobile",
-          "artistName": "DARADDO APPS",
-          "kind": "Business",
-          "releaseDate": "2018-07-25T14:28:47-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/6f/79/0f6f7961-63e1-a6de-956f-8b4ecc12fd33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 22,
           "id": "833967564",
           "name": "Webex",
           "artistName": "Cisco",
@@ -262,19 +218,52 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 23,
-          "id": "514643583",
-          "name": "Meta Business Suite",
-          "artistName": "Meta Platforms, Inc.",
+          "date": "2026-03-06",
+          "rank": 19,
+          "id": "618783545",
+          "name": "Slack",
+          "artistName": "Slack Technologies, Inc.",
           "kind": "Business",
-          "releaseDate": "2012-05-21T17:21:31-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/4a/99/9e4a99c8-f2f5-becc-4ee8-00d4068894a5/Icon-Production-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "releaseDate": "2013-03-20T12:23:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/1b/06/431b06ff-3c7a-6506-26c2-ef44089c9339/slack_icon_prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 24,
+          "date": "2026-03-06",
+          "rank": 20,
+          "id": "652438572",
+          "name": "Paylocity",
+          "artistName": "Paylocity",
+          "kind": "Business",
+          "releaseDate": "2013-06-27T09:24:56-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/55/f7/f655f70c-eac4-81b9-d18b-a58853c07cd8/AppIcon-Release-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 21,
+          "id": "1454056744",
+          "name": "Instacart Shopper: Earn money",
+          "artistName": "Maplebear Inc",
+          "kind": "Business",
+          "releaseDate": "2019-05-01T09:55:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/de/a4/90dea4db-4ffa-5330-7dd4-befffff977a2/AppIcon.com.instacart.shopper-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 22,
+          "id": "1397865865",
+          "name": "Package Tracker - pkge Mobile",
+          "artistName": "DARADDO APPS",
+          "kind": "Business",
+          "releaseDate": "2018-07-25T14:28:47-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/29/ec/9129ec50-8be7-d19e-a137-7702bbe192c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 23,
           "id": "1199564834",
           "name": "Adobe Scan: PDF & OCR Scanner",
           "artistName": "Adobe Inc.",
@@ -284,18 +273,29 @@
           "url": "https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 25,
-          "id": "335393788",
-          "name": "Square Point of Sale (POS)",
-          "artistName": "Block, Inc.",
+          "date": "2026-03-06",
+          "rank": 24,
+          "id": "514643583",
+          "name": "Meta Business Suite",
+          "artistName": "Meta Platforms, Inc.",
           "kind": "Business",
-          "releaseDate": "2010-04-02T21:42:05-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/86/b3/0586b37c-2714-c9b7-4033-a87de68bceb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788?uo=2"
+          "releaseDate": "2012-05-21T17:21:31-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/4a/99/9e4a99c8-f2f5-becc-4ee8-00d4068894a5/Icon-Production-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 25,
+          "id": "541933937",
+          "name": "ZipRecruiter Job Search",
+          "artistName": "ZipRecruiter, Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-12-28T21:05:27-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/17/6b/a5176b59-e423-baa9-072a-bc19baee78a2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 26,
           "id": "1163852619",
           "name": "Google Chat",
@@ -306,19 +306,8 @@
           "url": "https://apps.apple.com/us/app/google-chat/id1163852619?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 27,
-          "id": "541933937",
-          "name": "ZipRecruiter Job Search",
-          "artistName": "ZipRecruiter, Inc.",
-          "kind": "Business",
-          "releaseDate": "2013-12-28T21:05:27-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/2d/71/032d71b4-cfd8-7578-7b50-9029efdb78cf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 28,
           "id": "1207929487",
           "name": "Paycom",
           "artistName": "Paycom",
@@ -328,52 +317,30 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 29,
+          "date": "2026-03-06",
+          "rank": 28,
           "id": "864076487",
           "name": "QuickBooks Workforce",
           "artistName": "Intuit Inc.",
           "kind": "Business",
           "releaseDate": "2014-07-17T15:20:03-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/47/86/ab4786dc-7cc2-23ac-3a6c-d21277d4308a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/e2/02/53e20293-158e-a63a-1234-f3609ac327a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 29,
+          "id": "335393788",
+          "name": "Square Point of Sale (POS)",
+          "artistName": "Block, Inc.",
+          "kind": "Business",
+          "releaseDate": "2010-04-02T21:42:05-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/86/b3/0586b37c-2714-c9b7-4033-a87de68bceb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788?uo=2"
+        },
+        {
+          "date": "2026-03-06",
           "rank": 30,
-          "id": "339597578",
-          "name": "USPS Mobile®",
-          "artistName": "United States Postal Service",
-          "kind": "Business",
-          "releaseDate": "2009-12-02T20:50:12-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fa/94/5dfa948e-2743-cff4-0200-f7c967b4118a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 31,
-          "id": "371294472",
-          "name": "Shopify: Sell online/in person",
-          "artistName": "Shopify Inc.",
-          "kind": "Business",
-          "releaseDate": "2010-05-12T10:41:12-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ac/e4/ccace45c-899a-1761-3f11-9e8112d510e8/AppIcon-com.jadedpixel.shopify-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 32,
-          "id": "527740152",
-          "name": "Paychex Flex",
-          "artistName": "Paychex, Inc",
-          "kind": "Business",
-          "releaseDate": "2012-06-11T15:03:39-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/4d/e8/134de8f7-00d7-962b-02d1-7035b89d7d79/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 33,
           "id": "346080608",
           "name": "Fiverr - Freelance Services",
           "artistName": "Fiverr International Ltd.",
@@ -383,8 +350,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 34,
+          "date": "2026-03-06",
+          "rank": 31,
+          "id": "339597578",
+          "name": "USPS Mobile®",
+          "artistName": "United States Postal Service",
+          "kind": "Business",
+          "releaseDate": "2009-12-02T20:50:12-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fa/94/5dfa948e-2743-cff4-0200-f7c967b4118a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 32,
           "id": "719171358",
           "name": "Intune Company Portal",
           "artistName": "Microsoft Corporation",
@@ -394,7 +372,29 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 33,
+          "id": "371294472",
+          "name": "Shopify: Sell online/in person",
+          "artistName": "Shopify Inc.",
+          "kind": "Business",
+          "releaseDate": "2010-05-12T10:41:12-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ac/e4/ccace45c-899a-1761-3f11-9e8112d510e8/AppIcon-com.jadedpixel.shopify-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 34,
+          "id": "527740152",
+          "name": "Paychex Flex",
+          "artistName": "Paychex, Inc",
+          "kind": "Business",
+          "releaseDate": "2012-06-11T15:03:39-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/4d/e8/134de8f7-00d7-962b-02d1-7035b89d7d79/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 35,
           "id": "1040093707",
           "name": "iScanner: PDF Document Scanner",
@@ -405,30 +405,8 @@
           "url": "https://apps.apple.com/us/app/iscanner-pdf-document-scanner/id1040093707?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 36,
-          "id": "1203077485",
-          "name": "Lyft Driver",
-          "artistName": "Lyft, Inc.",
-          "kind": "Business",
-          "releaseDate": "2017-05-08T16:02:41-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b1/85/dcb18549-7471-1a2b-bc61-2c541839ca1a/DriverAppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 37,
-          "id": "6478885776",
-          "name": "Informed Delivery® Mobile",
-          "artistName": "United States Postal Service",
-          "kind": "Business",
-          "releaseDate": "2025-09-17T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/a4/54/25a45446-fe64-00da-631c-2a619494c9f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 38,
           "id": "1568660349",
           "name": "Scanner App - Scan PDF & Docs",
           "artistName": "TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI",
@@ -438,8 +416,19 @@
           "url": "https://apps.apple.com/us/app/scanner-app-scan-pdf-docs/id1568660349?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 39,
+          "date": "2026-03-06",
+          "rank": 37,
+          "id": "1203077485",
+          "name": "Lyft Driver",
+          "artistName": "Lyft, Inc.",
+          "kind": "Business",
+          "releaseDate": "2017-05-08T16:02:41-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b1/85/dcb18549-7471-1a2b-bc61-2c541839ca1a/DriverAppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 38,
           "id": "1220620171",
           "name": "Handshake Jobs & New Careers",
           "artistName": "Stryder Corp.",
@@ -449,8 +438,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 40,
+          "date": "2026-03-06",
+          "rank": 39,
           "id": "1123819773",
           "name": "Instawork: Work when you want",
           "artistName": "Instawork",
@@ -460,7 +449,18 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 40,
+          "id": "589698942",
+          "name": "Glassdoor | Jobs & Careers",
+          "artistName": "Glassdoor",
+          "kind": "Business",
+          "releaseDate": "2013-01-10T17:31:30-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/59/c6/e459c6d3-ddc4-c43d-3135-88677bcd0940/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942?uo=2"
+        },
+        {
+          "date": "2026-03-06",
           "rank": 41,
           "id": "976353472",
           "name": "Shipt: Shopper and Driver",
@@ -471,18 +471,18 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 42,
-          "id": "589698942",
-          "name": "Glassdoor | Jobs & Careers",
-          "artistName": "Glassdoor",
+          "id": "1491335576",
+          "name": "Cvent Events",
+          "artistName": "Cvent",
           "kind": "Business",
-          "releaseDate": "2013-01-10T17:31:30-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/59/c6/e459c6d3-ddc4-c43d-3135-88677bcd0940/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942?uo=2"
+          "releaseDate": "2020-03-30T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/64/ce/b764ce79-48d7-5cf6-99a7-7f620e792656/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/cvent-events/id1491335576?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 43,
           "id": "1597439129",
           "name": "Smart Printer App & Scan",
@@ -493,30 +493,8 @@
           "url": "https://apps.apple.com/us/app/smart-printer-app-scan/id1597439129?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 44,
-          "id": "1606911248",
-          "name": "Invoice Maker - Invoice Fly",
-          "artistName": "Labhouse Mobile",
-          "kind": "Business",
-          "releaseDate": "2022-02-10T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/6b/b7/b06bb778-f641-87a4-fd8d-16b31b4fc341/InvoiceFly-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 45,
-          "id": "1491335576",
-          "name": "Cvent Events",
-          "artistName": "Cvent",
-          "kind": "Business",
-          "releaseDate": "2020-03-30T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/64/ce/b764ce79-48d7-5cf6-99a7-7f620e792656/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/cvent-events/id1491335576?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 46,
           "id": "978931264",
           "name": "FAX from iPhone: Send Doc App",
           "artistName": "Municorn Limited",
@@ -526,8 +504,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 47,
+          "date": "2026-03-06",
+          "rank": 45,
           "id": "871544379",
           "name": "Homebase: Scheduling & Payroll",
           "artistName": "Pioneer Works, Inc.",
@@ -537,8 +515,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 48,
+          "date": "2026-03-06",
+          "rank": 46,
           "id": "1452071632",
           "name": "Grubhub for Drivers",
           "artistName": "GrubHub.com",
@@ -548,41 +526,30 @@
           "url": "https://apps.apple.com/us/app/grubhub-for-drivers/id1452071632?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 47,
+          "id": "1606911248",
+          "name": "Invoice Maker - Invoice Fly",
+          "artistName": "Labhouse Mobile",
+          "kind": "Business",
+          "releaseDate": "2022-02-10T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/6b/b7/b06bb778-f641-87a4-fd8d-16b31b4fc341/InvoiceFly-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 48,
+          "id": "1465614785",
+          "name": "GoTo",
+          "artistName": "GoTo Group, Inc.",
+          "kind": "Business",
+          "releaseDate": "2019-09-17T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/97/cc/fd97cc05-ec31-6f25-be72-d35b37de53d9/AppIcon.GoTo-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 49,
-          "id": "584606479",
-          "name": "Intuit QuickBooks for Business",
-          "artistName": "Intuit Inc.",
-          "kind": "Business",
-          "releaseDate": "2013-02-13T18:07:40-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/4a/3e/124a3e02-77f3-d682-6afe-b54f610ba279/QBMAppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/intuit-quickbooks-for-business/id584606479?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 50,
-          "id": "1436325695",
-          "name": "Roadie Driver",
-          "artistName": "Roadie Inc",
-          "kind": "Business",
-          "releaseDate": "2019-11-18T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/71/3e/aa713e07-fecf-bddf-edcd-9d4bf8466327/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 51,
-          "id": "716979741",
-          "name": "Whova - Event & Conference App",
-          "artistName": "Whova Inc.",
-          "kind": "Business",
-          "releaseDate": "2013-10-08T20:28:15-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/e1/8a/1ee18a67-3a56-a57b-31a8-33079bd50b0b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 52,
           "id": "377672876",
           "name": "Scanner App: Genius Scan",
           "artistName": "The Grizzly Labs",
@@ -592,8 +559,19 @@
           "url": "https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 53,
+          "date": "2026-03-06",
+          "rank": 50,
+          "id": "584606479",
+          "name": "Intuit QuickBooks for Business",
+          "artistName": "Intuit Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-02-13T18:07:40-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/4a/3e/124a3e02-77f3-d682-6afe-b54f610ba279/QBMAppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/intuit-quickbooks-for-business/id584606479?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 51,
           "id": "1324102258",
           "name": "Blinq: Digital Business Card",
           "artistName": "Blinq Technologies Pty Ltd",
@@ -603,151 +581,30 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 52,
+          "id": "1436325695",
+          "name": "Roadie Driver",
+          "artistName": "Roadie Inc",
+          "kind": "Business",
+          "releaseDate": "2019-11-18T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/71/3e/aa713e07-fecf-bddf-edcd-9d4bf8466327/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 53,
+          "id": "716979741",
+          "name": "Whova - Event & Conference App",
+          "artistName": "Whova Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-10-08T20:28:15-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/c2/df/4cc2df5d-1c21-e259-63d5-9154830d6c44/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 54,
-          "id": "964397083",
-          "name": "Meta Ads Manager",
-          "artistName": "Meta Platforms, Inc.",
-          "kind": "Business",
-          "releaseDate": "2015-02-24T04:36:14-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/32/37/553237da-6a44-5f30-7715-78bbffe433b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 55,
-          "id": "1231506825",
-          "name": "UKG Ready",
-          "artistName": "UKG INC.",
-          "kind": "Business",
-          "releaseDate": "2017-12-17T11:57:03-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/67/92/ea6792ba-3293-96fa-16cf-4f11c93ce21e/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/ukg-ready/id1231506825?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 56,
-          "id": "492573020",
-          "name": "HireVue for Candidates",
-          "artistName": "HireVue, Inc.",
-          "kind": "Business",
-          "releaseDate": "2012-02-22T20:05:20-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/5f/4d/c05f4d28-9ffb-6d90-b704-72499d1706a0/CandidateAppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 57,
-          "id": "6744908269",
-          "name": "Flexi PDF",
-          "artistName": "JOIN SHIP TECH LIMITED",
-          "kind": "Business",
-          "releaseDate": "2025-04-23T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/8c/f0/aa8cf08f-43f6-2b99-bba9-bc1e50d7734c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/flexi-pdf/id6744908269?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 58,
-          "id": "1121613912",
-          "name": "Connecteam Team Management App",
-          "artistName": "Connecteam, Inc",
-          "kind": "Business",
-          "releaseDate": "2016-06-08T10:49:50-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/cb/b8/bdcbb87e-8647-3b44-87e6-637c6c5956e0/AppIcon-0-1x_U007ephone-0-8-0-P3-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/connecteam-team-management-app/id1121613912?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 59,
-          "id": "1537135259",
-          "name": "Public Storage",
-          "artistName": "Public Storage",
-          "kind": "Business",
-          "releaseDate": "2020-12-07T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/d7/8c/02d78c05-1ecb-50cf-f1e6-eaa68b56bdb5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 60,
-          "id": "1459898418",
-          "name": "MyWalmart",
-          "artistName": "Walmart",
-          "kind": "Business",
-          "releaseDate": "2019-11-14T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/aa/f4/7daaf43f-1242-f45f-d5c5-d61c294e44c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/mywalmart/id1459898418?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 61,
-          "id": "6742527823",
-          "name": "Owll Translator：AI Voice Clone",
-          "artistName": "VOCALBEATS.AI PTE. LTD.",
-          "kind": "Business",
-          "releaseDate": "2025-03-18T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/37/53d9370e-ae6a-c627-df01-243197423993/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 62,
-          "id": "922995624",
-          "name": "Sling: Employee Scheduling App",
-          "artistName": "Sling Incorporated",
-          "kind": "Business",
-          "releaseDate": "2014-11-02T18:06:26-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/41/60/04416023-27f2-d610-4063-cfbe65ea8240/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 63,
-          "id": "456073226",
-          "name": "Dayforce",
-          "artistName": "Dayforce Corporation",
-          "kind": "Business",
-          "releaseDate": "2011-08-17T10:29:48-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/7a/86/587a86b1-3e2a-0306-5354-f26be76f4763/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 64,
-          "id": "900259081",
-          "name": "Zoom Rooms",
-          "artistName": "Zoom Communications, Inc.",
-          "kind": "Business",
-          "releaseDate": "2022-01-10T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c8/17/f4c8174c-b16c-6e5b-e74f-f6b796159f62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 65,
-          "id": "335023774",
-          "name": "SAP Concur",
-          "artistName": "Concur",
-          "kind": "Business",
-          "releaseDate": "2009-10-29T13:18:49-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/8a/ffdf8a2a-fb6a-baf6-0fd0-19ab7260077d/AppIconConcur-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 66,
-          "id": "978516833",
-          "name": "Stripe Dashboard",
-          "artistName": "Stripe, Inc",
-          "kind": "Business",
-          "releaseDate": "2015-06-10T05:12:44-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/56/ec/b856eca9-4ed0-513b-0fd3-8f48958db087/AppIcon-0-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/stripe-dashboard/id978516833?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 67,
           "id": "1235930724",
           "name": "Shiftsmart - Find Work",
           "artistName": "Shiftsmart",
@@ -757,41 +614,140 @@
           "url": "https://apps.apple.com/us/app/shiftsmart-find-work/id1235930724?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 68,
-          "id": "1465614785",
-          "name": "GoTo",
-          "artistName": "GoTo Group, Inc.",
+          "date": "2026-03-06",
+          "rank": 55,
+          "id": "1121613912",
+          "name": "Connecteam Team Management App",
+          "artistName": "Connecteam, Inc",
           "kind": "Business",
-          "releaseDate": "2019-09-17T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/4e/a3/614ea3e5-5744-6cb6-809b-0454bd9cb61d/AppIcon.GoTo-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "releaseDate": "2016-06-08T10:49:50-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/cb/b8/bdcbb87e-8647-3b44-87e6-637c6c5956e0/AppIcon-0-1x_U007ephone-0-8-0-P3-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/connecteam-team-management-app/id1121613912?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 56,
+          "id": "1231506825",
+          "name": "UKG Ready",
+          "artistName": "UKG INC.",
+          "kind": "Business",
+          "releaseDate": "2017-12-17T11:57:03-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/67/92/ea6792ba-3293-96fa-16cf-4f11c93ce21e/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/ukg-ready/id1231506825?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 57,
+          "id": "492573020",
+          "name": "HireVue for Candidates",
+          "artistName": "HireVue, Inc.",
+          "kind": "Business",
+          "releaseDate": "2012-02-22T20:05:20-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/5f/4d/c05f4d28-9ffb-6d90-b704-72499d1706a0/CandidateAppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 69,
-          "id": "731444612",
-          "name": "7shifts: Employee Scheduling",
-          "artistName": "7shifts, Inc.",
+          "date": "2026-03-06",
+          "rank": 58,
+          "id": "6478885776",
+          "name": "Informed Delivery® Mobile",
+          "artistName": "United States Postal Service",
           "kind": "Business",
-          "releaseDate": "2013-10-30T12:08:02-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/e7/ef/3fe7ef09-e806-4786-e0ec-904ca03bd5bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "releaseDate": "2025-09-17T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/a4/54/25a45446-fe64-00da-631c-2a619494c9f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 70,
-          "id": "1570643833",
-          "name": "Staples - Deals and Shopping",
-          "artistName": "STAPLES THE OFFICE SUPERSTORE",
+          "date": "2026-03-06",
+          "rank": 59,
+          "id": "900259081",
+          "name": "Zoom Rooms",
+          "artistName": "Zoom Communications, Inc.",
           "kind": "Business",
-          "releaseDate": "2021-06-30T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/fb/63/2efb6329-9146-d141-fd73-b21b9eb056b8/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/staples-deals-and-shopping/id1570643833?uo=2"
+          "releaseDate": "2022-01-10T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c8/17/f4c8174c-b16c-6e5b-e74f-f6b796159f62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 71,
+          "date": "2026-03-06",
+          "rank": 60,
+          "id": "456073226",
+          "name": "Dayforce",
+          "artistName": "Dayforce Corporation",
+          "kind": "Business",
+          "releaseDate": "2011-08-17T10:29:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/7a/86/587a86b1-3e2a-0306-5354-f26be76f4763/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 61,
+          "id": "964397083",
+          "name": "Meta Ads Manager",
+          "artistName": "Meta Platforms, Inc.",
+          "kind": "Business",
+          "releaseDate": "2015-02-24T04:36:14-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/32/37/553237da-6a44-5f30-7715-78bbffe433b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 62,
+          "id": "1537135259",
+          "name": "Public Storage",
+          "artistName": "Public Storage",
+          "kind": "Business",
+          "releaseDate": "2020-12-07T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/d7/8c/02d78c05-1ecb-50cf-f1e6-eaa68b56bdb5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 63,
+          "id": "335023774",
+          "name": "SAP Concur",
+          "artistName": "Concur",
+          "kind": "Business",
+          "releaseDate": "2009-10-29T13:18:49-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/8a/ffdf8a2a-fb6a-baf6-0fd0-19ab7260077d/AppIconConcur-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 64,
+          "id": "1459898418",
+          "name": "MyWalmart",
+          "artistName": "Walmart",
+          "kind": "Business",
+          "releaseDate": "2019-11-14T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/9b/15/109b1533-7489-5584-676e-7c1f89dabbde/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/mywalmart/id1459898418?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 65,
+          "id": "6742527823",
+          "name": "Owll Translator：AI Voice Clone",
+          "artistName": "VOCALBEATS.AI PTE. LTD.",
+          "kind": "Business",
+          "releaseDate": "2025-03-18T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/37/53d9370e-ae6a-c627-df01-243197423993/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 66,
+          "id": "922995624",
+          "name": "Sling: Employee Scheduling App",
+          "artistName": "Sling Incorporated",
+          "kind": "Business",
+          "releaseDate": "2014-11-02T18:06:26-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/41/60/04416023-27f2-d610-4063-cfbe65ea8240/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 67,
           "id": "6446378930",
           "name": "isolved People Cloud",
           "artistName": "Infinisource",
@@ -801,30 +757,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 72,
-          "id": "555322549",
-          "name": "Paycor Mobile",
-          "artistName": "Paycor, Inc.",
+          "date": "2026-03-06",
+          "rank": 68,
+          "id": "978516833",
+          "name": "Stripe Dashboard",
+          "artistName": "Stripe, Inc",
           "kind": "Business",
-          "releaseDate": "2012-09-10T13:00:25-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/03/d6/fc03d643-556f-8875-3a1f-d3812402cd5a/appicon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2015-06-10T05:12:44-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/56/ec/b856eca9-4ed0-513b-0fd3-8f48958db087/AppIcon-0-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/stripe-dashboard/id978516833?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 73,
-          "id": "1425891150",
-          "name": "Scanner App. JPG, Photo to PDF",
-          "artistName": "Municorn Limited",
-          "kind": "Business",
-          "releaseDate": "2018-08-24T03:59:10-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ed/67/4aed6741-28a8-cfe9-192d-6e9ed852535d/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 74,
+          "date": "2026-03-06",
+          "rank": 69,
           "id": "1306430829",
           "name": "Avigilon Alta Open",
           "artistName": "OpenPath Security, Inc.",
@@ -834,19 +779,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 75,
-          "id": "1435368303",
-          "name": "Square Team",
-          "artistName": "Block, Inc.",
+          "date": "2026-03-06",
+          "rank": 70,
+          "id": "555322549",
+          "name": "Paycor Mobile",
+          "artistName": "Paycor, Inc.",
           "kind": "Business",
-          "releaseDate": "2018-10-19T08:19:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/97/65/0d9765f8-4702-619b-6574-1d9d188c3cb9/team-AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "releaseDate": "2012-09-10T13:00:25-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/5a/27/d05a27bf-1b87-a7a8-6113-a7973bf8ca56/appicon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 76,
+          "date": "2026-03-06",
+          "rank": 71,
           "id": "1534367732",
           "name": "Alight Mobile",
           "artistName": "Alight Solutions, LLC",
@@ -856,41 +801,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 77,
-          "id": "715886894",
-          "name": "RingCentral",
-          "artistName": "RingCentral, Inc",
-          "kind": "Business",
-          "releaseDate": "2013-10-23T05:02:45-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/97/ec/fa97ecbb-e347-c24e-7e74-900c75f28b11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 78,
-          "id": "1639516366",
-          "name": "Voice Recorder — Audio Memos",
-          "artistName": "Viktor Sukhoy",
-          "kind": "Business",
-          "releaseDate": "2022-12-02T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/22/da/2722daaf-2e2b-32fa-15b0-dd72ff22ced0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/voice-recorder-audio-memos/id1639516366?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 79,
-          "id": "1509268882",
-          "name": "MyToast",
-          "artistName": "Toast, Inc.",
-          "kind": "Business",
-          "releaseDate": "2022-09-19T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/9d/b3/8e9db32b-ddd6-a302-1cd6-a9c817f86104/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 80,
+          "date": "2026-03-06",
+          "rank": 72,
           "id": "1498197033",
           "name": "Amazon Business: B2B Shopping",
           "artistName": "AMZN Mobile LLC",
@@ -900,41 +812,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 81,
-          "id": "414275302",
-          "name": "Copart - Online Auto Auctions",
-          "artistName": "Copart, Inc.",
-          "kind": "Business",
-          "releaseDate": "2011-01-14T15:09:16-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f2/76/baf27696-f7d6-4aee-1f5c-d8a08b361bba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 82,
-          "id": "6736955388",
-          "name": "Noise - Make Money Posting",
-          "artistName": "Noise Inc.",
-          "kind": "Business",
-          "releaseDate": "2024-11-05T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/3a/8d/ea3a8d37-4265-95a9-370f-ea1302a57770/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/noise-make-money-posting/id6736955388?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 83,
-          "id": "374930542",
-          "name": "Procore",
-          "artistName": "Procore Technologies, Inc.",
-          "kind": "Business",
-          "releaseDate": "2010-06-03T08:45:45-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6f/b7/446fb70a-6a15-90ac-1403-c685241d68b3/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-GLES2_U002c0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/procore/id374930542?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 84,
+          "date": "2026-03-06",
+          "rank": 73,
           "id": "1413909063",
           "name": "Amazon A to Z",
           "artistName": "AMZN Mobile LLC",
@@ -944,41 +823,129 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 74,
+          "id": "6744908269",
+          "name": "Flexi PDF",
+          "artistName": "JOIN SHIP TECH LIMITED",
+          "kind": "Business",
+          "releaseDate": "2025-04-23T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/8c/f0/aa8cf08f-43f6-2b99-bba9-bc1e50d7734c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/flexi-pdf/id6744908269?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 75,
+          "id": "1570643833",
+          "name": "Staples - Deals and Shopping",
+          "artistName": "STAPLES THE OFFICE SUPERSTORE",
+          "kind": "Business",
+          "releaseDate": "2021-06-30T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/fb/63/2efb6329-9146-d141-fd73-b21b9eb056b8/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/staples-deals-and-shopping/id1570643833?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 76,
+          "id": "1425891150",
+          "name": "Scanner App. JPG, Photo to PDF",
+          "artistName": "Municorn Limited",
+          "kind": "Business",
+          "releaseDate": "2018-08-24T03:59:10-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ed/67/4aed6741-28a8-cfe9-192d-6e9ed852535d/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 77,
+          "id": "374930542",
+          "name": "Procore",
+          "artistName": "Procore Technologies, Inc.",
+          "kind": "Business",
+          "releaseDate": "2010-06-03T08:45:45-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6f/b7/446fb70a-6a15-90ac-1403-c685241d68b3/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-GLES2_U002c0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/procore/id374930542?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 78,
+          "id": "731444612",
+          "name": "7shifts: Employee Scheduling",
+          "artistName": "7shifts, Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-10-30T12:08:02-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/e7/ef/3fe7ef09-e806-4786-e0ec-904ca03bd5bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 79,
+          "id": "715886894",
+          "name": "RingCentral",
+          "artistName": "RingCentral, Inc",
+          "kind": "Business",
+          "releaseDate": "2013-10-23T05:02:45-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/97/ec/fa97ecbb-e347-c24e-7e74-900c75f28b11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 80,
+          "id": "1497968404",
+          "name": "CONEXPO-CON/AGG 2026",
+          "artistName": "Association of Equipment Manufactures",
+          "kind": "Business",
+          "releaseDate": "2020-02-07T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/95/7d/40957d39-931d-ccf8-2241-1d439aff342c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/conexpo-con-agg-2026/id1497968404?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 81,
+          "id": "1435368303",
+          "name": "Square Team",
+          "artistName": "Block, Inc.",
+          "kind": "Business",
+          "releaseDate": "2018-10-19T08:19:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/97/65/0d9765f8-4702-619b-6574-1d9d188c3cb9/team-AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 82,
+          "id": "1509268882",
+          "name": "MyToast",
+          "artistName": "Toast, Inc.",
+          "kind": "Business",
+          "releaseDate": "2022-09-19T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/9d/b3/8e9db32b-ddd6-a302-1cd6-a9c817f86104/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 83,
+          "id": "482926558",
+          "name": "Yapp",
+          "artistName": "Yapp, Inc.",
+          "kind": "Business",
+          "releaseDate": "2012-01-31T18:50:10-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/e4/04/70e40459-eb88-dfb1-e26c-b6059075584b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 84,
+          "id": "414275302",
+          "name": "Copart - Online Auto Auctions",
+          "artistName": "Copart, Inc.",
+          "kind": "Business",
+          "releaseDate": "2011-01-14T15:09:16-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f2/76/baf27696-f7d6-4aee-1f5c-d8a08b361bba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 85,
-          "id": "1591003012",
-          "name": "TikTok Shop Seller Center",
-          "artistName": "TikTok Ltd.",
-          "kind": "Business",
-          "releaseDate": "2023-05-29T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b4/30/f9b43091-e76a-f2eb-354a-01e02033b661/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 86,
-          "id": "1151406354",
-          "name": "FaxFree: Send Fax From iPhone",
-          "artistName": "BPMobile",
-          "kind": "Business",
-          "releaseDate": "2016-09-16T07:17:03-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/1b/7d/951b7db4-ca2d-8370-355d-0305d11c4fa1/AppIconFree-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/faxfree-send-fax-from-iphone/id1151406354?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 87,
-          "id": "1480866255",
-          "name": "Curri Driver",
-          "artistName": "Curri, Inc.",
-          "kind": "Business",
-          "releaseDate": "2019-11-25T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/7f/99/da7f99a5-b9b1-ad8f-bbb0-49cff9b4abc7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 88,
           "id": "6670619664",
           "name": "SimplyWise: Cost Estimator",
           "artistName": "SimplyWise, Inc.",
@@ -988,8 +955,30 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 89,
+          "date": "2026-03-06",
+          "rank": 86,
+          "id": "6736955388",
+          "name": "Noise - Make Money Posting",
+          "artistName": "Noise Inc.",
+          "kind": "Business",
+          "releaseDate": "2024-11-05T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/3a/8d/ea3a8d37-4265-95a9-370f-ea1302a57770/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/noise-make-money-posting/id6736955388?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 87,
+          "id": "1639516366",
+          "name": "Voice Recorder — Audio Memos",
+          "artistName": "Viktor Sukhoy",
+          "kind": "Business",
+          "releaseDate": "2022-12-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/22/da/2722daaf-2e2b-32fa-15b0-dd72ff22ced0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/voice-recorder-audio-memos/id1639516366?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 88,
           "id": "6739474160",
           "name": "HP Smart Printer App − iPrint",
           "artistName": "Muhammad Qasim Wali",
@@ -999,30 +988,30 @@
           "url": "https://apps.apple.com/us/app/hp-smart-printer-app-iprint/id6739474160?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 89,
+          "id": "1151406354",
+          "name": "FaxFree: Send Fax From iPhone",
+          "artistName": "BPMobile",
+          "kind": "Business",
+          "releaseDate": "2016-09-16T07:17:03-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/1b/7d/951b7db4-ca2d-8370-355d-0305d11c4fa1/AppIconFree-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/faxfree-send-fax-from-iphone/id1151406354?uo=2"
+        },
+        {
+          "date": "2026-03-06",
           "rank": 90,
-          "id": "6467030803",
-          "name": "O'Reilly Pro",
-          "artistName": "O'Reilly Auto Parts",
+          "id": "6740210868",
+          "name": "Expo West Event App",
+          "artistName": "Informa Support Services Inc",
           "kind": "Business",
-          "releaseDate": "2024-12-02T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/c2/1f/37c21fb6-d984-0915-1954-3638152a4bef/app_icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/oreilly-pro/id6467030803?uo=2"
+          "releaseDate": "2025-01-07T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/3d/8b/383d8b4c-9c8e-fd16-f110-6af982afcd3a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/expo-west-event-app/id6740210868?uo=2"
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 91,
-          "id": "383126470",
-          "name": "When I Work Staff Scheduling",
-          "artistName": "When I Work, Inc.",
-          "kind": "Business",
-          "releaseDate": "2010-07-26T18:38:25-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/71/a5/7371a5fd-c84b-8f9b-b053-f476d042e742/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 92,
           "id": "1580658663",
           "name": "randstad: jobs for workers",
           "artistName": "swipejobs",
@@ -1032,30 +1021,74 @@
           "url": "https://apps.apple.com/us/app/randstad-jobs-for-workers/id1580658663?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 93,
-          "id": "1053148887",
-          "name": "PayPal Business",
-          "artistName": "PayPal, Inc.",
+          "date": "2026-03-06",
+          "rank": 92,
+          "id": "1591003012",
+          "name": "TikTok Shop Seller Center",
+          "artistName": "TikTok Ltd.",
           "kind": "Business",
-          "releaseDate": "2016-11-28T19:12:57-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/ac/a7/13aca7ff-f40a-0090-e5f2-b25903765866/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-0-85-220.jpeg/100x100bb.png",
+          "releaseDate": "2023-05-29T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b4/30/f9b43091-e76a-f2eb-354a-01e02033b661/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 94,
-          "id": "6451441983",
-          "name": "Universal PDF",
-          "artistName": "GRAND CHALLENGE NETWORK TECHNOLOGY LIMITED",
+          "date": "2026-03-06",
+          "rank": 93,
+          "id": "1480866255",
+          "name": "Curri Driver",
+          "artistName": "Curri, Inc.",
           "kind": "Business",
-          "releaseDate": "2023-07-20T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/71/68/59716882-51e8-4d9b-f245-2869a4b64f2f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/universal-pdf/id6451441983?uo=2"
+          "releaseDate": "2019-11-25T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/d3/bc/d1d3bc2e-a0ab-0290-e5ca-dc4b181109a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 94,
+          "id": "1040149161",
+          "name": "ScanGuru: Document PDF Scanner",
+          "artistName": "GM UniverseApps Limited",
+          "kind": "Business",
+          "releaseDate": "2015-09-30T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/03/65/070365dc-bef9-8312-4b2d-f469e7a2e09f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 95,
+          "id": "383126470",
+          "name": "When I Work Staff Scheduling",
+          "artistName": "When I Work, Inc.",
+          "kind": "Business",
+          "releaseDate": "2010-07-26T18:38:25-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/71/a5/7371a5fd-c84b-8f9b-b053-f476d042e742/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 96,
+          "id": "570085487",
+          "name": "MetLife US App",
+          "artistName": "MetLife",
+          "kind": "Business",
+          "releaseDate": "2012-10-23T18:28:45-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/73/3b/6d733baa-903f-1d0f-9cf0-00081ce7668f/AppIcon-1x_U007emarketing-0-11-0-0-0-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 97,
+          "id": "6467030803",
+          "name": "O'Reilly Pro",
+          "artistName": "O'Reilly Auto Parts",
+          "kind": "Business",
+          "releaseDate": "2024-12-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/c2/1f/37c21fb6-d984-0915-1954-3638152a4bef/app_icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/oreilly-pro/id6467030803?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 98,
           "id": "1600718400",
           "name": "Gopuff Driver",
           "artistName": "Gopuff",
@@ -1065,52 +1098,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 96,
-          "id": "6743379780",
-          "name": "FlowPDF",
-          "artistName": "JINZUAN INTELLIGENCE GARAGE TECHNOLOGY (HK) LIMITED",
-          "kind": "Business",
-          "releaseDate": "2025-03-20T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/b1/6c/eab16ce9-3874-9668-ee93-90080999fdf9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/flowpdf/id6743379780?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 97,
-          "id": "535811906",
-          "name": "GoDaddy: Websites & Marketing",
-          "artistName": "GoDaddy Mobile LLC",
-          "kind": "Business",
-          "releaseDate": "2012-07-05T13:24:52-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/41/36/4c413608-21c7-c6aa-8982-acf2d4a6fb50/GoDaddy-App-Icon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 98,
-          "id": "1492069669",
-          "name": "Rain Instant Pay",
-          "artistName": "Rain Inc.",
-          "kind": "Business",
-          "releaseDate": "2020-02-05T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/07/57/7c07578c-e75f-c141-8667-786d51bb2e0d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 99,
-          "id": "1290128888",
-          "name": "monday.com - Work Platform",
-          "artistName": "monday.com Ltd.",
-          "kind": "Business",
-          "releaseDate": "2017-10-10T00:13:39-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/11/8e/59118eb6-b6a5-0f2d-36e3-0a243755d2e3/AppIcon-Monday-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 100,
           "id": "1457078986",
           "name": "Veho Driver",
           "artistName": "Veho technologies",
@@ -1118,11 +1107,22 @@
           "releaseDate": "2019-06-26T22:12:45-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/23/be/3e23beab-9fd9-32b3-324c-2dc7fac27d29/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
           "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 100,
+          "id": "1532638515",
+          "name": "PDF Editor ®",
+          "artistName": "SMM service, s.r.o.",
+          "kind": "Business",
+          "releaseDate": "2020-12-17T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/f4/be/28f4be62-b406-91d9-199e-7b52efa488ee/AppIcon-0-0-1x_U007epad-0-11-0-85-220.jpeg/100x100bb.png",
+          "url": ""
         }
       ]
     },
     {
-      "date": "2026-03-07",
+      "date": "2026-03-06",
       "country": "us",
       "mediaType": "apps",
       "feedType": "top-paid",
@@ -1132,7 +1132,7 @@
       "total": 99,
       "items": [
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 1,
           "id": "294934058",
           "name": "HotSchedules",
@@ -1143,7 +1143,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 2,
           "id": "601159497",
           "name": "ecMobile",
@@ -1154,19 +1154,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 3,
-          "id": "342548956",
-          "name": "TurboScan™ Pro: PDF scanner",
-          "artistName": "Piksoft Inc.",
-          "kind": "Business",
-          "releaseDate": "2009-12-07T09:46:12-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/02/fc/9802fc47-b5c2-4f87-4b4c-05e18ad5822d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 4,
           "id": "364876095",
           "name": "Jump Desktop (RDP, VNC, Fluid)",
           "artistName": "Phase Five Systems",
@@ -1176,7 +1165,18 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 4,
+          "id": "342548956",
+          "name": "TurboScan™ Pro: PDF scanner",
+          "artistName": "Piksoft Inc.",
+          "kind": "Business",
+          "releaseDate": "2009-12-07T09:46:12-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/02/fc/9802fc47-b5c2-4f87-4b4c-05e18ad5822d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 5,
           "id": "936694037",
           "name": "Voice Recorder - Audio Record",
@@ -1187,30 +1187,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 6,
-          "id": "577499909",
-          "name": "TapeACall Pro: Call Recorder",
-          "artistName": "Mosaic S.r.l.",
-          "kind": "Business",
-          "releaseDate": "2013-01-21T16:27:56-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 7,
-          "id": "335047649",
-          "name": "ScanBizCards",
-          "artistName": "ScanBiz Mobile Solutions L.P.",
-          "kind": "Business",
-          "releaseDate": "2009-10-28T13:15:08-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/b1/ef/0eb1ef3f-f72b-2b3c-c1a6-a0ee1ad4c497/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 8,
           "id": "1309752471",
           "name": "Superpowers by SYPartners",
           "artistName": "SYPartners LLC",
@@ -1220,8 +1198,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 9,
+          "date": "2026-03-06",
+          "rank": 7,
+          "id": "577499909",
+          "name": "TapeACall Pro: Call Recorder",
+          "artistName": "Mosaic S.r.l.",
+          "kind": "Business",
+          "releaseDate": "2013-01-21T16:27:56-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 8,
           "id": "1212427529",
           "name": "WinFab - Sheet Metal Ductulator",
           "artistName": "pasquale dipaola",
@@ -1231,40 +1220,51 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 9,
+          "id": "335047649",
+          "name": "ScanBizCards",
+          "artistName": "ScanBiz Mobile Solutions L.P.",
+          "kind": "Business",
+          "releaseDate": "2009-10-28T13:15:08-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/b1/ef/0eb1ef3f-f72b-2b3c-c1a6-a0ee1ad4c497/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 10,
-          "id": "734328438",
-          "name": "Daughters of the King Daily De",
-          "artistName": "Kesha Trippett",
+          "id": "307868751",
+          "name": "JotNot Scanner App Pro",
+          "artistName": "MobiTech 3000 LLC",
           "kind": "Business",
-          "releaseDate": "2013-11-04T15:37:51-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/9b/ac/029bacb1-c8f1-8b62-6cad-ef1e375f40ae/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "releaseDate": "2009-03-26T19:06:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7a/2a/ba/7a2abab1-e2b0-d867-e421-e471d3a54ba1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 11,
-          "id": "854618029",
-          "name": "FileBrowser Professional",
-          "artistName": "Stratospherix Ltd",
+          "id": "353877863",
+          "name": "Machinist Journeyman",
+          "artistName": "smartcalculations",
           "kind": "Business",
-          "releaseDate": "2014-04-17T21:18:48-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e7/08/d8e708ae-7651-a2e9-bb73-3ddc6a5307d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/filebrowser-professional/id854618029?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 12,
-          "id": "447459162",
-          "name": "Liberty Item Entry",
-          "artistName": "Resaleworld.com, Inc.",
-          "kind": "Business",
-          "releaseDate": "2011-08-31T20:19:19-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b5/71/0cb5713f-cfb1-b114-c3ae-786bf01f00b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "releaseDate": "2010-02-04T14:20:30-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/b7/3e/6e/b73e6ea2-8882-a17a-9e77-8c58f9599ca0/mzl.bufrtqxr.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
+          "rank": 12,
+          "id": "1447325991",
+          "name": "FaxCover - Fax Cover Sheet",
+          "artistName": "Actual Software Inc.",
+          "kind": "Business",
+          "releaseDate": "2021-01-14T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/0d/06/d80d060b-20f7-7bca-d983-e78e6a929a82/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
           "rank": 13,
           "id": "1556128361",
           "name": "SoftToken",
@@ -1275,415 +1275,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
+          "date": "2026-03-06",
           "rank": 14,
-          "id": "867478383",
-          "name": "Gamma Calculator Pro",
-          "artistName": "Gerrit kleyn Winkel",
-          "kind": "Business",
-          "releaseDate": "2014-05-05T13:36:51-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/62/c8/1562c8c9-e59c-7117-e949-c1be00f50a10/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 15,
-          "id": "412366083",
-          "name": "CameraVision",
-          "artistName": "Masayuki Akamatsu",
-          "kind": "Business",
-          "releaseDate": "2011-01-03T13:55:37-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ea/ed/34eaed73-aabb-f3a9-86be-6d83a412f599/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 16,
-          "id": "1447325991",
-          "name": "FaxCover - Fax Cover Sheet",
-          "artistName": "Actual Software Inc.",
-          "kind": "Business",
-          "releaseDate": "2021-01-14T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/0d/06/d80d060b-20f7-7bca-d983-e78e6a929a82/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 17,
-          "id": "6746970166",
-          "name": "Check Generator",
-          "artistName": "Jason Hatzelis",
-          "kind": "Business",
-          "releaseDate": "2025-06-10T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/57/3a/31573a12-255c-371f-0c24-a78f9af982a4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/check-generator/id6746970166?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 18,
-          "id": "522627917",
-          "name": "FTPManager Pro",
-          "artistName": "Skyjos Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2012-05-03T08:30:36-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/28/41/13284184-66ca-143e-a51b-9d4d97891b07/FTPManagerAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/ftpmanager-pro/id522627917?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 19,
-          "id": "372347918",
-          "name": "Court Objections",
-          "artistName": "ACS4Law",
-          "kind": "Business",
-          "releaseDate": "2010-06-01T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/db/32/e8db3257-350b-9e4c-1696-b1334b12c8b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 20,
-          "id": "307868751",
-          "name": "JotNot Scanner App Pro",
-          "artistName": "MobiTech 3000 LLC",
-          "kind": "Business",
-          "releaseDate": "2009-03-26T19:06:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7a/2a/ba/7a2abab1-e2b0-d867-e421-e471d3a54ba1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 21,
-          "id": "908554933",
-          "name": "Flood Zone Map",
-          "artistName": "Ikonetics",
-          "kind": "Business",
-          "releaseDate": "2014-10-13T22:47:53-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/ab/00/17ab00a8-212d-2f9c-867e-813ccdef52e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 22,
-          "id": "373769371",
-          "name": "Langelier Saturation Index",
-          "artistName": "Verosocial Studio",
-          "kind": "Business",
-          "releaseDate": "2010-05-27T12:47:57-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/de/23/dcde23f0-f23b-0f9b-b81e-f719132ba37f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 23,
-          "id": "586166344",
-          "name": "Fast Scanner - PDF Doc Scan",
-          "artistName": "Hang Nguyen",
-          "kind": "Business",
-          "releaseDate": "2013-01-12T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/77/da/a877dada-f577-3004-339b-bde1a2378276/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 24,
-          "id": "835792417",
-          "name": "Winmail Reader",
-          "artistName": "RootRise Technologies Pvt. Ltd.",
-          "kind": "Business",
-          "releaseDate": "2014-05-06T17:18:06-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/24/95/952495bb-329d-740f-a887-ecb1ad7d6989/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 25,
-          "id": "401818935",
-          "name": "Genius Scan Enterprise - PDF",
-          "artistName": "The Grizzly Labs",
-          "kind": "Business",
-          "releaseDate": "2010-12-15T20:48:12-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/bb/09/25bb09ff-b0ea-e5a7-9c8a-852c972a4d37/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 26,
-          "id": "953739548",
-          "name": "Contacts2XL",
-          "artistName": "Technomagination, LLC",
-          "kind": "Business",
-          "releaseDate": "2016-05-05T11:49:13-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/53/01/7a5301d7-3645-24f9-ca6f-5eca94d11e12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/contacts2xl/id953739548?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 27,
-          "id": "6759858043",
-          "name": "PocketWaiver",
-          "artistName": "Pine Heights Ventures LLC",
-          "kind": "Business",
-          "releaseDate": "2026-03-04T22:03:23-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/08/72/f5087211-7135-792c-ab2f-63538425c279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/pocketwaiver/id6759858043?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 28,
-          "id": "391312617",
-          "name": "Profit Story",
-          "artistName": "VooZu Promotions LLC",
-          "kind": "Business",
-          "releaseDate": "2010-11-16T12:01:20-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/12/0e/88/120e88da-e067-78e3-3a43-629e7f568b3a/mzl.jnimiqri.jpg/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 29,
-          "id": "598268211",
-          "name": "Voice-activated Recorder",
-          "artistName": "Hongwen Yang",
-          "kind": "Business",
-          "releaseDate": "2013-02-16T12:59:39-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/01/da/e2/01dae24d-8f2f-6092-cb1b-6b859551b6ba/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 30,
-          "id": "6758815371",
-          "name": "MBOX Viewer",
-          "artistName": "延平 陈",
-          "kind": "Business",
-          "releaseDate": "2026-02-12T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/1b/3a/ad1b3aa5-f7c0-f055-e1d4-245cce5c3e7a/mboxAppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/mbox-viewer/id6758815371?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 31,
-          "id": "1554333435",
-          "name": "ITI Calc",
-          "artistName": "Calculated Industries",
-          "kind": "Business",
-          "releaseDate": "2021-03-24T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/71/a3/09/71a309a1-ba0c-c098-8ee2-539eb93243be/AppIcon4186-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 32,
-          "id": "1586049620",
-          "name": "Sapphire Blessings",
-          "artistName": "Sapphire Leadership Group, LLC",
-          "kind": "Business",
-          "releaseDate": "2022-08-12T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/62/7e/e6627ea3-1780-f110-f9b1-d542d39f1abd/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 33,
-          "id": "303513289",
-          "name": "Free WiFi",
-          "artistName": "Makayama.com",
-          "kind": "Business",
-          "releaseDate": "2009-03-14T15:58:49-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/93/00/859300ad-c874-fd5f-1265-f51ab6f8efec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/free-wifi/id303513289?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 34,
-          "id": "1135811739",
-          "name": "FAX from iPhone & iPad App",
-          "artistName": "BPMobile",
-          "kind": "Business",
-          "releaseDate": "2016-09-01T18:59:02-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/88/53d988a4-2532-20dc-f1b7-f6ef1eca9420/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 35,
-          "id": "284981670",
-          "name": "Mocha VNC",
-          "artistName": "MochaSoft",
-          "kind": "Business",
-          "releaseDate": "2019-02-11T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/67/f8/8c67f868-4a34-fbfa-6ce8-798e19910333/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 36,
-          "id": "285750155",
-          "name": "iRecorder Pro Audio Recorder",
-          "artistName": "SIMPLETOUCH LLC",
-          "kind": "Business",
-          "releaseDate": "2019-02-12T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/8a/2a/6e8a2a40-642f-d0a3-da16-afdab1456662/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 37,
-          "id": "6444574623",
-          "name": "Libreoffice Viewer .",
-          "artistName": "Aditya Wagh",
-          "kind": "Business",
-          "releaseDate": "2022-11-20T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/c0/3d/76c03d9a-dcbe-6c25-431e-03bafdd1de04/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 38,
-          "id": "385141836",
-          "name": "HVAC Residential Load Calcs",
-          "artistName": "Carmel Software Corporation",
-          "kind": "Business",
-          "releaseDate": "2010-08-24T18:59:21-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/f4/09/b9f409f3-17cf-4f01-835b-3c64532cf045/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 39,
-          "id": "1521077799",
-          "name": "Vibration Pro",
-          "artistName": "Diffraction Limited Design LLC",
-          "kind": "Business",
-          "releaseDate": "2021-02-07T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/3f/63/8c3f639e-feec-5104-d124-538edcd6444a/VibProAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 40,
-          "id": "6749466081",
-          "name": "ReadyAlert Mobile",
-          "artistName": "ReadyAlert",
-          "kind": "Business",
-          "releaseDate": "2025-08-18T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/e6/aca1e61d-cbdf-a5ee-3ab4-590454f12bce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/readyalert-mobile/id6749466081?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 41,
-          "id": "353877863",
-          "name": "Machinist Journeyman",
-          "artistName": "smartcalculations",
-          "kind": "Business",
-          "releaseDate": "2010-02-04T14:20:30-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/b7/3e/6e/b73e6ea2-8882-a17a-9e77-8c58f9599ca0/mzl.bufrtqxr.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 42,
-          "id": "1084143351",
-          "name": "Tap Forms Organizer 5 Database",
-          "artistName": "Tap Zapp Software Inc.",
-          "kind": "Business",
-          "releaseDate": "2016-08-19T21:58:45-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/50/f3/e150f308-13f9-5224-2749-7d7873765992/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 43,
-          "id": "284741179",
-          "name": "TN5250",
-          "artistName": "MochaSoft",
-          "kind": "Business",
-          "releaseDate": "2019-02-11T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/40/87/874087ef-7b7f-af08-15c3-5ac524581a3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 44,
-          "id": "837019622",
-          "name": "Database Manager for MS Access",
-          "artistName": "强 李",
-          "kind": "Business",
-          "releaseDate": "2014-03-17T19:03:48-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/2a/85/5e2a8570-7d42-9c1a-599c-d88acc51d4f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 45,
-          "id": "576443892",
-          "name": "Logo Creator゜",
-          "artistName": "Logo Maker LLC",
-          "kind": "Business",
-          "releaseDate": "2012-11-13T11:39:06-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/b1/59/87b1594f-e7cf-7a56-aba8-c5096196ab79/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 46,
-          "id": "703201018",
-          "name": "Activate Your Voice",
-          "artistName": "Elaine Clark",
-          "kind": "Business",
-          "releaseDate": "2013-10-02T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/8a/aa/3c8aaa67-e04b-2563-3e78-5ebe22658e61/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 47,
-          "id": "522706442",
-          "name": "Sync Folders Pro",
-          "artistName": "VADIM ZYBIN",
-          "kind": "Business",
-          "releaseDate": "2012-05-16T14:18:47-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/b5/41/c3b541a5-8a55-7fb5-408c-39b23a2871d9/AppIcon-1x_U007emarketing-0-7-0-P3-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 48,
-          "id": "311928745",
-          "name": "Metes and Bounds Basic",
-          "artistName": "Sandy Knoll Software, LLC",
-          "kind": "Business",
-          "releaseDate": "2009-04-22T18:31:46-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/c3/5c/eec35c74-32e8-8dae-fe45-0be82a28b46d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/metes-and-bounds-basic/id311928745?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 49,
-          "id": "338550388",
-          "name": "Audio Memos",
-          "artistName": "Imesart S.a.r.l.",
-          "kind": "Business",
-          "releaseDate": "2009-11-25T13:20:47-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/03/60/a30360c3-c39a-87d2-0999-0489f23c05e8/Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 50,
-          "id": "1241924385",
-          "name": "Make a Receipt",
-          "artistName": "Saketh Ashvapuram",
-          "kind": "Business",
-          "releaseDate": "2017-05-30T08:44:48-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/94/28/6094281f-12b1-62bd-a904-3c7a2ded397b/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 51,
           "id": "6751245004",
           "name": "Cold Call X",
           "artistName": "Vadym Berberian",
@@ -1693,162 +1286,41 @@
           "url": "https://apps.apple.com/us/app/cold-call-x/id6751245004?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 52,
-          "id": "6475929340",
-          "name": "Simplefax - fax app",
-          "artistName": "Furnace Creek Software LLC",
+          "date": "2026-03-06",
+          "rank": 15,
+          "id": "867478383",
+          "name": "Gamma Calculator Pro",
+          "artistName": "Gerrit kleyn Winkel",
           "kind": "Business",
-          "releaseDate": "2024-01-12T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/20/6c/85206cf9-29e8-4b88-3324-e2bf1fa9431f/SimplefaxIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/simplefax-fax-app/id6475929340?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 53,
-          "id": "345667703",
-          "name": "STX",
-          "artistName": "Salon Transcripts, Inc.",
-          "kind": "Business",
-          "releaseDate": "2009-12-17T12:20:58-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b0/31/ff/b031ff82-eef3-5789-8556-25baf60f6602/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "releaseDate": "2014-05-05T13:36:51-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/62/c8/1562c8c9-e59c-7117-e949-c1be00f50a10/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 54,
-          "id": "480486428",
-          "name": "Construction Cost Estimator",
-          "artistName": "Wasatch Digital Media, Inc.",
+          "date": "2026-03-06",
+          "rank": 16,
+          "id": "734328438",
+          "name": "Daughters of the King Daily De",
+          "artistName": "Kesha Trippett",
           "kind": "Business",
-          "releaseDate": "2012-07-05T07:40:46-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/67/6b/47676b09-8d85-9503-38e5-fdf1de4b883e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
+          "releaseDate": "2013-11-04T15:37:51-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/9b/ac/029bacb1-c8f1-8b62-6cad-ef1e375f40ae/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 55,
-          "id": "1585551136",
-          "name": "Candle Calculator: Cost,Weight",
-          "artistName": "Payal Seth",
+          "date": "2026-03-06",
+          "rank": 17,
+          "id": "401818935",
+          "name": "Genius Scan Enterprise - PDF",
+          "artistName": "The Grizzly Labs",
           "kind": "Business",
-          "releaseDate": "2021-09-16T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/11/ca/af11ca15-b36b-a78b-e313-de09dfd13fd0/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2010-12-15T20:48:12-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/bb/09/25bb09ff-b0ea-e5a7-9c8a-852c972a4d37/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 56,
-          "id": "507604935",
-          "name": "Decimal To Fraction Converter",
-          "artistName": "Manfred Breede",
-          "kind": "Business",
-          "releaseDate": "2012-03-13T19:49:28-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/62/91/5a62918c-00e4-1870-0933-4ccaac8f02ee/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 57,
-          "id": "388376531",
-          "name": "Air Projector",
-          "artistName": "Qrayon, LLC",
-          "kind": "Business",
-          "releaseDate": "2010-09-09T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/a9/41/8ca94136-529b-a3a3-6ec5-7eb44e768045/AppIcon-Full-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 58,
-          "id": "359159149",
-          "name": "SpeakerClock",
-          "artistName": "Drobnik KG",
-          "kind": "Business",
-          "releaseDate": "2010-03-02T16:38:05-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7d/c3/9a/7dc39adc-41e5-20f0-cad5-332d5d116253/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 59,
-          "id": "1273371824",
-          "name": "ASHRAE HVAC Duct Sizer",
-          "artistName": "ASHRAE, Inc.",
-          "kind": "Business",
-          "releaseDate": "2017-09-14T09:23:59-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b7/46/1b/b7461b7f-4b43-2136-d697-bd5ba668a996/AshraeIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 60,
-          "id": "1197930396",
-          "name": "Nova Fax: Send fax from iPhone",
-          "artistName": "Nova Mobile, Inc.",
-          "kind": "Business",
-          "releaseDate": "2017-03-02T21:54:05-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/35/8a/6a358a3a-f1a2-2545-4885-71d5dae8cb42/AppIcon_1-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 61,
-          "id": "6449473492",
-          "name": "ProApp-PMP_Premium",
-          "artistName": "PM-ProSolutions, Inc.",
-          "kind": "Business",
-          "releaseDate": "2023-05-29T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/6e/48/7e6e486e-0419-e570-d3d3-06dfdfc079ed/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 62,
-          "id": "6743064135",
-          "name": "Cattle Weight Estimator",
-          "artistName": "H3 Apps, LLC",
-          "kind": "Business",
-          "releaseDate": "2025-03-11T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/ed/40/38ed400a-e3d0-5bf0-812b-a41235b446bd/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/cattle-weight-estimator/id6743064135?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 63,
-          "id": "6744589481",
-          "name": "Chicken Planner",
-          "artistName": "H3 Apps, LLC",
-          "kind": "Business",
-          "releaseDate": "2025-04-24T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/b1/e8/1cb1e884-047a-9325-5bee-e2e086fa0923/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/chicken-planner/id6744589481?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 64,
-          "id": "6450515110",
-          "name": "Tenant Inspect – Rental Report",
-          "artistName": "Lease Protector",
-          "kind": "Business",
-          "releaseDate": "2024-03-25T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/f9/ff/50f9ff55-806a-fa85-2435-c3148dc1f8a5/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 65,
-          "id": "6747407042",
-          "name": "FieldProof",
-          "artistName": "Rick Twilling",
-          "kind": "Business",
-          "releaseDate": "2025-06-23T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/57/27/f557271b-0da9-0dd9-b177-21da2e57edfd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/fieldproof/id6747407042?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 66,
+          "date": "2026-03-06",
+          "rank": 18,
           "id": "608985698",
           "name": "VesselFinder Pro",
           "artistName": "AstraPaging Ltd.",
@@ -1858,8 +1330,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 67,
+          "date": "2026-03-06",
+          "rank": 19,
+          "id": "953739548",
+          "name": "Contacts2XL",
+          "artistName": "Technomagination, LLC",
+          "kind": "Business",
+          "releaseDate": "2016-05-05T11:49:13-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/53/01/7a5301d7-3645-24f9-ca6f-5eca94d11e12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/contacts2xl/id953739548?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 20,
           "id": "789933121",
           "name": "SunLync Mobile Manager",
           "artistName": "SunLync",
@@ -1869,8 +1352,118 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 68,
+          "date": "2026-03-06",
+          "rank": 21,
+          "id": "412366083",
+          "name": "CameraVision",
+          "artistName": "Masayuki Akamatsu",
+          "kind": "Business",
+          "releaseDate": "2011-01-03T13:55:37-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ea/ed/34eaed73-aabb-f3a9-86be-6d83a412f599/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 22,
+          "id": "6759858043",
+          "name": "PocketWaiver",
+          "artistName": "Pine Heights Ventures LLC",
+          "kind": "Business",
+          "releaseDate": "2026-03-04T22:03:23-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/08/72/f5087211-7135-792c-ab2f-63538425c279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/pocketwaiver/id6759858043?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 23,
+          "id": "391312617",
+          "name": "Profit Story",
+          "artistName": "VooZu Promotions LLC",
+          "kind": "Business",
+          "releaseDate": "2010-11-16T12:01:20-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/12/0e/88/120e88da-e067-78e3-3a43-629e7f568b3a/mzl.jnimiqri.jpg/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 24,
+          "id": "598268211",
+          "name": "Voice-activated Recorder",
+          "artistName": "Hongwen Yang",
+          "kind": "Business",
+          "releaseDate": "2013-02-16T12:59:39-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/01/da/e2/01dae24d-8f2f-6092-cb1b-6b859551b6ba/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 25,
+          "id": "6758815371",
+          "name": "MBOX Viewer",
+          "artistName": "延平 陈",
+          "kind": "Business",
+          "releaseDate": "2026-02-12T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/1b/3a/ad1b3aa5-f7c0-f055-e1d4-245cce5c3e7a/mboxAppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/mbox-viewer/id6758815371?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 26,
+          "id": "6746970166",
+          "name": "Check Generator",
+          "artistName": "Jason Hatzelis",
+          "kind": "Business",
+          "releaseDate": "2025-06-10T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/57/3a/31573a12-255c-371f-0c24-a78f9af982a4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/check-generator/id6746970166?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 27,
+          "id": "1554333435",
+          "name": "ITI Calc",
+          "artistName": "Calculated Industries",
+          "kind": "Business",
+          "releaseDate": "2021-03-24T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/71/a3/09/71a309a1-ba0c-c098-8ee2-539eb93243be/AppIcon4186-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 28,
+          "id": "1586049620",
+          "name": "Sapphire Blessings",
+          "artistName": "Sapphire Leadership Group, LLC",
+          "kind": "Business",
+          "releaseDate": "2022-08-12T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/62/7e/e6627ea3-1780-f110-f9b1-d542d39f1abd/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 29,
+          "id": "1135811739",
+          "name": "FAX from iPhone & iPad App",
+          "artistName": "BPMobile",
+          "kind": "Business",
+          "releaseDate": "2016-09-01T18:59:02-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/88/53d988a4-2532-20dc-f1b7-f6ef1eca9420/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 30,
+          "id": "854618029",
+          "name": "FileBrowser Professional",
+          "artistName": "Stratospherix Ltd",
+          "kind": "Business",
+          "releaseDate": "2014-04-17T21:18:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e7/08/d8e708ae-7651-a2e9-bb73-3ddc6a5307d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/filebrowser-professional/id854618029?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 31,
           "id": "430034169",
           "name": "Payrollguru",
           "artistName": "Payrollguru, Inc.",
@@ -1880,8 +1473,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 69,
+          "date": "2026-03-06",
+          "rank": 32,
           "id": "364502063",
           "name": "PDF Reader Pro Edition®",
           "artistName": "iTECH DEVELOPMENT SYSTEMS INC.",
@@ -1891,8 +1484,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 70,
+          "date": "2026-03-06",
+          "rank": 33,
           "id": "1516267257",
           "name": "Bíblia King James 1611",
           "artistName": "Claudio Ferreira Rodrigues",
@@ -1902,8 +1495,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 71,
+          "date": "2026-03-06",
+          "rank": 34,
           "id": "738316197",
           "name": "Active Directory Assist Pro",
           "artistName": "BitsAbound Inc",
@@ -1913,8 +1506,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 72,
+          "date": "2026-03-06",
+          "rank": 35,
           "id": "6479970257",
           "name": "sumofme - Contactless Resume",
           "artistName": "Alexander Spurlock",
@@ -1924,8 +1517,19 @@
           "url": "https://apps.apple.com/us/app/sumofme-contactless-resume/id6479970257?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 73,
+          "date": "2026-03-06",
+          "rank": 36,
+          "id": "522627917",
+          "name": "FTPManager Pro",
+          "artistName": "Skyjos Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2012-05-03T08:30:36-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/28/41/13284184-66ca-143e-a51b-9d4d97891b07/FTPManagerAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/ftpmanager-pro/id522627917?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 37,
           "id": "774662043",
           "name": "Quick2257",
           "artistName": "Lawrence Walters",
@@ -1935,8 +1539,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 74,
+          "date": "2026-03-06",
+          "rank": 38,
           "id": "1524363807",
           "name": "SwingSound Golf",
           "artistName": "Marius Filmalter",
@@ -1946,8 +1550,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 75,
+          "date": "2026-03-06",
+          "rank": 39,
           "id": "728573891",
           "name": "Audio Recorder Pro and Editor",
           "artistName": "LiveBird Technologies Private Limited",
@@ -1957,8 +1561,30 @@
           "url": "https://apps.apple.com/us/app/audio-recorder-pro-and-editor/id728573891?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 76,
+          "date": "2026-03-06",
+          "rank": 40,
+          "id": "6444574623",
+          "name": "Libreoffice Viewer .",
+          "artistName": "Aditya Wagh",
+          "kind": "Business",
+          "releaseDate": "2022-11-20T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/c0/3d/76c03d9a-dcbe-6c25-431e-03bafdd1de04/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 41,
+          "id": "285750155",
+          "name": "iRecorder Pro Audio Recorder",
+          "artistName": "SIMPLETOUCH LLC",
+          "kind": "Business",
+          "releaseDate": "2019-02-12T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/8a/2a/6e8a2a40-642f-d0a3-da16-afdab1456662/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 42,
           "id": "6756611669",
           "name": "Timber Cruiser: Log Calculator",
           "artistName": "EMRE KOTUN",
@@ -1968,19 +1594,19 @@
           "url": "https://apps.apple.com/us/app/timber-cruiser-log-calculator/id6756611669?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 77,
-          "id": "427761719",
-          "name": "PrintCentral Pro for iPhone",
-          "artistName": "EuroSmartz Ltd",
+          "date": "2026-03-06",
+          "rank": 43,
+          "id": "447459162",
+          "name": "Liberty Item Entry",
+          "artistName": "Resaleworld.com, Inc.",
           "kind": "Business",
-          "releaseDate": "2011-04-13T17:00:42-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/18/db/4418db60-e8c8-99be-345a-c89b9a6bd4e4/AppIcon-pclproa-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+          "releaseDate": "2011-08-31T20:19:19-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b5/71/0cb5713f-cfb1-b114-c3ae-786bf01f00b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 78,
+          "date": "2026-03-06",
+          "rank": 44,
           "id": "305014494",
           "name": "EZCalc Diamonds",
           "artistName": "ADIRsoft",
@@ -1990,8 +1616,19 @@
           "url": "https://apps.apple.com/us/app/ezcalc-diamonds/id305014494?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 79,
+          "date": "2026-03-06",
+          "rank": 45,
+          "id": "372347918",
+          "name": "Court Objections",
+          "artistName": "ACS4Law",
+          "kind": "Business",
+          "releaseDate": "2010-06-01T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/db/32/e8db3257-350b-9e4c-1696-b1334b12c8b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 46,
           "id": "1617910987",
           "name": "Countertops Draw",
           "artistName": "Simple App Solutions",
@@ -2001,8 +1638,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 80,
+          "date": "2026-03-06",
+          "rank": 47,
           "id": "730873809",
           "name": "Job Sleuth",
           "artistName": "Hudson Ellis",
@@ -2012,19 +1649,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 81,
-          "id": "425341262",
-          "name": "FTP Client Pro",
-          "artistName": "LessIsMore Development",
+          "date": "2026-03-06",
+          "rank": 48,
+          "id": "427761719",
+          "name": "PrintCentral Pro for iPhone",
+          "artistName": "EuroSmartz Ltd",
           "kind": "Business",
-          "releaseDate": "2011-03-17T15:21:04-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/88/e8/2f88e8d3-fa8d-73a4-5bdc-8585955c131c/AppIcon-0-0-1x_U007emarketing-0-0-0-9-85-220.jpeg/100x100bb.png",
+          "releaseDate": "2011-04-13T17:00:42-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/18/db/4418db60-e8c8-99be-345a-c89b9a6bd4e4/AppIcon-pclproa-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 82,
+          "date": "2026-03-06",
+          "rank": 49,
           "id": "1200549051",
           "name": "Adding Melody To Your Voice",
           "artistName": "Elaine Clark",
@@ -2034,52 +1671,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 83,
-          "id": "6758886377",
-          "name": "iRecorder: Background Recorder",
-          "artistName": "Dirga Utomo",
+          "date": "2026-03-06",
+          "rank": 50,
+          "id": "425341262",
+          "name": "FTP Client Pro",
+          "artistName": "LessIsMore Development",
           "kind": "Business",
-          "releaseDate": "2026-02-19T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/37/31/12373186-b296-6605-41c4-df371b971185/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/irecorder-background-recorder/id6758886377?uo=2"
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 84,
-          "id": "1452061743",
-          "name": "OpenDocument Reader Pro",
-          "artistName": "Stefl und Taschauer OG",
-          "kind": "Business",
-          "releaseDate": "2019-02-15T03:36:03-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/fb/1d/19fb1d0d-b23d-7dfe-b1fe-80c2b672c0cf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "releaseDate": "2011-03-17T15:21:04-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/88/e8/2f88e8d3-fa8d-73a4-5bdc-8585955c131c/AppIcon-0-0-1x_U007emarketing-0-0-0-9-85-220.jpeg/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 85,
-          "id": "460013304",
-          "name": "WritePDF for iPhone",
-          "artistName": "EuroSmartz Ltd",
-          "kind": "Business",
-          "releaseDate": "2012-05-02T13:43:50-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/dc/d2/31dcd2da-141a-9b3b-685c-fcf78e0179dd/AppIcon-wpdfa-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 86,
-          "id": "286366281",
-          "name": "SalesCalc",
-          "artistName": "On-Core Software LLC",
-          "kind": "Business",
-          "releaseDate": "2019-02-05T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/5f/69/29/5f69291a-a499-a1f2-cd1e-6f3b715ee34e/pr_source.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 87,
+          "date": "2026-03-06",
+          "rank": 51,
           "id": "6745133702",
           "name": "Fence Pro",
           "artistName": "Truck and Toolbox",
@@ -2089,52 +1693,41 @@
           "url": "https://apps.apple.com/us/app/fence-pro/id6745133702?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 88,
-          "id": "1273373336",
-          "name": "ASHRAE HVAC PT Chart",
-          "artistName": "ASHRAE, Inc.",
+          "date": "2026-03-06",
+          "rank": 52,
+          "id": "385141836",
+          "name": "HVAC Residential Load Calcs",
+          "artistName": "Carmel Software Corporation",
           "kind": "Business",
-          "releaseDate": "2017-09-14T09:19:35-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/74/96/6e749632-cea4-eb5b-4d65-631054833d35/AppIcon-Ashrae-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "releaseDate": "2010-08-24T18:59:21-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/f4/09/b9f409f3-17cf-4f01-835b-3c64532cf045/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 89,
-          "id": "632680370",
-          "name": "Plumber Invoices & Estimates",
-          "artistName": "JZ Mobile LLC",
+          "date": "2026-03-06",
+          "rank": 53,
+          "id": "460013304",
+          "name": "WritePDF for iPhone",
+          "artistName": "EuroSmartz Ltd",
           "kind": "Business",
-          "releaseDate": "2013-05-04T16:21:24-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f2/ca/f8f2caab-cf98-4f63-c064-b3dc0f2794b7/AppIcon-0-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/100x100bb.png",
+          "releaseDate": "2012-05-02T13:43:50-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/dc/d2/31dcd2da-141a-9b3b-685c-fcf78e0179dd/AppIcon-wpdfa-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 90,
-          "id": "1217518186",
-          "name": "Intercard iService App",
-          "artistName": "Intercard Inc",
+          "date": "2026-03-06",
+          "rank": 54,
+          "id": "286366281",
+          "name": "SalesCalc",
+          "artistName": "On-Core Software LLC",
           "kind": "Business",
-          "releaseDate": "2017-05-17T15:44:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/de/94/dfde941f-553b-cf23-c6e3-e1bab776393b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "releaseDate": "2019-02-05T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/5f/69/29/5f69291a-a499-a1f2-cd1e-6f3b715ee34e/pr_source.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 91,
-          "id": "440977821",
-          "name": "Your best resume with giga-cv",
-          "artistName": "kodaski.fr",
-          "kind": "Business",
-          "releaseDate": "2011-06-23T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/1f/af/ad1faf7b-8b29-e666-06d7-6bc8502235d1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-07",
-          "rank": 92,
+          "date": "2026-03-06",
+          "rank": 55,
           "id": "6670568062",
           "name": "TruVideo - AI Detector",
           "artistName": "handsfree.ly",
@@ -2144,19 +1737,41 @@
           "url": "https://apps.apple.com/us/app/truvideo-ai-detector/id6670568062?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 93,
-          "id": "1455784163",
-          "name": "Pesticide Formulas",
-          "artistName": "H3 Apps, LLC",
+          "date": "2026-03-06",
+          "rank": 56,
+          "id": "1273373336",
+          "name": "ASHRAE HVAC PT Chart",
+          "artistName": "ASHRAE, Inc.",
           "kind": "Business",
-          "releaseDate": "2019-03-14T14:09:09-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/b0/c2/65b0c225-7bee-6862-e61c-dfeea13e1d71/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "releaseDate": "2017-09-14T09:19:35-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/74/96/6e749632-cea4-eb5b-4d65-631054833d35/AppIcon-Ashrae-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 94,
+          "date": "2026-03-06",
+          "rank": 57,
+          "id": "632680370",
+          "name": "Plumber Invoices & Estimates",
+          "artistName": "JZ Mobile LLC",
+          "kind": "Business",
+          "releaseDate": "2013-05-04T16:21:24-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f2/ca/f8f2caab-cf98-4f63-c064-b3dc0f2794b7/AppIcon-0-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 58,
+          "id": "1217518186",
+          "name": "Intercard iService App",
+          "artistName": "Intercard Inc",
+          "kind": "Business",
+          "releaseDate": "2017-05-17T15:44:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/de/94/dfde941f-553b-cf23-c6e3-e1bab776393b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 59,
           "id": "1514769922",
           "name": "Teleprompter for Business",
           "artistName": "Norton Five Ltd",
@@ -2166,8 +1781,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 95,
+          "date": "2026-03-06",
+          "rank": 60,
           "id": "6504027670",
           "name": "Easy Business Mileage Logger",
           "artistName": "Hardi Darweish",
@@ -2177,8 +1792,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 96,
+          "date": "2026-03-06",
+          "rank": 61,
+          "id": "6749466081",
+          "name": "ReadyAlert Mobile",
+          "artistName": "ReadyAlert",
+          "kind": "Business",
+          "releaseDate": "2025-08-18T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/e6/aca1e61d-cbdf-a5ee-3ab4-590454f12bce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/readyalert-mobile/id6749466081?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 62,
           "id": "1636255207",
           "name": "CRM Customer Business+My Order",
           "artistName": "永文 胡",
@@ -2188,8 +1814,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-07",
-          "rank": 97,
+          "date": "2026-03-06",
+          "rank": 63,
           "id": "6759530539",
           "name": "Load Profit Quick Check",
           "artistName": "Kenneth Shay",
@@ -2199,8 +1825,8 @@
           "url": "https://apps.apple.com/us/app/load-profit-quick-check/id6759530539?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 98,
+          "date": "2026-03-06",
+          "rank": 64,
           "id": "6741080897",
           "name": "Financial Calculator Plus",
           "artistName": "泳诗 陈",
@@ -2210,8 +1836,8 @@
           "url": "https://apps.apple.com/us/app/financial-calculator-plus/id6741080897?uo=2"
         },
         {
-          "date": "2026-03-07",
-          "rank": 99,
+          "date": "2026-03-06",
+          "rank": 65,
           "id": "1437460714",
           "name": "Bitcoin Forecast: Now & Future",
           "artistName": "Tae ho Lee",
@@ -2219,6 +1845,380 @@
           "releaseDate": "2025-10-07T00:00:00-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a6/dc/85a6dc62-f204-8c6e-c3dd-379a91458051/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/bitcoin-forecast-now-future/id1437460714?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 66,
+          "id": "1217781615",
+          "name": "Call Recorder : Record Phone Calls",
+          "artistName": "LiveBird Technologies Private Limited",
+          "kind": "Business",
+          "releaseDate": "2017-08-10T11:40:02-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/73/53/0a73530c-d6a4-3b56-6f13-4a439004147d/pr_source.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 67,
+          "id": "1084143351",
+          "name": "Tap Forms Organizer 5 Database",
+          "artistName": "Tap Zapp Software Inc.",
+          "kind": "Business",
+          "releaseDate": "2016-08-19T21:58:45-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/50/f3/e150f308-13f9-5224-2749-7d7873765992/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 68,
+          "id": "438623352",
+          "name": "Mastering the 48 Laws of Power",
+          "artistName": "Adaptive Mentoring Systems Inc.",
+          "kind": "Business",
+          "releaseDate": "2011-05-30T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d5/28/76/d52876de-c3e2-5904-7ed4-43ba1a2e2675/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 69,
+          "id": "284741179",
+          "name": "TN5250",
+          "artistName": "MochaSoft",
+          "kind": "Business",
+          "releaseDate": "2019-02-11T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/40/87/874087ef-7b7f-af08-15c3-5ac524581a3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 70,
+          "id": "837019622",
+          "name": "Database Manager for MS Access",
+          "artistName": "强 李",
+          "kind": "Business",
+          "releaseDate": "2014-03-17T19:03:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/2a/85/5e2a8570-7d42-9c1a-599c-d88acc51d4f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 71,
+          "id": "295798315",
+          "name": "Documents",
+          "artistName": "Savy Soda Pty Ltd",
+          "kind": "Business",
+          "releaseDate": "2008-11-20T10:16:08-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c8/74/1fc874c3-5190-2747-8e81-31acc8e0eff2/DocumentsPlusAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 72,
+          "id": "1119117405",
+          "name": "SketchCut PRO",
+          "artistName": "Vladimir Rudenko",
+          "kind": "Business",
+          "releaseDate": "2016-06-14T12:06:44-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/ef/01/0cef01e3-42dc-ad1e-eae8-8ad4e36b4e6a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 73,
+          "id": "576443892",
+          "name": "Logo Creator゜",
+          "artistName": "Logo Maker LLC",
+          "kind": "Business",
+          "releaseDate": "2012-11-13T11:39:06-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/b1/59/87b1594f-e7cf-7a56-aba8-c5096196ab79/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 74,
+          "id": "303513289",
+          "name": "Free WiFi",
+          "artistName": "Makayama.com",
+          "kind": "Business",
+          "releaseDate": "2009-03-14T15:58:49-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/93/00/859300ad-c874-fd5f-1265-f51ab6f8efec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/free-wifi/id303513289?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 75,
+          "id": "347345474",
+          "name": "ABBYY Business Card Reader Pro",
+          "artistName": "ABBYY USA Software House Inc",
+          "kind": "Business",
+          "releaseDate": "2009-12-23T07:30:36-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/ce/28/06ce280e-a03d-1082-f4c8-1cab9eab7f18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 76,
+          "id": "1519099937",
+          "name": "PDF Office Pro, Acrobat Expert",
+          "artistName": "heytopia",
+          "kind": "Business",
+          "releaseDate": "2020-09-16T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/3a/11/843a11e3-534e-91a4-1006-0b3c13e9a222/AppIcon_PDFiOS-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 77,
+          "id": "6755902336",
+          "name": "Business Card Scanner vCardify",
+          "artistName": "VojGin s.r.o.",
+          "kind": "Business",
+          "releaseDate": "2026-01-17T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/aa/c1/88aac188-5974-017e-d163-381313733d5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/business-card-scanner-vcardify/id6755902336?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 78,
+          "id": "6450867232",
+          "name": "KitPilot: ConvertKit Dashboard",
+          "artistName": "Legacy Bits LLC",
+          "kind": "Business",
+          "releaseDate": "2023-07-11T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/12/98/d81298b1-deee-6377-ba02-a90dbfc6efbf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 79,
+          "id": "908554933",
+          "name": "Flood Zone Map",
+          "artistName": "Ikonetics",
+          "kind": "Business",
+          "releaseDate": "2014-10-13T22:47:53-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/ab/00/17ab00a8-212d-2f9c-867e-813ccdef52e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 80,
+          "id": "373769371",
+          "name": "Langelier Saturation Index",
+          "artistName": "Verosocial Studio",
+          "kind": "Business",
+          "releaseDate": "2010-05-27T12:47:57-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/de/23/dcde23f0-f23b-0f9b-b81e-f719132ba37f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 81,
+          "id": "794921622",
+          "name": "Barcode Check",
+          "artistName": "Stefan Arnhold",
+          "kind": "Business",
+          "releaseDate": "2014-01-15T16:02:32-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/be/c6/35bec6d6-c2d1-b3bd-0b09-41f4ebf165d4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.jpeg/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 82,
+          "id": "1272464133",
+          "name": "Cashister",
+          "artistName": "Patrick Murphy",
+          "kind": "Business",
+          "releaseDate": "2017-11-15T04:18:56-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/37/b5/4b37b5cf-0b41-d027-380c-a63b9b5686a4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/cashister/id1272464133?uo=2"
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 83,
+          "id": "288362053",
+          "name": "Remote Desktop - RDP",
+          "artistName": "MochaSoft",
+          "kind": "Business",
+          "releaseDate": "2019-02-12T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/8f/e1/238fe1a3-1d96-c23d-3335-e363b5ac5882/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 84,
+          "id": "369820957",
+          "name": "AudioNote™",
+          "artistName": "Luminant Software, Inc",
+          "kind": "Business",
+          "releaseDate": "2010-04-29T10:34:01-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/92/44/d8924480-bef2-a522-188f-bb9137bd0c10/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 85,
+          "id": "703201018",
+          "name": "Activate Your Voice",
+          "artistName": "Elaine Clark",
+          "kind": "Business",
+          "releaseDate": "2013-10-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/8a/aa/3c8aaa67-e04b-2563-3e78-5ebe22658e61/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 86,
+          "id": "407498378",
+          "name": "Remotix VNC, RDP & NEAR",
+          "artistName": "Acronis, Inc.",
+          "kind": "Business",
+          "releaseDate": "2011-09-09T16:04:44-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7b/f0/81/7bf081cb-8c34-bae0-f82a-a7645a151d85/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 87,
+          "id": "1509390393",
+          "name": "WEXS",
+          "artistName": "Phoenix Sensors",
+          "kind": "Business",
+          "releaseDate": "2020-05-11T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/d6/2d/a8d62d1c-3ced-3db6-4a1a-4c6e4e8036cb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 88,
+          "id": "6450869857",
+          "name": "短信电话宝—加密网络电话传话助手",
+          "artistName": "Lepu Art Ceramics Co., Ltd",
+          "kind": "Business",
+          "releaseDate": "2023-07-24T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/2f/16/e22f1676-767a-8880-9202-19f004fd1096/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 89,
+          "id": "284981670",
+          "name": "Mocha VNC",
+          "artistName": "MochaSoft",
+          "kind": "Business",
+          "releaseDate": "2019-02-11T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/67/f8/8c67f868-4a34-fbfa-6ce8-798e19910333/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 90,
+          "id": "379262343",
+          "name": "SA Contacts",
+          "artistName": "ShenZhen SamApp Technology Development Co., Ltd",
+          "kind": "Business",
+          "releaseDate": "2010-07-01T10:59:09-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/14/c9/b714c9e2-ce79-0a2a-a467-e3e87f248296/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 91,
+          "id": "1072729245",
+          "name": "File Manager Plus",
+          "artistName": "Sin Yee Fan",
+          "kind": "Business",
+          "releaseDate": "2016-02-16T16:56:53-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple41/v4/74/a3/ce/74a3cebc-6ab2-5e15-e369-b65886a51a2e/mzl.gtmgxxep.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 92,
+          "id": "737292153",
+          "name": "Gov Job Search",
+          "artistName": "Apperdashery LLC",
+          "kind": "Business",
+          "releaseDate": "2013-12-05T20:16:11-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/cc/65/c7cc65e6-299c-7a41-0689-1d32e839ee5b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 93,
+          "id": "286892932",
+          "name": "Mocha Telnet",
+          "artistName": "MochaSoft",
+          "kind": "Business",
+          "releaseDate": "2019-02-12T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/bd/0e/1dbd0ed1-8663-64c3-ad20-9c9ed7dec4c4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 94,
+          "id": "1357933382",
+          "name": "BlindsBook Drapery Calculator",
+          "artistName": "BlindsBook Corp",
+          "kind": "Business",
+          "releaseDate": "2018-03-14T10:11:25-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/63/c6/7963c6de-a661-b84f-8830-4ece80278d91/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 95,
+          "id": "360376453",
+          "name": "BarkeepApp",
+          "artistName": "Barkeep",
+          "kind": "Business",
+          "releaseDate": "2010-03-12T14:47:47-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/7e/a6/fd7ea657-97cd-2f3e-8ec2-7769a70292c4/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 96,
+          "id": "866561310",
+          "name": "Voice Recorder Plus Pro",
+          "artistName": "AppDev Technolabs",
+          "kind": "Business",
+          "releaseDate": "2014-05-16T14:37:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/8e/62/a58e62ff-7310-a458-71af-7389602119a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 97,
+          "id": "339948012",
+          "name": "Steam Tables",
+          "artistName": "Carmel Software Corporation",
+          "kind": "Business",
+          "releaseDate": "2009-12-02T11:28:08-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/f7/80/61f7809b-73a3-3380-73f7-c8f7ef93bb5a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 98,
+          "id": "1014738560",
+          "name": "Craft Pricing Helper",
+          "artistName": "Ducky Planet LLC",
+          "kind": "Business",
+          "releaseDate": "2015-07-24T18:52:33-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/62/db/3162db73-2312-3879-462b-62d503d022a7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-03-06",
+          "rank": 99,
+          "id": "6496853940",
+          "name": "Window Cleaning Estimator",
+          "artistName": "Michael Haslam",
+          "kind": "Business",
+          "releaseDate": "2024-04-30T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/98/5a/4a985a21-82fa-f3ce-edbb-8ed6effbba27/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+          "url": ""
         }
       ]
     }
