@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-02-28",
   "country": "jp",
   "mediaType": "apps",
   "feedTypes": [
@@ -10,7 +10,7 @@
   "totalDatasets": 2,
   "datasets": [
     {
-      "date": "2026-03-01",
+      "date": "2026-02-28",
       "country": "jp",
       "mediaType": "apps",
       "feedType": "top-free",
@@ -20,7 +20,7 @@
       "total": 100,
       "items": [
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 1,
           "id": "309735670",
           "name": "転職・バイトはIndeed（インディード）",
@@ -31,19 +31,8 @@
           "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%83%90%E3%82%A4%E3%83%88%E3%81%AFindeed-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id309735670?uo=2"
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 2,
-          "id": "1645266445",
-          "name": "電子認証 マイナサイン",
-          "artistName": "CYBERLINKS CO., LTD.",
-          "kind": "Business",
-          "releaseDate": "2022-10-15T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/73/a1/0373a113-5e8f-f0fb-bd07-e89bfa16ba44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 3,
           "id": "546505307",
           "name": "Zoom Workplace",
           "artistName": "Zoom Communications, Inc.",
@@ -53,30 +42,8 @@
           "url": "https://apps.apple.com/jp/app/zoom-workplace/id546505307?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 4,
-          "id": "6462426792",
-          "name": "マイナンバーカード本人認証アプリSHIKI",
-          "artistName": "Digital Platformer Corporation",
-          "kind": "Business",
-          "releaseDate": "2023-10-01T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f4/6d/56f46d60-133e-69f7-2aaa-7e2079a3355e/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E6%9C%AC%E4%BA%BA%E8%AA%8D%E8%A8%BC%E3%82%A2%E3%83%97%E3%83%AAshiki/id6462426792?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 5,
-          "id": "1635254205",
-          "name": "求人ボックス｜バイト・転職・パート・派遣・在宅のお仕事を検索",
-          "artistName": "Kakaku.com, Inc.",
-          "kind": "Business",
-          "releaseDate": "2022-12-07T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/5e/6b/405e6b9d-9f27-b579-162f-3914576fc02e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 6,
+          "date": "2026-02-28",
+          "rank": 3,
           "id": "1113153706",
           "name": "Microsoft Teams",
           "artistName": "Microsoft Corporation",
@@ -86,8 +53,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 7,
+          "date": "2026-02-28",
+          "rank": 4,
+          "id": "1645266445",
+          "name": "電子認証 マイナサイン",
+          "artistName": "CYBERLINKS CO., LTD.",
+          "kind": "Business",
+          "releaseDate": "2022-10-15T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/73/a1/0373a113-5e8f-f0fb-bd07-e89bfa16ba44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 5,
           "id": "469337564",
           "name": "Adobe Acrobat Reader：PDFの編集と変換",
           "artistName": "Adobe Inc.",
@@ -97,8 +75,19 @@
           "url": "https://apps.apple.com/jp/app/adobe-acrobat-reader-pdf%E3%81%AE%E7%B7%A8%E9%9B%86%E3%81%A8%E5%A4%89%E6%8F%9B/id469337564?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 8,
+          "date": "2026-02-28",
+          "rank": 6,
+          "id": "1635254205",
+          "name": "求人ボックス｜バイト・転職・パート・派遣・在宅のお仕事を検索",
+          "artistName": "Kakaku.com, Inc.",
+          "kind": "Business",
+          "releaseDate": "2022-12-07T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/5e/6b/405e6b9d-9f27-b579-162f-3914576fc02e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 7,
           "id": "6446607328",
           "name": "SmartHR（スマートエイチアール）",
           "artistName": "SmartHR, Inc.",
@@ -108,8 +97,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 9,
+          "date": "2026-02-28",
+          "rank": 8,
           "id": "6457952109",
           "name": "e-NINSHO本人確認サービス",
           "artistName": "Nomura Research Institute, Ltd.",
@@ -119,30 +108,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 10,
-          "id": "1450599059",
-          "name": "LINE公式アカウント",
-          "artistName": "LINE Corporation",
-          "kind": "Business",
-          "releaseDate": "2019-08-25T23:07:40-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ec/e8/80ece87b-fb27-4a2d-4b87-5cbf5ca2c8b9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 11,
-          "id": "6499424428",
-          "name": "転職エージェントならリクルートエージェント_転職サイトで転職",
-          "artistName": "Recruit Co.,Ltd.",
-          "kind": "Business",
-          "releaseDate": "2024-06-30T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/ca/8e/47ca8e86-136b-f287-508b-da6f6122c1a6/app_icon_release-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AA%E3%82%89%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88-%E8%BB%A2%E8%81%B7%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E8%BB%A2%E8%81%B7/id6499424428?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 12,
+          "date": "2026-02-28",
+          "rank": 9,
           "id": "1012129122",
           "name": "LINE WORKS - ビジネスチャット",
           "artistName": "LINE WORKS Corp.",
@@ -152,8 +119,8 @@
           "url": "https://apps.apple.com/jp/app/line-works-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id1012129122?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 13,
+          "date": "2026-02-28",
+          "rank": 10,
           "id": "1568660349",
           "name": "スキャナーアプリ – PDF＆ドキュメントをスキャン",
           "artistName": "TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI",
@@ -163,30 +130,8 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA-pdf-%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/id1568660349?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 14,
-          "id": "6739484328",
-          "name": "マイナビ2027 就活、就職情報　新卒|27年卒向け",
-          "artistName": "Mynavi Corporation",
-          "kind": "Business",
-          "releaseDate": "2025-04-01T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/62/8f/89628f16-09ef-f724-36f8-6ed1f60a6fa9/AppIcon-Production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%932027-%E5%B0%B1%E6%B4%BB-%E5%B0%B1%E8%81%B7%E6%83%85%E5%A0%B1-%E6%96%B0%E5%8D%92-27%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91/id6739484328?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 15,
-          "id": "1574812364",
-          "name": "弥生 電子署名",
-          "artistName": "yayoi",
-          "kind": "Business",
-          "releaseDate": "2022-01-25T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/f5/7c/33f57c06-2d2b-b619-abae-b58a4c0a09bb/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E5%BC%A5%E7%94%9F-%E9%9B%BB%E5%AD%90%E7%BD%B2%E5%90%8D/id1574812364?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 16,
+          "date": "2026-02-28",
+          "rank": 11,
           "id": "618783545",
           "name": "Slack",
           "artistName": "Slack Technologies, Inc.",
@@ -196,8 +141,41 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 17,
+          "date": "2026-02-28",
+          "rank": 12,
+          "id": "6499424428",
+          "name": "転職エージェントならリクルートエージェント_転職サイトで転職",
+          "artistName": "Recruit Co.,Ltd.",
+          "kind": "Business",
+          "releaseDate": "2024-06-30T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/ca/8e/47ca8e86-136b-f287-508b-da6f6122c1a6/app_icon_release-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AA%E3%82%89%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88-%E8%BB%A2%E8%81%B7%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E8%BB%A2%E8%81%B7/id6499424428?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 13,
+          "id": "6462426792",
+          "name": "マイナンバーカード本人認証アプリSHIKI",
+          "artistName": "Digital Platformer Corporation",
+          "kind": "Business",
+          "releaseDate": "2023-10-01T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f4/6d/56f46d60-133e-69f7-2aaa-7e2079a3355e/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E6%9C%AC%E4%BA%BA%E8%AA%8D%E8%A8%BC%E3%82%A2%E3%83%97%E3%83%AAshiki/id6462426792?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 14,
+          "id": "1450599059",
+          "name": "LINE公式アカウント",
+          "artistName": "LINE Corporation",
+          "kind": "Business",
+          "releaseDate": "2019-08-25T23:07:40-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ec/e8/80ece87b-fb27-4a2d-4b87-5cbf5ca2c8b9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 15,
           "id": "1198482697",
           "name": "安否確認サービス２：トヨクモ",
           "artistName": "TOYOKUMO, Inc.",
@@ -207,173 +185,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 18,
-          "id": "1516762850",
-          "name": "転職・求人はスタンバイ バイトや転職、求人、就職、仕事探し",
-          "artistName": "Stanby, Inc.",
-          "kind": "Business",
-          "releaseDate": "2020-06-09T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/7d/ae/da7dae56-f010-32b1-a2de-40a40e576f4c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 19,
-          "id": "1199564834",
-          "name": "Adobe Scan: OCR 付 スキャナーアプリ",
-          "artistName": "Adobe Inc.",
-          "kind": "Business",
-          "releaseDate": "2017-05-31T07:12:55-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/71/13/657113cd-c9a5-860f-926a-23baf5553802/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/adobe-scan-ocr-%E4%BB%98-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/id1199564834?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 20,
-          "id": "1459350082",
-          "name": "転職 doda 転職エージェントと豊富な求人で就職活動 就活",
-          "artistName": "PERSOL CAREER CO., LTD.",
-          "kind": "Business",
-          "releaseDate": "2019-05-07T05:04:49-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/32/31/0f323138-5870-562e-566d-283314480c3b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 21,
-          "id": "972002786",
-          "name": "転職 ビズリーチ-転職アプリ/転職サイト・転職・仕事探し求人",
-          "artistName": "BizReach, Inc.",
-          "kind": "Business",
-          "releaseDate": "2015-04-01T01:44:06-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/75/77/e175772c-00e3-85f3-0c20-4becfc8365f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%83%93%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%81-%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA-%E8%BB%A2%E8%81%B7%E3%82%B5%E3%82%A4%E3%83%88-%E8%BB%A2%E8%81%B7-%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97%E6%B1%82%E4%BA%BA/id972002786?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 22,
-          "id": "1163852619",
-          "name": "Google Chat",
-          "artistName": "Google",
-          "kind": "Business",
-          "releaseDate": "2018-02-28T05:37:21-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/bb/4f/32bb4fb3-3a8b-970c-0f4c-71a1717b935b/logo_chat_2024q3_color-0-1x_U007emarketing-0-0-0-4-0-0-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/google-chat/id1163852619?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 23,
-          "id": "944884603",
-          "name": "ココナラ (coconala)",
-          "artistName": "coconala, Inc.",
-          "kind": "Business",
-          "releaseDate": "2014-12-08T19:28:29-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/95/49/439549d1-9915-6c1d-0f10-f4933a6bc198/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 24,
-          "id": "1013797155",
-          "name": "クラウドワークス | 副業・在宅ワーク",
-          "artistName": "クラウドワークス",
-          "kind": "Business",
-          "releaseDate": "2015-07-31T03:08:33-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/46/64/a54664aa-311f-8e74-4315-b7f4d9b0737f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 25,
-          "id": "307658513",
-          "name": "VIP Access for iPhone",
-          "artistName": "Symantec Enterprise Division, Broadcom Inc.",
-          "kind": "Business",
-          "releaseDate": "2009-06-23T13:13:50-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/18/36/a11836eb-34c2-76bf-f3e8-046208009adb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 26,
-          "id": "6450258223",
-          "name": "しごと探しはジョブハウス",
-          "artistName": "Techouse inc.",
-          "kind": "Business",
-          "releaseDate": "2023-09-24T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/85/5d/da855d7f-3583-0c8a-fe2b-48b6a0cbbdc5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%81%97%E3%81%94%E3%81%A8%E6%8E%A2%E3%81%97%E3%81%AF%E3%82%B8%E3%83%A7%E3%83%96%E3%83%8F%E3%82%A6%E3%82%B9/id6450258223?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 27,
-          "id": "463672966",
-          "name": "Chatwork",
-          "artistName": "kubell Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2011-09-30T15:22:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/99/0a/f8990a72-981e-fee1-f267-ac08f14348a8/AppIcon-Chatwork-0-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/chatwork/id463672966?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 28,
-          "id": "6612026180",
-          "name": "リクナビ 2027卒以降の就活・インターン・ES・自己分析",
-          "artistName": "Recruit Co.,Ltd.",
-          "kind": "Business",
-          "releaseDate": "2024-09-19T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/b8/c2/e4b8c296-946f-92cf-e03d-602efb5e72b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%AA%E3%82%AF%E3%83%8A%E3%83%93-2027%E5%8D%92%E4%BB%A5%E9%99%8D%E3%81%AE%E5%B0%B1%E6%B4%BB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3-es-%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%90/id6612026180?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 29,
-          "id": "1133898726",
-          "name": "求人検索 for ハローワーク｜就職や転職の求人、仕事探し",
-          "artistName": "Imple, Inc.",
-          "kind": "Business",
-          "releaseDate": "2016-09-07T08:36:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/e9/54/64e954e4-d3fc-b4a7-cdb1-2723b57c08d5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 30,
-          "id": "562127186",
-          "name": "転職 リクナビネクスト 正社員求人や仕事探しの転職アプリ",
-          "artistName": "Recruit Co.,Ltd.",
-          "kind": "Business",
-          "releaseDate": "2012-12-17T06:36:29-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/b4/2b/1ab42b06-40fa-d369-a77c-492e03b9a1e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%83%AA%E3%82%AF%E3%83%8A%E3%83%93%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88-%E6%AD%A3%E7%A4%BE%E5%93%A1%E6%B1%82%E4%BA%BA%E3%82%84%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97%E3%81%AE%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA/id562127186?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 31,
-          "id": "1459080258",
-          "name": "Cahoカレンダー　かわいいスケジュール帳カレンダー",
-          "artistName": "LAN CHEN",
-          "kind": "Business",
-          "releaseDate": "2019-04-26T21:52:45-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/d2/75/20d2753b-9d67-7772-fff0-fa9af10594eb/AppIcon-caho-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 32,
-          "id": "1155432341",
-          "name": "転職 求人 はマイナビ転職 転職サイトの転職アプリで仕事探し",
+          "date": "2026-02-28",
+          "rank": 16,
+          "id": "6739484328",
+          "name": "マイナビ2027 就活、就職情報　新卒|27年卒向け",
           "artistName": "Mynavi Corporation",
           "kind": "Business",
-          "releaseDate": "2016-10-16T20:24:07-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/a7/43/44a7431f-0973-f934-7286-4654249f183a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E6%B1%82%E4%BA%BA-%E3%81%AF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%93%E8%BB%A2%E8%81%B7-%E8%BB%A2%E8%81%B7%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97/id1155432341?uo=2"
+          "releaseDate": "2025-04-01T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/62/8f/89628f16-09ef-f724-36f8-6ed1f60a6fa9/AppIcon-Production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%932027-%E5%B0%B1%E6%B4%BB-%E5%B0%B1%E8%81%B7%E6%83%85%E5%A0%B1-%E6%96%B0%E5%8D%92-27%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91/id6739484328?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 33,
+          "date": "2026-02-28",
+          "rank": 17,
           "id": "1447186346",
           "name": "GビズID",
           "artistName": "デジタル庁",
@@ -383,41 +207,85 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 34,
-          "id": "1131342792",
-          "name": "Uber Driver - ドライバー用",
-          "artistName": "Uber Technologies, Inc.",
+          "date": "2026-02-28",
+          "rank": 18,
+          "id": "1199564834",
+          "name": "Adobe Scan: OCR 付 スキャナーアプリ",
+          "artistName": "Adobe Inc.",
           "kind": "Business",
-          "releaseDate": "2017-01-24T11:45:03-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/b0/3e/1fb03eb5-be11-49d1-e23b-fa4d5f70fabc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "releaseDate": "2017-05-31T07:12:55-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/71/13/657113cd-c9a5-860f-926a-23baf5553802/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/adobe-scan-ocr-%E4%BB%98-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/id1199564834?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 19,
+          "id": "1459350082",
+          "name": "転職 doda 転職エージェントと豊富な求人で就職活動 就活",
+          "artistName": "PERSOL CAREER CO., LTD.",
+          "kind": "Business",
+          "releaseDate": "2019-05-07T05:04:49-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/32/31/0f323138-5870-562e-566d-283314480c3b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 35,
-          "id": "288429040",
-          "name": "LinkedIn",
-          "artistName": "LinkedIn Corporation",
+          "date": "2026-02-28",
+          "rank": 20,
+          "id": "1163852619",
+          "name": "Google Chat",
+          "artistName": "Google",
           "kind": "Business",
-          "releaseDate": "2019-02-03T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/1e/30/991e3022-65f4-6e14-9a1e-d02df71fcc74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "releaseDate": "2018-02-28T05:37:21-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/bb/4f/32bb4fb3-3a8b-970c-0f4c-71a1717b935b/logo_chat_2024q3_color-0-1x_U007emarketing-0-0-0-4-0-0-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/google-chat/id1163852619?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 21,
+          "id": "1516762850",
+          "name": "転職・求人はスタンバイ バイトや転職、求人、就職、仕事探し",
+          "artistName": "Stanby, Inc.",
+          "kind": "Business",
+          "releaseDate": "2020-06-09T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/7d/ae/da7dae56-f010-32b1-a2de-40a40e576f4c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 36,
-          "id": "1047441900",
-          "name": "セコム安否確認サービス 安否報告アプリ",
-          "artistName": "Secom Trust Systems Co.,Ltd.",
+          "date": "2026-02-28",
+          "rank": 22,
+          "id": "1574812364",
+          "name": "弥生 電子署名",
+          "artistName": "yayoi",
           "kind": "Business",
-          "releaseDate": "2016-03-31T00:28:15-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/92/8b/99928bb8-84d7-c07a-37fd-82fcc8829aab/AppIcon-1x_U007emarketing-0-5-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%BB%E3%82%B3%E3%83%A0%E5%AE%89%E5%90%A6%E7%A2%BA%E8%AA%8D%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E5%AE%89%E5%90%A6%E5%A0%B1%E5%91%8A%E3%82%A2%E3%83%97%E3%83%AA/id1047441900?uo=2"
+          "releaseDate": "2022-01-25T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/f5/7c/33f57c06-2d2b-b619-abae-b58a4c0a09bb/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E5%BC%A5%E7%94%9F-%E9%9B%BB%E5%AD%90%E7%BD%B2%E5%90%8D/id1574812364?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 37,
+          "date": "2026-02-28",
+          "rank": 23,
+          "id": "972002786",
+          "name": "転職 ビズリーチ-転職アプリ/転職サイト・転職・仕事探し求人",
+          "artistName": "BizReach, Inc.",
+          "kind": "Business",
+          "releaseDate": "2015-04-01T01:44:06-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/75/77/e175772c-00e3-85f3-0c20-4becfc8365f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%83%93%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%81-%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA-%E8%BB%A2%E8%81%B7%E3%82%B5%E3%82%A4%E3%83%88-%E8%BB%A2%E8%81%B7-%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97%E6%B1%82%E4%BA%BA/id972002786?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 24,
+          "id": "463672966",
+          "name": "Chatwork",
+          "artistName": "kubell Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2011-09-30T15:22:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/99/0a/f8990a72-981e-fee1-f267-ac08f14348a8/AppIcon-Chatwork-0-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/chatwork/id463672966?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 25,
           "id": "1282324661",
           "name": "TUNAG (ツナグ)",
           "artistName": "stmn, inc.",
@@ -427,52 +295,74 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 38,
-          "id": "1032580348",
-          "name": "転職はリクルートエージェント【ご登録者様向けアプリ】",
+          "date": "2026-02-28",
+          "rank": 26,
+          "id": "1013797155",
+          "name": "クラウドワークス | 副業・在宅ワーク",
+          "artistName": "クラウドワークス",
+          "kind": "Business",
+          "releaseDate": "2015-07-31T03:08:33-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/46/64/a54664aa-311f-8e74-4315-b7f4d9b0737f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 27,
+          "id": "944884603",
+          "name": "ココナラ (coconala)",
+          "artistName": "coconala, Inc.",
+          "kind": "Business",
+          "releaseDate": "2014-12-08T19:28:29-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/95/49/439549d1-9915-6c1d-0f10-f4933a6bc198/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 28,
+          "id": "1047441900",
+          "name": "セコム安否確認サービス 安否報告アプリ",
+          "artistName": "Secom Trust Systems Co.,Ltd.",
+          "kind": "Business",
+          "releaseDate": "2016-03-31T00:28:15-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/92/8b/99928bb8-84d7-c07a-37fd-82fcc8829aab/AppIcon-1x_U007emarketing-0-5-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%BB%E3%82%B3%E3%83%A0%E5%AE%89%E5%90%A6%E7%A2%BA%E8%AA%8D%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E5%AE%89%E5%90%A6%E5%A0%B1%E5%91%8A%E3%82%A2%E3%83%97%E3%83%AA/id1047441900?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 29,
+          "id": "562127186",
+          "name": "転職 リクナビネクスト 正社員求人や仕事探しの転職アプリ",
           "artistName": "Recruit Co.,Ltd.",
           "kind": "Business",
-          "releaseDate": "2015-09-25T10:28:09-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ce/a6/6ecea6b8-1f5d-a221-d7b2-b0dc13d26fd8/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2012-12-17T06:36:29-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/b4/2b/1ab42b06-40fa-d369-a77c-492e03b9a1e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%83%AA%E3%82%AF%E3%83%8A%E3%83%93%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88-%E6%AD%A3%E7%A4%BE%E5%93%A1%E6%B1%82%E4%BA%BA%E3%82%84%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97%E3%81%AE%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA/id562127186?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 39,
-          "id": "971530839",
-          "name": "ワンキャリア 新卒就活アプリ",
-          "artistName": "ONE CAREER Inc.",
+          "date": "2026-02-28",
+          "rank": 30,
+          "id": "1155432341",
+          "name": "転職 求人 はマイナビ転職 転職サイトの転職アプリで仕事探し",
+          "artistName": "Mynavi Corporation",
           "kind": "Business",
-          "releaseDate": "2015-07-20T21:47:38-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/4e/1c/b74e1c5c-e58a-a488-3c3f-0fcdd9c69e74/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2016-10-16T20:24:07-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/a7/43/44a7431f-0973-f934-7286-4654249f183a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E6%B1%82%E4%BA%BA-%E3%81%AF%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%93%E8%BB%A2%E8%81%B7-%E8%BB%A2%E8%81%B7%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97/id1155432341?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 40,
-          "id": "1477436735",
-          "name": "SHARE LOUNGE",
-          "artistName": "Culture Convenience Club Co.,Ltd.",
+          "date": "2026-02-28",
+          "rank": 31,
+          "id": "6612026180",
+          "name": "リクナビ 2027卒以降の就活・インターン・ES・自己分析",
+          "artistName": "Recruit Co.,Ltd.",
           "kind": "Business",
-          "releaseDate": "2019-10-23T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/25/48/0a254857-9154-331b-3847-33a001bd30c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2024-09-19T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/b8/c2/e4b8c296-946f-92cf-e03d-602efb5e72b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%AA%E3%82%AF%E3%83%8A%E3%83%93-2027%E5%8D%92%E4%BB%A5%E9%99%8D%E3%81%AE%E5%B0%B1%E6%B4%BB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3-es-%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%90/id6612026180?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 41,
-          "id": "1004291915",
-          "name": "メモ帳 - シンプルなメモ・ノートのメモ帳（めも帳のーと）",
-          "artistName": "Komorebi Inc.",
-          "kind": "Business",
-          "releaseDate": "2015-07-14T15:48:54-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/89/b2/1989b277-ecaa-4955-9929-5c550b0b9e30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 42,
+          "date": "2026-02-28",
+          "rank": 32,
           "id": "444423637",
           "name": "名刺アプリ「Eight」 - 名刺交換や、名刺管理に",
           "artistName": "Sansan, Inc.",
@@ -482,74 +372,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 43,
-          "id": "973447544",
-          "name": "スペースマーケット レンタルスペースアプリ",
-          "artistName": "Space Market, Inc.",
+          "date": "2026-02-28",
+          "rank": 33,
+          "id": "288429040",
+          "name": "LinkedIn",
+          "artistName": "LinkedIn Corporation",
           "kind": "Business",
-          "releaseDate": "2015-06-29T16:47:15-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/74/6c/0b746c31-845a-6f98-f1d3-cce0a5b57139/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88-%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA/id973447544?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 44,
-          "id": "1603576427",
-          "name": "ジンジャー勤怠スタッフアプリ",
-          "artistName": "jinjer Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2022-02-06T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/fd/04/4cfd0471-7c51-f6ba-2ca6-843eb45cbf7b/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+          "releaseDate": "2019-02-03T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/1e/30/991e3022-65f4-6e14-9a1e-d02df71fcc74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 45,
-          "id": "6741190576",
-          "name": "キャリアアシスタント - AIとキャリア相談",
-          "artistName": "Indeed Inc.",
-          "kind": "Business",
-          "releaseDate": "2025-02-25T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ab/dd/18abddec-18a9-59e5-22d4-1066a168ad7a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 46,
-          "id": "1552340066",
-          "name": "AQ-Connect ランドリー",
-          "artistName": "AQUA Company Limited",
-          "kind": "Business",
-          "releaseDate": "2021-02-08T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/f0/12/e0f0125e-a1fe-7266-a301-7277f7dcbaf4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/aq-connect-%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC/id1552340066?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 47,
-          "id": "1428501260",
-          "name": "OpenWork -就活にも転職にもオープンワーク-",
-          "artistName": "OpenWork Inc.",
-          "kind": "Business",
-          "releaseDate": "2019-07-02T22:40:55-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/f8/9a/fbf89a37-7a19-6f4d-a5d4-2f537a696fc4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 48,
-          "id": "570928413",
-          "name": "モノタロウ 現場を支えるネットストア",
-          "artistName": "MonotaRO Co.,Ltd.",
-          "kind": "Business",
-          "releaseDate": "2012-11-07T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/8d/a1/a28da1f3-7e79-f0cd-c69e-7dd44795026e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 49,
+          "date": "2026-02-28",
+          "rank": 34,
           "id": "833967564",
           "name": "Webex",
           "artistName": "Cisco",
@@ -559,107 +394,74 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 50,
-          "id": "6741406303",
-          "name": "ミニミニ入居者アプリ",
-          "artistName": "株式会社ミニミニ",
+          "date": "2026-02-28",
+          "rank": 35,
+          "id": "6450258223",
+          "name": "しごと探しはジョブハウス",
+          "artistName": "Techouse inc.",
           "kind": "Business",
-          "releaseDate": "2025-03-06T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/85/6d/56856d8a-4c00-e6bc-5f45-67b7d0b47ff8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "releaseDate": "2023-09-24T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/85/5d/da855d7f-3583-0c8a-fe2b-48b6a0cbbdc5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%81%97%E3%81%94%E3%81%A8%E6%8E%A2%E3%81%97%E3%81%AF%E3%82%B8%E3%83%A7%E3%83%96%E3%83%8F%E3%82%A6%E3%82%B9/id6450258223?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 36,
+          "id": "307658513",
+          "name": "VIP Access for iPhone",
+          "artistName": "Symantec Enterprise Division, Broadcom Inc.",
+          "kind": "Business",
+          "releaseDate": "2009-06-23T13:13:50-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/18/36/a11836eb-34c2-76bf-f3e8-046208009adb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 51,
-          "id": "6739188703",
-          "name": "Rocket Now Partner:デリバリー＆セールス",
-          "artistName": "CP One Japan G.K.",
-          "kind": "Business",
-          "releaseDate": "2025-01-02T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/46/be/9246be0c-4c3e-c0c9-3f69-10ac12cbb0ac/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/rocket-now-partner-%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC-%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9/id6739188703?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 52,
-          "id": "618870677",
-          "name": "OfferBox 新卒就活オファー・スカウト 27卒/28卒",
-          "artistName": "i-plug inc.",
-          "kind": "Business",
-          "releaseDate": "2013-03-18T17:18:21-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/df/52/f2df522f-ebfc-2aeb-628c-b601d4b80447/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 53,
-          "id": "690441733",
-          "name": "ハローワークの仕事検索",
-          "artistName": "Tuclicks Inc.",
-          "kind": "Business",
-          "releaseDate": "2013-09-14T19:57:48-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/85/44/40854426-bc40-dbb0-fe0a-058652443265/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 54,
-          "id": "6479983775",
-          "name": "リクルートのハイクラス転職ならリクルートダイレクトスカウト",
+          "date": "2026-02-28",
+          "rank": 37,
+          "id": "1032580348",
+          "name": "転職はリクルートエージェント【ご登録者様向けアプリ】",
           "artistName": "Recruit Co.,Ltd.",
           "kind": "Business",
-          "releaseDate": "2024-04-14T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/45/f2/ef45f24a-6013-8231-0545-c32b4c1c1d0a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "releaseDate": "2015-09-25T10:28:09-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ce/a6/6ecea6b8-1f5d-a221-d7b2-b0dc13d26fd8/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 55,
-          "id": "990968756",
-          "name": "転職 ならエン転職 求人・仕事探しのアプリ",
-          "artistName": "en Japan Inc.",
+          "date": "2026-02-28",
+          "rank": 38,
+          "id": "1133898726",
+          "name": "求人検索 for ハローワーク｜就職や転職の求人、仕事探し",
+          "artistName": "Imple, Inc.",
           "kind": "Business",
-          "releaseDate": "2015-06-29T17:33:10-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/c7/cc/4fc7cc57-ee99-4717-201c-8670c7020462/AppIconProduction-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+          "releaseDate": "2016-09-07T08:36:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/e9/54/64e954e4-d3fc-b4a7-cdb1-2723b57c08d5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 56,
-          "id": "1495147544",
-          "name": "クロスアイディ",
-          "artistName": "xID Inc.",
+          "date": "2026-02-28",
+          "rank": 39,
+          "id": "1131342792",
+          "name": "Uber Driver - ドライバー用",
+          "artistName": "Uber Technologies, Inc.",
           "kind": "Business",
-          "releaseDate": "2020-04-15T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d7/5f/8dd75f89-235b-e62b-a020-a412d07f92a3/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "releaseDate": "2017-01-24T11:45:03-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/b0/3e/1fb03eb5-be11-49d1-e23b-fa4d5f70fabc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 57,
-          "id": "439572045",
-          "name": "PCM録音",
-          "artistName": "Kohei YASUI",
+          "date": "2026-02-28",
+          "rank": 40,
+          "id": "1459080258",
+          "name": "Cahoカレンダー　かわいいスケジュール帳カレンダー",
+          "artistName": "LAN CHEN",
           "kind": "Business",
-          "releaseDate": "2011-05-26T15:51:48-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/e3/ed/aae3ed94-ffc0-b2b5-df1d-623518cd8bfe/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "releaseDate": "2019-04-26T21:52:45-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/d2/75/20d2753b-9d67-7772-fff0-fa9af10594eb/AppIcon-caho-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 58,
-          "id": "979035814",
-          "name": "apseedsポータル",
-          "artistName": "apseeds inc.",
-          "kind": "Business",
-          "releaseDate": "2015-03-29T11:39:28-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ff/7a/7dff7abd-9167-7099-d2b5-8f95bd0fafba/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 59,
+          "date": "2026-02-28",
+          "rank": 41,
           "id": "719171358",
           "name": "Intune ポータル サイト",
           "artistName": "Microsoft Corporation",
@@ -669,8 +471,41 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 60,
+          "date": "2026-02-28",
+          "rank": 42,
+          "id": "971530839",
+          "name": "ワンキャリア 新卒就活アプリ",
+          "artistName": "ONE CAREER Inc.",
+          "kind": "Business",
+          "releaseDate": "2015-07-20T21:47:38-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/4e/1c/b74e1c5c-e58a-a488-3c3f-0fcdd9c69e74/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 43,
+          "id": "1603576427",
+          "name": "ジンジャー勤怠スタッフアプリ",
+          "artistName": "jinjer Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2022-02-06T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/fd/04/4cfd0471-7c51-f6ba-2ca6-843eb45cbf7b/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 44,
+          "id": "973447544",
+          "name": "スペースマーケット レンタルスペースアプリ",
+          "artistName": "Space Market, Inc.",
+          "kind": "Business",
+          "releaseDate": "2015-06-29T16:47:15-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/74/6c/0b746c31-845a-6f98-f1d3-cce0a5b57139/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88-%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA/id973447544?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 45,
           "id": "1037197002",
           "name": "freee人事労務：アプリで勤怠入力・給与明細閲覧",
           "artistName": "freee k.k.",
@@ -680,41 +515,8 @@
           "url": "https://apps.apple.com/jp/app/freee%E4%BA%BA%E4%BA%8B%E5%8A%B4%E5%8B%99-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E5%8B%A4%E6%80%A0%E5%85%A5%E5%8A%9B-%E7%B5%A6%E4%B8%8E%E6%98%8E%E7%B4%B0%E9%96%B2%E8%A6%A7/id1037197002?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 61,
-          "id": "1465684712",
-          "name": "GPS勤怠管理 for KING OF TIME【従業員用】",
-          "artistName": "HumanTechnologies, Inc",
-          "kind": "Business",
-          "releaseDate": "2020-07-27T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/bb/65/21bb652c-d229-726d-25f3-eba6c31261e5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 62,
-          "id": "1069753836",
-          "name": "『弥生 申告』アプリ",
-          "artistName": "yayoi",
-          "kind": "Business",
-          "releaseDate": "2016-01-21T16:42:14-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/df/32/2cdf32ba-0d49-d6d1-b2ca-20b8a7837624/IconShinkoku-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 63,
-          "id": "6476347522",
-          "name": "AEON STAFF ID アプリ",
-          "artistName": "AEON RETAIL Co.,Ltd",
-          "kind": "Business",
-          "releaseDate": "2024-02-26T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/c3/b7/fec3b70e-3b80-361d-9bfa-1ee78a55f3fd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 64,
+          "date": "2026-02-28",
+          "rank": 46,
           "id": "1352852886",
           "name": "楽楽精算",
           "artistName": "株式会社ラクス",
@@ -724,7 +526,205 @@
           "url": "https://apps.apple.com/jp/app/%E6%A5%BD%E6%A5%BD%E7%B2%BE%E7%AE%97/id1352852886?uo=2"
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
+          "rank": 47,
+          "id": "979035814",
+          "name": "apseedsポータル",
+          "artistName": "apseeds inc.",
+          "kind": "Business",
+          "releaseDate": "2015-03-29T11:39:28-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ff/7a/7dff7abd-9167-7099-d2b5-8f95bd0fafba/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 48,
+          "id": "1004291915",
+          "name": "メモ帳 - シンプルなメモ・ノートのメモ帳（めも帳のーと）",
+          "artistName": "Komorebi Inc.",
+          "kind": "Business",
+          "releaseDate": "2015-07-14T15:48:54-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/89/b2/1989b277-ecaa-4955-9929-5c550b0b9e30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 49,
+          "id": "990968756",
+          "name": "転職 ならエン転職 求人・仕事探しのアプリ",
+          "artistName": "en Japan Inc.",
+          "kind": "Business",
+          "releaseDate": "2015-06-29T17:33:10-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/c7/cc/4fc7cc57-ee99-4717-201c-8670c7020462/AppIconProduction-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 50,
+          "id": "6739188703",
+          "name": "Rocket Now Partner:デリバリー＆セールス",
+          "artistName": "CP One Japan G.K.",
+          "kind": "Business",
+          "releaseDate": "2025-01-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/46/be/9246be0c-4c3e-c0c9-3f69-10ac12cbb0ac/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/rocket-now-partner-%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC-%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9/id6739188703?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 51,
+          "id": "490179405",
+          "name": "Okta Verify",
+          "artistName": "Okta, Inc.",
+          "kind": "Business",
+          "releaseDate": "2012-01-06T11:59:32-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/eb/d0/70ebd06a-9916-d171-80ec-186d1332f85b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 52,
+          "id": "1465684712",
+          "name": "GPS勤怠管理 for KING OF TIME【従業員用】",
+          "artistName": "HumanTechnologies, Inc",
+          "kind": "Business",
+          "releaseDate": "2020-07-27T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/bb/65/21bb652c-d229-726d-25f3-eba6c31261e5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 53,
+          "id": "6479983775",
+          "name": "リクルートのハイクラス転職ならリクルートダイレクトスカウト",
+          "artistName": "Recruit Co.,Ltd.",
+          "kind": "Business",
+          "releaseDate": "2024-04-14T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/45/f2/ef45f24a-6013-8231-0545-c32b4c1c1d0a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 54,
+          "id": "1428501260",
+          "name": "OpenWork -就活にも転職にもオープンワーク-",
+          "artistName": "OpenWork Inc.",
+          "kind": "Business",
+          "releaseDate": "2019-07-02T22:40:55-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/f8/9a/fbf89a37-7a19-6f4d-a5d4-2f537a696fc4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 55,
+          "id": "1477436735",
+          "name": "SHARE LOUNGE",
+          "artistName": "Culture Convenience Club Co.,Ltd.",
+          "kind": "Business",
+          "releaseDate": "2019-10-23T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/25/48/0a254857-9154-331b-3847-33a001bd30c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 56,
+          "id": "6741190576",
+          "name": "キャリアアシスタント - AIとキャリア相談",
+          "artistName": "Indeed Inc.",
+          "kind": "Business",
+          "releaseDate": "2025-02-25T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ab/dd/18abddec-18a9-59e5-22d4-1066a168ad7a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 57,
+          "id": "1552340066",
+          "name": "AQ-Connect ランドリー",
+          "artistName": "AQUA Company Limited",
+          "kind": "Business",
+          "releaseDate": "2021-02-08T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/f0/12/e0f0125e-a1fe-7266-a301-7277f7dcbaf4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/aq-connect-%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC/id1552340066?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 58,
+          "id": "690441733",
+          "name": "ハローワークの仕事検索",
+          "artistName": "Tuclicks Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-09-14T19:57:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/85/44/40854426-bc40-dbb0-fe0a-058652443265/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 59,
+          "id": "1495147544",
+          "name": "クロスアイディ",
+          "artistName": "xID Inc.",
+          "kind": "Business",
+          "releaseDate": "2020-04-15T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d7/5f/8dd75f89-235b-e62b-a020-a412d07f92a3/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 60,
+          "id": "439572045",
+          "name": "PCM録音",
+          "artistName": "Kohei YASUI",
+          "kind": "Business",
+          "releaseDate": "2011-05-26T15:51:48-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/e3/ed/aae3ed94-ffc0-b2b5-df1d-623518cd8bfe/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 61,
+          "id": "335023774",
+          "name": "SAP Concur",
+          "artistName": "Concur",
+          "kind": "Business",
+          "releaseDate": "2009-10-29T13:18:49-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/8a/ffdf8a2a-fb6a-baf6-0fd0-19ab7260077d/AppIconConcur-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 62,
+          "id": "1375392167",
+          "name": "myBridge - サクッと名刺管理",
+          "artistName": "マイブリッジ株式会社",
+          "kind": "Business",
+          "releaseDate": "2018-05-13T16:17:05-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d5/19/bdd51958-8421-10fa-6671-7eb5e273f390/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 63,
+          "id": "570928413",
+          "name": "モノタロウ 現場を支えるネットストア",
+          "artistName": "MonotaRO Co.,Ltd.",
+          "kind": "Business",
+          "releaseDate": "2012-11-07T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/8d/a1/a28da1f3-7e79-f0cd-c69e-7dd44795026e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 64,
+          "id": "1047318566",
+          "name": "Power Apps",
+          "artistName": "Microsoft Corporation",
+          "kind": "Business",
+          "releaseDate": "2015-11-30T07:04:47-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8c/fd/a08cfdd3-fe7a-9968-b9bb-dae692d4556c/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
           "rank": 65,
           "id": "1239263735",
           "name": "【HRMOS勤怠】勤怠アプリ",
@@ -735,52 +735,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 66,
-          "id": "1574853748",
-          "name": "キャリアチケット就職スカウト｜インターン・就活面接オファー",
-          "artistName": "Leverages Co., Ltd.",
+          "id": "618870677",
+          "name": "OfferBox 新卒就活オファー・スカウト 27卒/28卒",
+          "artistName": "i-plug inc.",
           "kind": "Business",
-          "releaseDate": "2021-09-14T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/4e/e9/194ee929-78a8-254c-48d4-0e5f02ac3996/AppIcon-Production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "releaseDate": "2013-03-18T17:18:21-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/df/52/f2df522f-ebfc-2aeb-628c-b601d4b80447/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 67,
-          "id": "900259081",
-          "name": "Zoom Rooms",
-          "artistName": "Zoom Communications, Inc.",
-          "kind": "Business",
-          "releaseDate": "2022-01-10T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c8/17/f4c8174c-b16c-6e5b-e74f-f6b796159f62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 68,
-          "id": "1495934384",
-          "name": "就活は Lognavi（ログナビ）相性の良い企業が見つかる",
-          "artistName": "ASPARK Corporation",
-          "kind": "Business",
-          "releaseDate": "2020-02-02T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ea/0b/a9ea0b2b-4f62-69c1-7a73-c87ad4bca1fa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 69,
-          "id": "1375392167",
-          "name": "myBridge - サクッと名刺管理",
-          "artistName": "マイブリッジ株式会社",
-          "kind": "Business",
-          "releaseDate": "2018-05-13T16:17:05-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d5/19/bdd51958-8421-10fa-6671-7eb5e273f390/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 70,
           "id": "1459608402",
           "name": "はたLuck",
           "artistName": "HataLuck and Person Inc.",
@@ -790,29 +757,62 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 71,
-          "id": "6471487353",
-          "name": "転職 ならミドルの転職 35歳からの求人・スカウト転職アプリ",
-          "artistName": "en Japan Inc.",
+          "date": "2026-02-28",
+          "rank": 68,
+          "id": "6476347522",
+          "name": "AEON STAFF ID アプリ",
+          "artistName": "AEON RETAIL Co.,Ltd",
           "kind": "Business",
-          "releaseDate": "2024-03-24T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/7b/1a/497b1af1-35e2-fb58-0ace-b11353aeb4a6/prdAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%81%AA%E3%82%89%E3%83%9F%E3%83%89%E3%83%AB%E3%81%AE%E8%BB%A2%E8%81%B7-35%E6%AD%B3%E3%81%8B%E3%82%89%E3%81%AE%E6%B1%82%E4%BA%BA-%E3%82%B9%E3%82%AB%E3%82%A6%E3%83%88%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA/id6471487353?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 72,
-          "id": "1144836532",
-          "name": "就活アプリ ビズリーチ・キャンパス for Student",
-          "artistName": "BizReach, Inc.",
-          "kind": "Business",
-          "releaseDate": "2016-09-08T22:58:28-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/4c/95/c24c953f-adfe-5bd5-6ad6-c7dfb41b7ec6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "releaseDate": "2024-02-26T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/c3/b7/fec3b70e-3b80-361d-9bfa-1ee78a55f3fd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
+          "rank": 69,
+          "id": "1054252418",
+          "name": "FastNumber（ファストナンバー）",
+          "artistName": "TOPPAN Edge Inc.",
+          "kind": "Business",
+          "releaseDate": "2015-11-23T10:27:52-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/d5/5f/32d55f1e-c7ec-c12c-39fe-17dedc18f797/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 70,
+          "id": "6670784765",
+          "name": "LINE WORKS AiNote - 文字起こし・議事録",
+          "artistName": "LINE WORKS Corp.",
+          "kind": "Business",
+          "releaseDate": "2024-11-20T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f7/54/bff75453-2b7d-8b94-3605-26b61446b877/AppIconLineWorks-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/line-works-ainote-%E6%96%87%E5%AD%97%E8%B5%B7%E3%81%93%E3%81%97-%E8%AD%B0%E4%BA%8B%E9%8C%B2/id6670784765?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 71,
+          "id": "404249815",
+          "name": "Salesforce",
+          "artistName": "salesforce.com",
+          "kind": "Business",
+          "releaseDate": "2010-11-22T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/02/02/f9020290-6458-b3ac-4dd9-59fa65ce9022/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 72,
+          "id": "804727886",
+          "name": "Wantedly - 転職より気軽なマッチング",
+          "artistName": "Wantedly, Inc",
+          "kind": "Business",
+          "releaseDate": "2014-02-17T13:47:59-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f2/ab/f8f2aba2-6de7-937d-81e6-f37cb9ee4dc5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
           "rank": 73,
           "id": "1534095173",
           "name": "ビジネスマッチング - BizSPOT（ビズスポット）",
@@ -823,8 +823,41 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 74,
+          "id": "900259081",
+          "name": "Zoom Rooms",
+          "artistName": "Zoom Communications, Inc.",
+          "kind": "Business",
+          "releaseDate": "2022-01-10T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c8/17/f4c8174c-b16c-6e5b-e74f-f6b796159f62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 75,
+          "id": "6738050645",
+          "name": "FOODEX JAPAN",
+          "artistName": "Japan Management Association",
+          "kind": "Business",
+          "releaseDate": "2024-11-27T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/69/73/ee697361-cd4a-4e5e-bc01-a104013f98e5/AppIconFoodex-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/foodex-japan/id6738050645?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 76,
+          "id": "787058108",
+          "name": "Sansan – ビジネスデータベース",
+          "artistName": "Sansan, Inc.",
+          "kind": "Business",
+          "releaseDate": "2014-02-13T22:14:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/7f/53/9b7f5312-64af-33a1-d064-0f8ff0030186/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 77,
           "id": "1331949158",
           "name": "ランサーズ｜副業・在宅ワークでスキルを活かしてお金を稼ぐなら",
           "artistName": "Lancers,inc",
@@ -834,30 +867,30 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 75,
-          "id": "804727886",
-          "name": "Wantedly - 転職より気軽なマッチング",
-          "artistName": "Wantedly, Inc",
+          "date": "2026-02-28",
+          "rank": 78,
+          "id": "1069753836",
+          "name": "『弥生 申告』アプリ",
+          "artistName": "yayoi",
           "kind": "Business",
-          "releaseDate": "2014-02-17T13:47:59-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f2/ab/f8f2aba2-6de7-937d-81e6-f37cb9ee4dc5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "releaseDate": "2016-01-21T16:42:14-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/df/32/2cdf32ba-0d49-d6d1-b2ca-20b8a7837624/IconShinkoku-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 76,
-          "id": "669362042",
-          "name": "WowTalk -ワウトーク-",
-          "artistName": "KINGSOFT Japan Inc.",
+          "date": "2026-02-28",
+          "rank": 79,
+          "id": "1574853748",
+          "name": "キャリアチケット就職スカウト｜インターン・就活面接オファー",
+          "artistName": "Leverages Co., Ltd.",
           "kind": "Business",
-          "releaseDate": "2013-07-18T21:52:35-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/b8/f1/60b8f18e-29f5-e60d-0c72-35695a775513/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "releaseDate": "2021-09-14T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/4e/e9/194ee929-78a8-254c-48d4-0e5f02ac3996/AppIcon-Production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 77,
+          "date": "2026-02-28",
+          "rank": 80,
           "id": "514643583",
           "name": "Meta Business Suite",
           "artistName": "Meta Platforms, Inc.",
@@ -867,140 +900,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 78,
-          "id": "6670784765",
-          "name": "LINE WORKS AiNote - 文字起こし・議事録",
-          "artistName": "LINE WORKS Corp.",
-          "kind": "Business",
-          "releaseDate": "2024-11-20T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f7/54/bff75453-2b7d-8b94-3605-26b61446b877/AppIconLineWorks-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/line-works-ainote-%E6%96%87%E5%AD%97%E8%B5%B7%E3%81%93%E3%81%97-%E8%AD%B0%E4%BA%8B%E9%8C%B2/id6670784765?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 79,
-          "id": "6535669283",
-          "name": "AIジョブサーチ-転職・バイト探しのAIアシスタント",
-          "artistName": "株式会社Carat",
-          "kind": "Business",
-          "releaseDate": "2024-08-01T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/0c/18/120c1823-8cc3-afe8-bf73-1caa40ad1d1c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/ai%E3%82%B8%E3%83%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%81-%E8%BB%A2%E8%81%B7-%E3%83%90%E3%82%A4%E3%83%88%E6%8E%A2%E3%81%97%E3%81%AEai%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id6535669283?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 80,
-          "id": "1440563214",
-          "name": "就活会議 ES・面接・口コミ体験談で選考対策できる就活アプリ",
-          "artistName": "SHUKATSUKAIGI K.K.",
-          "kind": "Business",
-          "releaseDate": "2019-01-15T07:08:47-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e7/5b/2be75ba6-c0fe-ecae-c1ce-c40b448c3192/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 81,
-          "id": "422663827",
-          "name": "Duo Mobile",
-          "artistName": "Duo Security LLC",
-          "kind": "Business",
-          "releaseDate": "2011-04-05T20:03:56-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/c4/b1/f1c4b12b-3d66-fb6e-fe28-d9644e746faa/AppIconGlass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 82,
-          "id": "1184815872",
-          "name": "弥生 レシート取込: 弥生会計製品専用のレシート取込アプリ",
-          "artistName": "yayoi",
-          "kind": "Business",
-          "releaseDate": "2016-12-20T16:28:52-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d9/d7/3dd9d7d5-0180-45a5-d92a-657ded7e3e56/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 83,
-          "id": "1480480873",
-          "name": "転職なら女の転職type 女性のための求人・仕事探しのアプリ",
-          "artistName": "Career Design Center Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2019-10-07T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/3b/57/fb3b5736-0396-4fcc-e50f-08090e0096ae/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 84,
-          "id": "335023774",
-          "name": "SAP Concur",
-          "artistName": "Concur",
-          "kind": "Business",
-          "releaseDate": "2009-10-29T13:18:49-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/8a/ffdf8a2a-fb6a-baf6-0fd0-19ab7260077d/AppIconConcur-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 85,
-          "id": "335393788",
-          "name": "Square POSレジ",
-          "artistName": "Block, Inc.",
-          "kind": "Business",
-          "releaseDate": "2013-05-22T22:13:36-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/28/ee/a528ee03-d4da-0e9f-6015-e1a65d328a0c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/square-pos%E3%83%AC%E3%82%B8/id335393788?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 86,
-          "id": "490179405",
-          "name": "Okta Verify",
-          "artistName": "Okta, Inc.",
-          "kind": "Business",
-          "releaseDate": "2012-01-06T11:59:32-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/eb/d0/70ebd06a-9916-d171-80ec-186d1332f85b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 87,
-          "id": "994797520",
-          "name": "複数カウンター",
-          "artistName": "EIICHI KOMINE",
-          "kind": "Business",
-          "releaseDate": "2015-06-04T00:38:35-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/bb/de/0fbbde15-17e9-9d1e-2d13-9381650c1400/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 88,
-          "id": "1434637772",
-          "name": "instabase（インスタベース）",
-          "artistName": "株式会社Rebase",
-          "kind": "Business",
-          "releaseDate": "2018-09-25T06:06:26-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e0/25/27e0256a-5bad-881e-3ab2-6a85a9f2c7de/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 89,
-          "id": "1569901170",
-          "name": "表作成 - 表メモ・表作成ができるメモ帳",
-          "artistName": "WEBDIA INC.",
-          "kind": "Business",
-          "releaseDate": "2021-06-03T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/8d/63/b48d6337-34c6-d3e4-fd99-d81a4773f894/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 90,
           "id": "1452166623",
           "name": "Lark - Work, Together",
           "artistName": "LARK TECHNOLOGIES PTE. LTD.",
@@ -1010,8 +911,162 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
+          "rank": 82,
+          "id": "1440563214",
+          "name": "就活会議 ES・面接・口コミ体験談で選考対策できる就活アプリ",
+          "artistName": "SHUKATSUKAIGI K.K.",
+          "kind": "Business",
+          "releaseDate": "2019-01-15T07:08:47-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e7/5b/2be75ba6-c0fe-ecae-c1ce-c40b448c3192/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 83,
+          "id": "6471487353",
+          "name": "転職 ならミドルの転職 35歳からの求人・スカウト転職アプリ",
+          "artistName": "en Japan Inc.",
+          "kind": "Business",
+          "releaseDate": "2024-03-24T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/7b/1a/497b1af1-35e2-fb58-0ace-b11353aeb4a6/prdAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%81%AA%E3%82%89%E3%83%9F%E3%83%89%E3%83%AB%E3%81%AE%E8%BB%A2%E8%81%B7-35%E6%AD%B3%E3%81%8B%E3%82%89%E3%81%AE%E6%B1%82%E4%BA%BA-%E3%82%B9%E3%82%AB%E3%82%A6%E3%83%88%E8%BB%A2%E8%81%B7%E3%82%A2%E3%83%97%E3%83%AA/id6471487353?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 84,
+          "id": "782057975",
+          "name": "Salesforce Authenticator",
+          "artistName": "salesforce.com",
+          "kind": "Business",
+          "releaseDate": "2014-01-08T10:29:27-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/f9/99/b9f999b6-14c8-ab98-ad54-ec94eb9f6845/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 85,
+          "id": "669362042",
+          "name": "WowTalk -ワウトーク-",
+          "artistName": "KINGSOFT Japan Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-07-18T21:52:35-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/b8/f1/60b8f18e-29f5-e60d-0c72-35695a775513/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 86,
+          "id": "1480480873",
+          "name": "転職なら女の転職type 女性のための求人・仕事探しのアプリ",
+          "artistName": "Career Design Center Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2019-10-07T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/3b/57/fb3b5736-0396-4fcc-e50f-08090e0096ae/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 87,
+          "id": "1144836532",
+          "name": "就活アプリ ビズリーチ・キャンパス for Student",
+          "artistName": "BizReach, Inc.",
+          "kind": "Business",
+          "releaseDate": "2016-09-08T22:58:28-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/4c/95/c24c953f-adfe-5bd5-6ad6-c7dfb41b7ec6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 88,
+          "id": "335393788",
+          "name": "Square POSレジ",
+          "artistName": "Block, Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-05-22T22:13:36-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/28/ee/a528ee03-d4da-0e9f-6015-e1a65d328a0c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/square-pos%E3%83%AC%E3%82%B8/id335393788?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 89,
+          "id": "422663827",
+          "name": "Duo Mobile",
+          "artistName": "Duo Security LLC",
+          "kind": "Business",
+          "releaseDate": "2011-04-05T20:03:56-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/c4/b1/f1c4b12b-3d66-fb6e-fe28-d9644e746faa/AppIconGlass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 90,
+          "id": "1531826507",
+          "name": "奉行Edge 勤怠管理クラウド",
+          "artistName": "OBIC BUSINESS CONSULTANTS CO., LTD.",
+          "kind": "Business",
+          "releaseDate": "2020-10-08T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/7e/2a/877e2a87-7a01-92b2-83fb-5366cd08f9fc/iosicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
           "rank": 91,
+          "id": "1495934384",
+          "name": "就活は Lognavi（ログナビ）相性の良い企業が見つかる",
+          "artistName": "ASPARK Corporation",
+          "kind": "Business",
+          "releaseDate": "2020-02-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ea/0b/a9ea0b2b-4f62-69c1-7a73-c87ad4bca1fa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 92,
+          "id": "573394739",
+          "name": "エマージェンシーコール（EMC）-安否確認",
+          "artistName": "INFOCOM CORPORATION",
+          "kind": "Business",
+          "releaseDate": "2012-11-07T09:48:26-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/74/7e/52747e7b-8d68-2a05-a0a9-7c9b5286641a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%9E%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%AB-emc-%E5%AE%89%E5%90%A6%E7%A2%BA%E8%AA%8D/id573394739?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 93,
+          "id": "6739935546",
+          "name": "SmartPrinter：写真そして PDF 書類印刷アプリ",
+          "artistName": "FirstOrder.AI",
+          "kind": "Business",
+          "releaseDate": "2025-04-15T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d3/80/d9d38092-01e7-b128-6b08-d7b2e9e6008f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/smartprinter-%E5%86%99%E7%9C%9F%E3%81%9D%E3%81%97%E3%81%A6-pdf-%E6%9B%B8%E9%A1%9E%E5%8D%B0%E5%88%B7%E3%82%A2%E3%83%97%E3%83%AA/id6739935546?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 94,
+          "id": "6472029419",
+          "name": "ID Card Holder",
+          "artistName": "NEC Corporation",
+          "kind": "Business",
+          "releaseDate": "2023-12-26T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/4f/3f/4a4f3f93-29a8-55d6-9cc4-2ec045bf4764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 95,
+          "id": "732548900",
+          "name": "AppSheet",
+          "artistName": "Solvebot Inc.",
+          "kind": "Business",
+          "releaseDate": "2013-10-31T17:01:33-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/66/09/3c660988-8ec7-7a7a-3611-23f66952c9a4/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 96,
           "id": "1575194801",
           "name": "Scan Shot: 文書をスキャンしてPDFに変換する",
           "artistName": "Scanner App PDF Tool",
@@ -1021,108 +1076,53 @@
           "url": "https://apps.apple.com/jp/app/scan-shot-%E6%96%87%E6%9B%B8%E3%82%92%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%81%97%E3%81%A6pdf%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/id1575194801?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 92,
-          "id": "1405318611",
-          "name": "パトアルアプリ",
-          "artistName": "GULFNET CO., LTD.",
-          "kind": "Business",
-          "releaseDate": "2018-08-03T03:57:11-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/fe/ee/cffeeefb-b12c-0d91-b151-24eacb2c4962/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 93,
-          "id": "1454725763",
-          "name": "Amazon Flex",
-          "artistName": "AMZN Mobile LLC",
-          "kind": "Business",
-          "releaseDate": "2019-06-18T15:33:52-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/75/97/42759790-7e2c-75ee-cbe1-a53ff6a3355c/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 94,
-          "id": "1386412985",
-          "name": "WhatsApp Business",
-          "artistName": "WhatsApp Inc.",
-          "kind": "Business",
-          "releaseDate": "2019-04-10T02:49:03-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/41/e1/5341e1a1-23af-a363-1b65-12ff98667b35/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 95,
-          "id": "1508130215",
-          "name": "e-NINSHO公的個人認証アプリ",
-          "artistName": "Nomura Research Institute, Ltd.",
-          "kind": "Business",
-          "releaseDate": "2020-07-07T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/56/e8/b456e8d4-6a60-6b41-2e39-f6fb9ef7abf7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 96,
-          "id": "1054252418",
-          "name": "FastNumber（ファストナンバー）",
-          "artistName": "TOPPAN Edge Inc.",
-          "kind": "Business",
-          "releaseDate": "2015-11-23T10:27:52-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/d5/5f/32d55f1e-c7ec-c12c-39fe-17dedc18f797/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 97,
-          "id": "1535785012",
-          "name": "YOUTRUST（ユートラスト）働くあなたのSNS",
-          "artistName": "株式会社YOUTRUST",
+          "id": "954570581",
+          "name": "Udemy Business",
+          "artistName": "Udemy",
           "kind": "Business",
-          "releaseDate": "2021-04-11T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/0f/81/060f81a9-40c1-2ccd-1ca8-927082d5e74d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/youtrust-%E3%83%A6%E3%83%BC%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88-%E5%83%8D%E3%81%8F%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AEsns/id1535785012?uo=2"
+          "releaseDate": "2015-03-27T13:57:16-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/66/ac/8a66ac6c-f6c5-785d-77e5-0fbeaf61f752/UFBIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+          "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 98,
-          "id": "1587281501",
-          "name": "短期・単発バイトの日払いのアルバイト探しはデイワークス",
-          "artistName": "DAY WORKS, K.K.",
+          "id": "6499132229",
+          "name": "バクラク申請・経費精算-スマホで申請・承認",
+          "artistName": "LayerX, Inc",
           "kind": "Business",
-          "releaseDate": "2021-10-10T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/13/ae/f413ae80-f1fa-d3e5-482e-c26bfaeef362/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2024-09-16T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/c4/81/28c48125-b30e-c01b-a8a0-b710f2925d12/AppIcon-prd-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%82%AF%E3%83%A9%E3%82%AF%E7%94%B3%E8%AB%8B-%E7%B5%8C%E8%B2%BB%E7%B2%BE%E7%AE%97-%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A7%E7%94%B3%E8%AB%8B-%E6%89%BF%E8%AA%8D/id6499132229?uo=2"
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 99,
-          "id": "404249815",
-          "name": "Salesforce",
-          "artistName": "salesforce.com",
+          "id": "6535669283",
+          "name": "AIジョブサーチ-転職・バイト探しのAIアシスタント",
+          "artistName": "株式会社Carat",
           "kind": "Business",
-          "releaseDate": "2010-11-22T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/02/02/f9020290-6458-b3ac-4dd9-59fa65ce9022/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-          "url": ""
+          "releaseDate": "2024-08-01T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/0c/18/120c1823-8cc3-afe8-bf73-1caa40ad1d1c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/ai%E3%82%B8%E3%83%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%81-%E8%BB%A2%E8%81%B7-%E3%83%90%E3%82%A4%E3%83%88%E6%8E%A2%E3%81%97%E3%81%AEai%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id6535669283?uo=2"
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 100,
-          "id": "732548900",
-          "name": "AppSheet",
-          "artistName": "Solvebot Inc.",
+          "id": "1604397054",
+          "name": "転職 ならエンゲージ 求人 仕事探し の 社員 転職アプリ",
+          "artistName": "en Japan Inc.",
           "kind": "Business",
-          "releaseDate": "2013-10-31T17:01:33-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/66/09/3c660988-8ec7-7a7a-3611-23f66952c9a4/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+          "releaseDate": "2022-11-14T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/b6/8e/a9b68e01-20a0-54bc-79ad-02cd3d44d829/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
           "url": ""
         }
       ]
     },
     {
-      "date": "2026-03-01",
+      "date": "2026-02-28",
       "country": "jp",
       "mediaType": "apps",
       "feedType": "top-paid",
@@ -1132,19 +1132,8 @@
       "total": 99,
       "items": [
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 1,
-          "id": "963570332",
-          "name": "請求書 見積書 かんたん作成の新定番 SmartForm",
-          "artistName": "whitez",
-          "kind": "Business",
-          "releaseDate": "2015-02-18T22:52:33-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/6c/eb/616ceb37-aa2e-a59a-d3f7-ba987d11996d/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 2,
           "id": "342548956",
           "name": "ターボスキャンプロ",
           "artistName": "Piksoft Inc.",
@@ -1154,7 +1143,18 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
+          "rank": 2,
+          "id": "963570332",
+          "name": "請求書 見積書 かんたん作成の新定番 SmartForm",
+          "artistName": "whitez",
+          "kind": "Business",
+          "releaseDate": "2015-02-18T22:52:33-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/6c/eb/616ceb37-aa2e-a59a-d3f7-ba987d11996d/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
           "rank": 3,
           "id": "364876095",
           "name": "Jump Desktop (RDP, VNC, Fluid)",
@@ -1165,129 +1165,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 4,
-          "id": "288362053",
-          "name": "Remote Desktop - RDP",
-          "artistName": "MochaSoft",
-          "kind": "Business",
-          "releaseDate": "2019-02-12T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/8f/e1/238fe1a3-1d96-c23d-3335-e363b5ac5882/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 5,
-          "id": "525311993",
-          "name": "PCM録音 Pro",
-          "artistName": "Kohei YASUI",
-          "kind": "Business",
-          "releaseDate": "2012-05-15T08:57:21-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/89/77/07/897707fe-fba8-82a3-26bc-a8a50c6e0b5b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 6,
-          "id": "498425561",
-          "name": "Alon Dictaphone-音声レコーダー＆ボイスメモ",
-          "artistName": "ALON Software",
-          "kind": "Business",
-          "releaseDate": "2012-02-06T11:26:47-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/a8/9b/fca89b03-2961-7a5c-7122-711a45567295/AppIconPro-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 7,
-          "id": "782925902",
-          "name": "シフト表 - 勤務シフト表を自動で作成",
-          "artistName": "Kazuma Yamashita",
-          "kind": "Business",
-          "releaseDate": "2014-01-06T16:39:15-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/34/5d/3f/345d3f70-7098-415c-281c-43842fd60f6b/AppIcon-0-1x_U007emarketing-0-0-85-220-2.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 8,
-          "id": "1084143351",
-          "name": "Tap Forms Organizer 5 Database",
-          "artistName": "Tap Zapp Software Inc.",
-          "kind": "Business",
-          "releaseDate": "2016-08-19T21:58:45-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/50/f3/e150f308-13f9-5224-2749-7d7873765992/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 9,
-          "id": "6742638678",
-          "name": "イヤホン時のみアラーム",
-          "artistName": "SHUNJI KUSAKA",
-          "kind": "Business",
-          "releaseDate": "2025-03-02T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/07/38/3a073853-2ccd-edef-4b11-ab3c4ee57fdf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E6%99%82%E3%81%AE%E3%81%BF%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0/id6742638678?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 10,
-          "id": "1484155047",
-          "name": "FastEver 3",
-          "artistName": "Rakko Inc.",
-          "kind": "Business",
-          "releaseDate": "2019-10-22T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/19/e4/1519e437-7e11-06d8-3e12-ee075aa39463/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 11,
-          "id": "1660352820",
-          "name": "UAV 飛行日誌 (UAV Flight Log)",
-          "artistName": "Gaku Sakai",
-          "kind": "Business",
-          "releaseDate": "2022-12-19T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6b/38/ba6b38bc-87f5-40b1-eb40-d3cd0ef1e987/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 12,
-          "id": "368477936",
-          "name": "nPOP",
-          "artistName": "日本アルゴリズム株式会社",
-          "kind": "Business",
-          "releaseDate": "2010-04-24T16:34:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/22/7d/57227d09-0743-9032-3ca3-f695df925a23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 13,
-          "id": "1441926695",
-          "name": "おとノート PRO : AI録音アプリ 会議録・講義録音",
-          "artistName": "Newkline Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2018-11-16T02:57:22-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/2d/27/442d271d-18dd-7ab9-e8e4-094714d87410/AppIcon-PRO-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 14,
-          "id": "1190640167",
-          "name": "Block Ad Pro - しっかり広告ブロックアプリ",
-          "artistName": "Emanuele Floris",
-          "kind": "Business",
-          "releaseDate": "2017-01-06T09:37:10-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/54/06/a95406b8-1ef4-f09d-88ed-fa870ccf2d49/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/block-ad-pro-%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA/id1190640167?uo=2"
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 15,
           "id": "854618029",
           "name": "FileBrowser Professional",
           "artistName": "Stratospherix Ltd",
@@ -1297,8 +1176,52 @@
           "url": "https://apps.apple.com/jp/app/filebrowser-professional/id854618029?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 16,
+          "date": "2026-02-28",
+          "rank": 5,
+          "id": "498425561",
+          "name": "Alon Dictaphone-音声レコーダー＆ボイスメモ",
+          "artistName": "ALON Software",
+          "kind": "Business",
+          "releaseDate": "2012-02-06T11:26:47-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/a8/9b/fca89b03-2961-7a5c-7122-711a45567295/AppIconPro-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 6,
+          "id": "1084143351",
+          "name": "Tap Forms Organizer 5 Database",
+          "artistName": "Tap Zapp Software Inc.",
+          "kind": "Business",
+          "releaseDate": "2016-08-19T21:58:45-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/50/f3/e150f308-13f9-5224-2749-7d7873765992/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 7,
+          "id": "6742638678",
+          "name": "イヤホン時のみアラーム",
+          "artistName": "SHUNJI KUSAKA",
+          "kind": "Business",
+          "releaseDate": "2025-03-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/07/38/3a073853-2ccd-edef-4b11-ab3c4ee57fdf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E6%99%82%E3%81%AE%E3%81%BF%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0/id6742638678?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 8,
+          "id": "1484155047",
+          "name": "FastEver 3",
+          "artistName": "Rakko Inc.",
+          "kind": "Business",
+          "releaseDate": "2019-10-22T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/19/e4/1519e437-7e11-06d8-3e12-ee075aa39463/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 9,
           "id": "522627917",
           "name": "FTPManager Pro",
           "artistName": "Skyjos Co., Ltd.",
@@ -1308,8 +1231,30 @@
           "url": "https://apps.apple.com/jp/app/ftpmanager-pro/id522627917?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 17,
+          "date": "2026-02-28",
+          "rank": 10,
+          "id": "1660352820",
+          "name": "UAV 飛行日誌 (UAV Flight Log)",
+          "artistName": "Gaku Sakai",
+          "kind": "Business",
+          "releaseDate": "2022-12-19T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6b/38/ba6b38bc-87f5-40b1-eb40-d3cd0ef1e987/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 11,
+          "id": "525311993",
+          "name": "PCM録音 Pro",
+          "artistName": "Kohei YASUI",
+          "kind": "Business",
+          "releaseDate": "2012-05-15T08:57:21-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/89/77/07/897707fe-fba8-82a3-26bc-a8a50c6e0b5b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 12,
           "id": "1074615781",
           "name": "TSR企業検索 for iPhone",
           "artistName": "TOKYO SHOKO RESEARCH, LTD.",
@@ -1319,8 +1264,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 18,
+          "date": "2026-02-28",
+          "rank": 13,
           "id": "475987733",
           "name": "Cal2Todo",
           "artistName": "Yasuko Shikiuchi",
@@ -1330,8 +1275,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 19,
+          "date": "2026-02-28",
+          "rank": 14,
           "id": "699434089",
           "name": "QuickPlan - Project Gantt Plan",
           "artistName": "皓 李",
@@ -1341,8 +1286,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 20,
+          "date": "2026-02-28",
+          "rank": 15,
           "id": "1586345792",
           "name": "履歴書作成くん",
           "artistName": "kohei yamane",
@@ -1352,8 +1297,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 21,
+          "date": "2026-02-28",
+          "rank": 16,
           "id": "1068910439",
           "name": "i在庫管理",
           "artistName": "39Software",
@@ -1363,85 +1308,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 22,
-          "id": "337702869",
-          "name": "WorldCard Mobile - 名刺認識管理",
-          "artistName": "Penpower Technology Ltd.",
-          "kind": "Business",
-          "releaseDate": "2009-11-19T17:56:36-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/9a/4e/319a4e9b-b275-f32c-0b7a-b054d02788b0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 23,
-          "id": "307868751",
-          "name": "JotNotスキャナアプリプロ",
-          "artistName": "MobiTech 3000 LLC",
-          "kind": "Business",
-          "releaseDate": "2009-03-26T19:06:34-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7a/2a/ba/7a2abab1-e2b0-d867-e421-e471d3a54ba1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 24,
-          "id": "373045717",
-          "name": "Voice Recorder HD",
-          "artistName": "eFUSION Co., Ltd.",
-          "kind": "Business",
-          "releaseDate": "2010-05-27T19:17:08-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/30/86/b73086ce-8cfc-c44a-5264-7db73f2adb61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 25,
-          "id": "362055656",
-          "name": "Biz.Cards",
-          "artistName": "NagisaWorks, K.K.",
-          "kind": "Business",
-          "releaseDate": "2010-03-19T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/61/79/fb/6179fb28-2883-ac45-a65f-9d25ea4666be/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.jpeg/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 26,
-          "id": "379262343",
-          "name": "SA 連絡先",
-          "artistName": "ShenZhen SamApp Technology Development Co., Ltd",
-          "kind": "Business",
-          "releaseDate": "2010-07-01T10:59:09-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/14/c9/b714c9e2-ce79-0a2a-a467-e3e87f248296/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 27,
-          "id": "577499909",
-          "name": "TapeACall Pro: 通話録音",
-          "artistName": "Mosaic S.r.l.",
-          "kind": "Business",
-          "releaseDate": "2013-01-23T10:17:38-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 28,
-          "id": "285750155",
-          "name": "iRecorder Pro プロ仕様のボイスレコーダー",
-          "artistName": "SIMPLETOUCH LLC",
-          "kind": "Business",
-          "releaseDate": "2019-02-12T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/8a/2a/6e8a2a40-642f-d0a3-da16-afdab1456662/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 29,
+          "date": "2026-02-28",
+          "rank": 17,
           "id": "382005326",
           "name": "G連絡先 - グループ管理",
           "artistName": "EJing",
@@ -1451,7 +1319,139 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
+          "rank": 18,
+          "id": "595620577",
+          "name": "商談即決　〜営業電卓〜",
+          "artistName": "System Approach",
+          "kind": "Business",
+          "releaseDate": "2013-01-30T17:59:51-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/71/0f/45710f21-67ea-33ae-47e5-ccdacdacd7d4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 19,
+          "id": "756850885",
+          "name": "旋削回転送りPro",
+          "artistName": "Tetsuya Morikawa",
+          "kind": "Business",
+          "releaseDate": "2013-11-22T15:50:29-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/50/de/2250de2f-85af-07c4-a048-cbbcab6a2e2f/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 20,
+          "id": "6749324138",
+          "name": "副業収支管理",
+          "artistName": "kaisei watanabe",
+          "kind": "Business",
+          "releaseDate": "2025-08-09T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ca/ff/13caff13-08ec-efbc-53b1-5c5928b1ec1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/jp/app/%E5%89%AF%E6%A5%AD%E5%8F%8E%E6%94%AF%E7%AE%A1%E7%90%86/id6749324138?uo=2"
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 21,
+          "id": "1537702817",
+          "name": "クレーン デリック運転士 2024年10月",
+          "artistName": "TAKARA License 株式会社",
+          "kind": "Business",
+          "releaseDate": "2020-11-02T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/60/a9/7260a983-a3c4-830d-1682-cd040886e56d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 22,
+          "id": "1073321854",
+          "name": "介護電卓",
+          "artistName": "39Software",
+          "kind": "Business",
+          "releaseDate": "2016-01-23T11:08:28-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/61/a3/5661a321-98d2-c486-7dfb-182ede116c83/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 23,
+          "id": "337702869",
+          "name": "WorldCard Mobile - 名刺認識管理",
+          "artistName": "Penpower Technology Ltd.",
+          "kind": "Business",
+          "releaseDate": "2009-11-19T17:56:36-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/9a/4e/319a4e9b-b275-f32c-0b7a-b054d02788b0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 24,
+          "id": "307868751",
+          "name": "JotNotスキャナアプリプロ",
+          "artistName": "MobiTech 3000 LLC",
+          "kind": "Business",
+          "releaseDate": "2009-03-26T19:06:34-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7a/2a/ba/7a2abab1-e2b0-d867-e421-e471d3a54ba1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 25,
+          "id": "373045717",
+          "name": "Voice Recorder HD",
+          "artistName": "eFUSION Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2010-05-27T19:17:08-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/30/86/b73086ce-8cfc-c44a-5264-7db73f2adb61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 26,
+          "id": "362055656",
+          "name": "Biz.Cards",
+          "artistName": "NagisaWorks, K.K.",
+          "kind": "Business",
+          "releaseDate": "2010-03-19T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/61/79/fb/6179fb28-2883-ac45-a65f-9d25ea4666be/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.jpeg/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 27,
+          "id": "379262343",
+          "name": "SA 連絡先",
+          "artistName": "ShenZhen SamApp Technology Development Co., Ltd",
+          "kind": "Business",
+          "releaseDate": "2010-07-01T10:59:09-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/14/c9/b714c9e2-ce79-0a2a-a467-e3e87f248296/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 28,
+          "id": "577499909",
+          "name": "TapeACall Pro: 通話録音",
+          "artistName": "Mosaic S.r.l.",
+          "kind": "Business",
+          "releaseDate": "2013-01-23T10:17:38-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 29,
+          "id": "285750155",
+          "name": "iRecorder Pro プロ仕様のボイスレコーダー",
+          "artistName": "SIMPLETOUCH LLC",
+          "kind": "Business",
+          "releaseDate": "2019-02-12T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/8a/2a/6e8a2a40-642f-d0a3-da16-afdab1456662/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
           "rank": 30,
           "id": "1229437714",
           "name": "音声をテキストに変換する - Speechy",
@@ -1462,7 +1462,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 31,
           "id": "576443892",
           "name": "InstaLogo ロゴクリエーター ＆ メーカー",
@@ -1473,7 +1473,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 32,
           "id": "892393815",
           "name": "ボイスレコーダー - AVR PRO",
@@ -1484,7 +1484,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 33,
           "id": "338550388",
           "name": "Audio Memos",
@@ -1495,8 +1495,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 34,
+          "id": "368477936",
+          "name": "nPOP",
+          "artistName": "日本アルゴリズム株式会社",
+          "kind": "Business",
+          "releaseDate": "2010-04-24T16:34:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/22/7d/57227d09-0743-9032-3ca3-f695df925a23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 35,
           "id": "1135811739",
           "name": "ファックス FAX: 携帯電話からファックスを送信",
           "artistName": "BPMobile",
@@ -1506,8 +1517,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 35,
+          "date": "2026-02-28",
+          "rank": 36,
           "id": "295798315",
           "name": "ドキュメント",
           "artistName": "Savy Soda Pty Ltd",
@@ -1517,8 +1528,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 36,
+          "date": "2026-02-28",
+          "rank": 37,
           "id": "409586727",
           "name": "為替情報",
           "artistName": "EJing",
@@ -1528,8 +1539,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 37,
+          "date": "2026-02-28",
+          "rank": 38,
           "id": "401818935",
           "name": "Genius Scan Enterprise - PDF",
           "artistName": "The Grizzly Labs",
@@ -1539,8 +1550,8 @@
           "url": "https://apps.apple.com/jp/app/genius-scan-enterprise-pdf/id401818935?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 38,
+          "date": "2026-02-28",
+          "rank": 39,
           "id": "530058716",
           "name": "BusinessCardDesigner - 名刺作成ソフト、テンプレート with PDF, AirPrint and email function",
           "artistName": "Katsushi Nakano",
@@ -1550,8 +1561,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 39,
+          "date": "2026-02-28",
+          "rank": 40,
           "id": "377193830",
           "name": "eProjector",
           "artistName": "Microtech Corp.",
@@ -1561,18 +1572,7 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 40,
-          "id": "284981670",
-          "name": "Mocha VNC",
-          "artistName": "MochaSoft",
-          "kind": "Business",
-          "releaseDate": "2019-02-11T00:00:00-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/1d/49/421d4926-6acb-c769-2d2e-2132bdc136da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 41,
           "id": "412366083",
           "name": "CameraVision",
@@ -1583,8 +1583,30 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "rank": 42,
+          "id": "284981670",
+          "name": "Mocha VNC",
+          "artistName": "MochaSoft",
+          "kind": "Business",
+          "releaseDate": "2019-02-11T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/1d/49/421d4926-6acb-c769-2d2e-2132bdc136da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 43,
+          "id": "782925902",
+          "name": "シフト表 - 勤務シフト表を自動で作成",
+          "artistName": "Kazuma Yamashita",
+          "kind": "Business",
+          "releaseDate": "2014-01-06T16:39:15-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/34/5d/3f/345d3f70-7098-415c-281c-43842fd60f6b/AppIcon-0-1x_U007emarketing-0-0-85-220-2.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 44,
           "id": "503457834",
           "name": "日数カウンター Pro",
           "artistName": "EIICHI KOMINE",
@@ -1594,8 +1616,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 43,
+          "date": "2026-02-28",
+          "rank": 45,
           "id": "391462107",
           "name": "Offline Pages Pro",
           "artistName": "Codium Labs LLC",
@@ -1605,8 +1627,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 44,
+          "date": "2026-02-28",
+          "rank": 46,
           "id": "327765413",
           "name": "ABFixer",
           "artistName": "TechKnowledge",
@@ -1616,8 +1638,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 45,
+          "date": "2026-02-28",
+          "rank": 47,
           "id": "285877935",
           "name": "QuickVoice2Text Email (PRO Recorder)",
           "artistName": "nFinity Inc",
@@ -1627,8 +1649,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 46,
+          "date": "2026-02-28",
+          "rank": 48,
           "id": "425341262",
           "name": "FTP Client Pro",
           "artistName": "LessIsMore Development",
@@ -1638,8 +1660,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 47,
+          "date": "2026-02-28",
+          "rank": 49,
           "id": "642651764",
           "name": "レシピ原価計算",
           "artistName": "39Software",
@@ -1649,8 +1671,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 48,
+          "date": "2026-02-28",
+          "rank": 50,
           "id": "518520141",
           "name": "シフト表",
           "artistName": "39Software",
@@ -1660,8 +1682,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 49,
+          "date": "2026-02-28",
+          "rank": 51,
           "id": "428974099",
           "name": "Mail+ for Outlook",
           "artistName": "MAIL PLUS APP LLC",
@@ -1671,8 +1693,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 50,
+          "date": "2026-02-28",
+          "rank": 52,
           "id": "370524824",
           "name": "税理Pro給与限定版",
           "artistName": "System Approach",
@@ -1682,8 +1704,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 51,
+          "date": "2026-02-28",
+          "rank": 53,
+          "id": "288362053",
+          "name": "Remote Desktop - RDP",
+          "artistName": "MochaSoft",
+          "kind": "Business",
+          "releaseDate": "2019-02-12T00:00:00-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/8f/e1/238fe1a3-1d96-c23d-3335-e363b5ac5882/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 54,
           "id": "599401140",
           "name": "損益分岐点Ａ",
           "artistName": "39Software",
@@ -1693,8 +1726,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 52,
+          "date": "2026-02-28",
+          "rank": 55,
           "id": "536986637",
           "name": "顧客・予約管理",
           "artistName": "39Software",
@@ -1704,19 +1737,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 53,
-          "id": "595620577",
-          "name": "商談即決　〜営業電卓〜",
-          "artistName": "System Approach",
-          "kind": "Business",
-          "releaseDate": "2013-01-30T17:59:51-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/71/0f/45710f21-67ea-33ae-47e5-ccdacdacd7d4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 54,
+          "date": "2026-02-28",
+          "rank": 56,
           "id": "484856077",
           "name": "File Manager - Folder Plus",
           "artistName": "The Very Games",
@@ -1726,8 +1748,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 55,
+          "date": "2026-02-28",
+          "rank": 57,
           "id": "427761719",
           "name": "PrintCentral Pro for iPhone",
           "artistName": "EuroSmartz Ltd",
@@ -1737,8 +1759,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 56,
+          "date": "2026-02-28",
+          "rank": 58,
           "id": "1048459282",
           "name": "MY宅配便PRO版（荷物配達追跡公式アプリ）",
           "artistName": "KSY Studio",
@@ -1748,8 +1770,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 57,
+          "date": "2026-02-28",
+          "rank": 59,
           "id": "946930094",
           "name": "FineReader Pro: PDF Scanner",
           "artistName": "ABBYY USA Software House Inc",
@@ -1759,8 +1781,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 58,
+          "date": "2026-02-28",
+          "rank": 60,
           "id": "333211045",
           "name": "WorldCard Mobile",
           "artistName": "Penpower Technology Ltd.",
@@ -1770,8 +1792,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 59,
+          "date": "2026-02-28",
+          "rank": 61,
           "id": "310425060",
           "name": "WiFi HD - Instant Hard Drive SMB Network Server Share",
           "artistName": "Savy Soda Pty Ltd",
@@ -1781,8 +1803,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 60,
+          "date": "2026-02-28",
+          "rank": 62,
           "id": "800361774",
           "name": "名簿・出欠管理",
           "artistName": "39Software",
@@ -1792,19 +1814,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 61,
+          "date": "2026-02-28",
+          "rank": 63,
           "id": "595163063",
           "name": "経営分析",
           "artistName": "39Software",
           "kind": "Business",
           "releaseDate": "2013-01-25T15:56:31-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/2b/02/1d2b022c-ec74-0b87-9064-36dce835e07c/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/jp/app/%E7%B5%8C%E5%96%B6%E5%88%86%E6%9E%90/id595163063?uo=2"
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/2e/82/e22e82ad-a5e6-6ecd-0832-90abee63cf28/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+          "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 62,
+          "date": "2026-02-28",
+          "rank": 64,
           "id": "1091908959",
           "name": "現場DEカメラPRO",
           "artistName": "DATT JAPAN Inc.",
@@ -1814,8 +1836,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 63,
+          "date": "2026-02-28",
+          "rank": 65,
           "id": "353483464",
           "name": "EagleEyes-plus",
           "artistName": "Avtech",
@@ -1825,8 +1847,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 64,
+          "date": "2026-02-28",
+          "rank": 66,
           "id": "723276806",
           "name": "複数カウンター Pro",
           "artistName": "EIICHI KOMINE",
@@ -1836,8 +1858,19 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 65,
+          "date": "2026-02-28",
+          "rank": 67,
+          "id": "1441926695",
+          "name": "おとノート PRO : AI録音アプリ 会議録・講義録音",
+          "artistName": "Newkline Co., Ltd.",
+          "kind": "Business",
+          "releaseDate": "2018-11-16T02:57:22-07:00",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/2d/27/442d271d-18dd-7ab9-e8e4-094714d87410/AppIcon-PRO-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+          "url": ""
+        },
+        {
+          "date": "2026-02-28",
+          "rank": 68,
           "id": "303513289",
           "name": "Free WiFi",
           "artistName": "Makayama.com",
@@ -1847,19 +1880,8 @@
           "url": "https://apps.apple.com/jp/app/free-wifi/id303513289?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 66,
-          "id": "1073321854",
-          "name": "介護電卓",
-          "artistName": "39Software",
-          "kind": "Business",
-          "releaseDate": "2016-01-23T11:08:28-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/61/a3/5661a321-98d2-c486-7dfb-182ede116c83/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 67,
+          "date": "2026-02-28",
+          "rank": 69,
           "id": "1604065880",
           "name": "パソコンスキル_ショートカットキー、関数",
           "artistName": "Takamitsu Tomioka",
@@ -1869,8 +1891,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 68,
+          "date": "2026-02-28",
+          "rank": 70,
           "id": "556849947",
           "name": "直角三角形の斜辺の長さ計算電卓",
           "artistName": "Takaaki Sasaki",
@@ -1880,8 +1902,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 69,
+          "date": "2026-02-28",
+          "rank": 71,
           "id": "413816908",
           "name": "経営者名言",
           "artistName": "Li Guo",
@@ -1891,8 +1913,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 70,
+          "date": "2026-02-28",
+          "rank": 72,
           "id": "478861246",
           "name": "Doc Scan Pro - PDF Scanner",
           "artistName": "IFUNPLAY CO., LTD.",
@@ -1902,8 +1924,8 @@
           "url": "https://apps.apple.com/jp/app/doc-scan-pro-pdf-scanner/id478861246?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 71,
+          "date": "2026-02-28",
+          "rank": 73,
           "id": "799182514",
           "name": "チラシと招待状クリエーター",
           "artistName": "MULTI MOBILE Ltd",
@@ -1913,8 +1935,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 72,
+          "date": "2026-02-28",
+          "rank": 74,
           "id": "294934058",
           "name": "HotSchedules",
           "artistName": "HotSchedules",
@@ -1924,8 +1946,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 73,
+          "date": "2026-02-28",
+          "rank": 75,
           "id": "558160040",
           "name": "vMEyeCloud",
           "artistName": "Guangzhou Kedi Intelligence Technology Co., Ltd.",
@@ -1935,8 +1957,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 74,
+          "date": "2026-02-28",
+          "rank": 76,
           "id": "525300451",
           "name": "マイPOSレジ顧客",
           "artistName": "39Software",
@@ -1946,8 +1968,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 75,
+          "date": "2026-02-28",
+          "rank": 77,
           "id": "289968941",
           "name": "Network Ping",
           "artistName": "MochaSoft",
@@ -1957,8 +1979,8 @@
           "url": "https://apps.apple.com/jp/app/network-ping/id289968941?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 76,
+          "date": "2026-02-28",
+          "rank": 78,
           "id": "648164617",
           "name": "日報入力",
           "artistName": "SHOGO MATSUNAGA",
@@ -1968,8 +1990,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 77,
+          "date": "2026-02-28",
+          "rank": 79,
           "id": "418331607",
           "name": "Tiff Fax Viewer+",
           "artistName": "Corporate Smalltalk Consulting Ltd",
@@ -1979,8 +2001,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 78,
+          "date": "2026-02-28",
+          "rank": 80,
           "id": "304568216",
           "name": "vTie Premium - ネクタイ - tie a tie guide with style for occasions like a business meeting, interview, wedding, party",
           "artistName": "lab48",
@@ -1990,8 +2012,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 79,
+          "date": "2026-02-28",
+          "rank": 81,
           "id": "921217360",
           "name": "QR工房 Pro",
           "artistName": "芸倩 潘",
@@ -2001,8 +2023,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 80,
+          "date": "2026-02-28",
+          "rank": 82,
           "id": "527824157",
           "name": "評価シート",
           "artistName": "39Software",
@@ -2012,8 +2034,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 81,
+          "date": "2026-02-28",
+          "rank": 83,
           "id": "400360226",
           "name": "CivilCalc02",
           "artistName": "AiWings Corporation",
@@ -2023,8 +2045,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 82,
+          "date": "2026-02-28",
+          "rank": 84,
           "id": "423213182",
           "name": "inShort",
           "artistName": "Jury Shortki",
@@ -2034,8 +2056,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 83,
+          "date": "2026-02-28",
+          "rank": 85,
           "id": "1335337327",
           "name": "営業くん2",
           "artistName": "Connect.co.ltd",
@@ -2045,8 +2067,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 84,
+          "date": "2026-02-28",
+          "rank": 86,
           "id": "532997527",
           "name": "Auto Refresh 5",
           "artistName": "永涛 宗",
@@ -2056,8 +2078,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 85,
+          "date": "2026-02-28",
+          "rank": 87,
           "id": "608985698",
           "name": "VesselFinder Pro",
           "artistName": "AstraPaging Ltd.",
@@ -2067,8 +2089,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 86,
+          "date": "2026-02-28",
+          "rank": 88,
           "id": "412588865",
           "name": "USB Disk Pro for iPhone",
           "artistName": "Imesart S.a.r.l.",
@@ -2078,8 +2100,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 87,
+          "date": "2026-02-28",
+          "rank": 89,
           "id": "333212604",
           "name": "蒙恬名片王Mobile",
           "artistName": "Penpower Technology Ltd.",
@@ -2089,8 +2111,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 88,
+          "date": "2026-02-28",
+          "rank": 90,
           "id": "581686684",
           "name": "タイムレコーダー",
           "artistName": "39Software",
@@ -2100,8 +2122,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 89,
+          "date": "2026-02-28",
+          "rank": 91,
           "id": "1052656723",
           "name": "損益分岐点B",
           "artistName": "39Software",
@@ -2111,8 +2133,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 90,
+          "date": "2026-02-28",
+          "rank": 92,
           "id": "901041593",
           "name": "日報作成",
           "artistName": "SHOGO MATSUNAGA",
@@ -2122,8 +2144,8 @@
           "url": "https://apps.apple.com/jp/app/%E6%97%A5%E5%A0%B1%E4%BD%9C%E6%88%90/id901041593?uo=2"
         },
         {
-          "date": "2026-03-01",
-          "rank": 91,
+          "date": "2026-02-28",
+          "rank": 93,
           "id": "290160980",
           "name": "Audio Memos Pro",
           "artistName": "Imesart S.a.r.l.",
@@ -2133,8 +2155,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 92,
+          "date": "2026-02-28",
+          "rank": 94,
           "id": "1312256518",
           "name": "音声翻訳 & 音声通訳 Pro",
           "artistName": "吉华 郑",
@@ -2144,8 +2166,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 93,
+          "date": "2026-02-28",
+          "rank": 95,
           "id": "1041803365",
           "name": "P-Timer ～プレゼンタイマー～",
           "artistName": "Yoshiaki Onishi",
@@ -2155,8 +2177,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 94,
+          "date": "2026-02-28",
+          "rank": 96,
           "id": "936694037",
           "name": "Voice Recorder : レコードオーディオ",
           "artistName": "LiveBird Technologies Private Limited",
@@ -2166,8 +2188,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 95,
+          "date": "2026-02-28",
+          "rank": 97,
           "id": "401454706",
           "name": "Projectionist",
           "artistName": "Neodarque",
@@ -2177,8 +2199,8 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 96,
+          "date": "2026-02-28",
+          "rank": 98,
           "id": "899313582",
           "name": "PDFメーカー - 編集文書、文書に署名、PDFに注釈を付ける、画像を追加、PDFに変換",
           "artistName": "MULTI MOBILE Ltd",
@@ -2188,36 +2210,14 @@
           "url": ""
         },
         {
-          "date": "2026-03-01",
-          "rank": 97,
+          "date": "2026-02-28",
+          "rank": 99,
           "id": "1457179050",
           "name": "無線資格統合版",
           "artistName": "harada keiko",
           "kind": "Business",
           "releaseDate": "2019-09-03T00:00:00-07:00",
           "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/c2/49/c7c249df-bc30-5f13-0539-7ad5ba774f5f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 98,
-          "id": "796959408",
-          "name": "切削回転送り２",
-          "artistName": "Tetsuya Morikawa",
-          "kind": "Business",
-          "releaseDate": "2014-01-20T09:54:51-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/e7/0f/fce70f78-5c64-f63d-f7a1-55be34287e58/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-          "url": ""
-        },
-        {
-          "date": "2026-03-01",
-          "rank": 99,
-          "id": "756850885",
-          "name": "旋削回転送りPro",
-          "artistName": "Tetsuya Morikawa",
-          "kind": "Business",
-          "releaseDate": "2013-11-22T15:50:29-07:00",
-          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/50/de/2250de2f-85af-07c4-a048-cbbcab6a2e2f/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/100x100bb.png",
           "url": ""
         }
       ]
