@@ -6,7 +6,7 @@
   "limit": 100,
   "genre": "6000",
   "source": "https://itunes.apple.com/us/rss/toppaidapplications/limit=100/genre=6000/json",
-  "total": 96,
+  "total": 95,
   "items": [
     {
       "date": "2026-02-17",
@@ -125,7 +125,7 @@
       "name": "海关税则速查 - 2026海关税则查询海关编码查询进出口关税",
       "artistName": "Wuhan Xingyun Technology Co., Ltd.",
       "kind": "Business",
-      "releaseDate": "2026-02-16T06:26:03-07:00",
+      "releaseDate": "2026-02-16T00:00:00-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/f7/64/d1f7642e-727a-4958-1cc0-4132636f7837/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "url": "https://apps.apple.com/us/app/%E6%B5%B7%E5%85%B3%E7%A8%8E%E5%88%99%E9%80%9F%E6%9F%A5-2026%E6%B5%B7%E5%85%B3%E7%A8%8E%E5%88%99%E6%9F%A5%E8%AF%A2%E6%B5%B7%E5%85%B3%E7%BC%96%E7%A0%81%E6%9F%A5%E8%AF%A2%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%85%B3%E7%A8%8E/id6759132280?uo=2"
     },
@@ -198,6 +198,17 @@
     {
       "date": "2026-02-17",
       "rank": 18,
+      "id": "608985698",
+      "name": "VesselFinder Pro",
+      "artistName": "AstraPaging Ltd.",
+      "kind": "Business",
+      "releaseDate": "2013-03-05T11:27:10-07:00",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f5/3c/96f53c87-a52b-2c39-0635-693698e1528f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": ""
+    },
+    {
+      "date": "2026-02-17",
+      "rank": 19,
       "id": "427761719",
       "name": "PrintCentral Pro for iPhone",
       "artistName": "EuroSmartz Ltd",
@@ -208,7 +219,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 19,
+      "rank": 20,
       "id": "892393815",
       "name": "Awesome Voice Recorder PRO AVR",
       "artistName": "Newkline Co., Ltd.",
@@ -219,7 +230,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 20,
+      "rank": 21,
       "id": "480486428",
       "name": "Construction Cost Estimator",
       "artistName": "Wasatch Digital Media, Inc.",
@@ -230,7 +241,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 21,
+      "rank": 22,
       "id": "428974099",
       "name": "Mail+ for Outlook",
       "artistName": "MAIL PLUS APP LLC",
@@ -241,7 +252,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 22,
+      "rank": 23,
       "id": "6475929340",
       "name": "Simplefax - fax app",
       "artistName": "Furnace Creek Software LLC",
@@ -252,7 +263,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 23,
+      "rank": 24,
       "id": "538386564",
       "name": "VSD Viewer for Visio Drawings",
       "artistName": "Nektony LLC",
@@ -263,7 +274,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 24,
+      "rank": 25,
       "id": "468090416",
       "name": "business card scanner-sam pro",
       "artistName": "娜 林",
@@ -274,7 +285,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 25,
+      "rank": 26,
       "id": "774662043",
       "name": "Quick2257",
       "artistName": "Lawrence Walters",
@@ -285,7 +296,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 26,
+      "rank": 27,
       "id": "6744589481",
       "name": "Chicken Planner",
       "artistName": "H3 Apps, LLC",
@@ -296,7 +307,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 27,
+      "rank": 28,
       "id": "947570629",
       "name": "Drywall Contractor",
       "artistName": "Pete Wilson",
@@ -307,7 +318,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 28,
+      "rank": 29,
       "id": "6738116695",
       "name": "Video Speed Controller.",
       "artistName": "泳诗 陈",
@@ -318,7 +329,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 29,
+      "rank": 30,
       "id": "6745492119",
       "name": "1 Business Card",
       "artistName": "Hassan Falou",
@@ -329,7 +340,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 30,
+      "rank": 31,
       "id": "1119117405",
       "name": "SketchCut PRO",
       "artistName": "Vladimir Rudenko",
@@ -340,7 +351,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 31,
+      "rank": 32,
       "id": "867478383",
       "name": "Gamma Calculator Pro",
       "artistName": "Gerrit kleyn Winkel",
@@ -351,7 +362,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 32,
+      "rank": 33,
       "id": "953739548",
       "name": "Contacts2XL",
       "artistName": "Technomagination, LLC",
@@ -362,7 +373,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 33,
+      "rank": 34,
       "id": "1556128361",
       "name": "SoftToken",
       "artistName": "David Southgate",
@@ -373,7 +384,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 34,
+      "rank": 35,
       "id": "430034169",
       "name": "Payrollguru",
       "artistName": "Payrollguru, Inc.",
@@ -384,7 +395,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 35,
+      "rank": 36,
       "id": "586166344",
       "name": "Fast Scanner - PDF Doc Scan",
       "artistName": "Hang Nguyen",
@@ -395,7 +406,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 36,
+      "rank": 37,
       "id": "837019622",
       "name": "Database Manager for MS Access",
       "artistName": "强 李",
@@ -406,7 +417,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 37,
+      "rank": 38,
       "id": "522627917",
       "name": "FTPManager Pro",
       "artistName": "Skyjos Co., Ltd.",
@@ -417,7 +428,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 38,
+      "rank": 39,
       "id": "528727630",
       "name": "Percentages Calculator",
       "artistName": "Thomas Tsopanakis",
@@ -428,7 +439,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 39,
+      "rank": 40,
       "id": "1551539091",
       "name": "NFC Business Card - Read Write",
       "artistName": "Dan Merlea",
@@ -439,7 +450,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 40,
+      "rank": 41,
       "id": "379262343",
       "name": "SA Contacts",
       "artistName": "ShenZhen SamApp Technology Development Co., Ltd",
@@ -450,7 +461,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 41,
+      "rank": 42,
       "id": "307868751",
       "name": "JotNot Scanner App Pro",
       "artistName": "MobiTech 3000 LLC",
@@ -461,7 +472,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 42,
+      "rank": 43,
       "id": "590313779",
       "name": "FormConnect Pro",
       "artistName": "FormConnections, Inc.",
@@ -472,7 +483,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 43,
+      "rank": 44,
       "id": "1585551136",
       "name": "Candle Calculator: Cost,Weight",
       "artistName": "Payal Seth",
@@ -483,7 +494,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 44,
+      "rank": 45,
       "id": "285750155",
       "name": "iRecorder Pro Audio Recorder",
       "artistName": "SIMPLETOUCH LLC",
@@ -494,7 +505,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 45,
+      "rank": 46,
       "id": "347345474",
       "name": "ABBYY Business Card Reader Pro",
       "artistName": "ABBYY USA Software House Inc",
@@ -505,7 +516,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 46,
+      "rank": 47,
       "id": "699434089",
       "name": "QuickPlan - Project Gantt Plan",
       "artistName": "皓 李",
@@ -516,7 +527,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 47,
+      "rank": 48,
       "id": "1273371824",
       "name": "ASHRAE HVAC Duct Sizer",
       "artistName": "ASHRAE, Inc.",
@@ -527,7 +538,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 48,
+      "rank": 49,
       "id": "6745806705",
       "name": "Patrol Prep: Police Exam Coach",
       "artistName": "Examp, LLC",
@@ -538,7 +549,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 49,
+      "rank": 50,
       "id": "401818935",
       "name": "Genius Scan Enterprise - PDF",
       "artistName": "The Grizzly Labs",
@@ -549,7 +560,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 50,
+      "rank": 51,
       "id": "364502063",
       "name": "PDF Reader Pro Edition®",
       "artistName": "iTECH DEVELOPMENT SYSTEMS INC.",
@@ -560,24 +571,13 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 51,
+      "rank": 52,
       "id": "789933121",
       "name": "SunLync Mobile Manager",
       "artistName": "SunLync",
       "kind": "Business",
       "releaseDate": "2014-01-07T12:53:01-07:00",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4b/98/b1/4b98b1dc-9264-e989-8e82-9fd72ae05649/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/100x100bb.png",
-      "url": ""
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 52,
-      "id": "608985698",
-      "name": "VesselFinder Pro",
-      "artistName": "AstraPaging Ltd.",
-      "kind": "Business",
-      "releaseDate": "2013-03-05T11:27:10-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f5/3c/96f53c87-a52b-2c39-0635-693698e1528f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "url": ""
     },
     {
@@ -792,17 +792,6 @@
     {
       "date": "2026-02-17",
       "rank": 72,
-      "id": "6756393699",
-      "name": "Jewelers Flow",
-      "artistName": "William Corona",
-      "kind": "Business",
-      "releaseDate": "2026-02-15T00:00:00-07:00",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/8c/42/f28c42f5-1081-69dd-bd7a-2410b175d0f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "url": "https://apps.apple.com/us/app/jewelers-flow/id6756393699?uo=2"
-    },
-    {
-      "date": "2026-02-17",
-      "rank": 73,
       "id": "288362053",
       "name": "Remote Desktop - RDP",
       "artistName": "MochaSoft",
@@ -813,7 +802,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 74,
+      "rank": 73,
       "id": "1447325991",
       "name": "FaxCover - Fax Cover Sheet",
       "artistName": "Actual Software Inc.",
@@ -824,7 +813,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 75,
+      "rank": 74,
       "id": "412366083",
       "name": "CameraVision",
       "artistName": "Masayuki Akamatsu",
@@ -835,7 +824,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 76,
+      "rank": 75,
       "id": "1073890173",
       "name": "WebToZebraPrint",
       "artistName": "Natuurnetwerk BV",
@@ -846,7 +835,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 77,
+      "rank": 76,
       "id": "908554933",
       "name": "Flood Zone Map",
       "artistName": "Ikonetics",
@@ -857,7 +846,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 78,
+      "rank": 77,
       "id": "1554333435",
       "name": "ITI Calc",
       "artistName": "Calculated Industries",
@@ -868,7 +857,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 79,
+      "rank": 78,
       "id": "1617910987",
       "name": "Countertops Draw",
       "artistName": "Simple App Solutions",
@@ -879,7 +868,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 80,
+      "rank": 79,
       "id": "1241924385",
       "name": "Make a Receipt",
       "artistName": "Saketh Ashvapuram",
@@ -890,7 +879,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 81,
+      "rank": 80,
       "id": "425341262",
       "name": "FTP Client Pro",
       "artistName": "LessIsMore Development",
@@ -901,7 +890,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 82,
+      "rank": 81,
       "id": "552688042",
       "name": "Shop It Timer Notes",
       "artistName": "Saketh Ashvapuram",
@@ -912,7 +901,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 83,
+      "rank": 82,
       "id": "289968941",
       "name": "Network Ping",
       "artistName": "MochaSoft",
@@ -923,7 +912,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 84,
+      "rank": 83,
       "id": "478861246",
       "name": "Doc Scan Pro - PDF Scanner",
       "artistName": "IFUNPLAY CO., LTD.",
@@ -934,7 +923,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 85,
+      "rank": 84,
       "id": "1619688401",
       "name": "Batch Mix",
       "artistName": "Stat Central LLC",
@@ -945,7 +934,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 86,
+      "rank": 85,
       "id": "1190039538",
       "name": "Notes - Professional",
       "artistName": "LiveBird Technologies Private Limited",
@@ -956,7 +945,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 87,
+      "rank": 86,
       "id": "883101890",
       "name": "PDF Reader Pro - Sign,Edit PDF",
       "artistName": "PDF Technologies, Inc.",
@@ -967,7 +956,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 88,
+      "rank": 87,
       "id": "6743064135",
       "name": "Cattle Weight Estimator",
       "artistName": "H3 Apps, LLC",
@@ -978,7 +967,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 89,
+      "rank": 88,
       "id": "1126113478",
       "name": "Touchscreen Test",
       "artistName": "Vishal Singh",
@@ -989,7 +978,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 90,
+      "rank": 89,
       "id": "1103030637",
       "name": "Napurolia",
       "artistName": "Natulals para mi Vida, S.A. de C.V.",
@@ -1000,7 +989,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 91,
+      "rank": 90,
       "id": "382005326",
       "name": "GContact",
       "artistName": "EJing",
@@ -1011,7 +1000,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 92,
+      "rank": 91,
       "id": "992941305",
       "name": "Mud Engineer",
       "artistName": "bader alshammari",
@@ -1022,7 +1011,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 93,
+      "rank": 92,
       "id": "1487387338",
       "name": "Integrity Plumbing Solutions",
       "artistName": "Integrity Plumbing Solutions LLC",
@@ -1033,7 +1022,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 94,
+      "rank": 93,
       "id": "1119355581",
       "name": "CortexID",
       "artistName": "Code Corp",
@@ -1044,7 +1033,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 95,
+      "rank": 94,
       "id": "522706442",
       "name": "Sync Folders Pro",
       "artistName": "VADIM ZYBIN",
@@ -1055,7 +1044,7 @@
     },
     {
       "date": "2026-02-17",
-      "rank": 96,
+      "rank": 95,
       "id": "447459162",
       "name": "Liberty Item Entry",
       "artistName": "Resaleworld.com, Inc.",
